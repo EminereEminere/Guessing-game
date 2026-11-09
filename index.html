@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="theme-color" content="#1b2433">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Just Us">
+  <title>Just Us · Couples Cards</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-level="normal">
+  <header class="topbar">
+    <button class="deck" id="deck" type="button" aria-label="Draw a card">
+      <span class="deck-card deck-card--3"></span>
+      <span class="deck-card deck-card--2"></span>
+      <span class="deck-card deck-card--1" id="deckTop"></span>
+      <span class="deck-count" id="deckCount">50</span>
+    </button>
+
+    <div class="brand">
+      <span class="brand-name">Just Us</span>
+      <span class="brand-sub" id="levelSub">Normal</span>
+    </div>
+
+    <div class="level-wrap">
+      <button class="level-btn" id="levelBtn" type="button" aria-haspopup="listbox" aria-expanded="false" aria-label="Spicy level">
+        <span class="heat" id="levelHeat" aria-hidden="true"></span>
+        <svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <ul class="level-menu" id="levelMenu" role="listbox" hidden></ul>
+    </div>
+  </header>
+
+  <main class="stage" id="stage">
+    <button class="hint" id="hint" type="button">
+      <svg class="hint-arrow" viewBox="0 0 48 48" aria-hidden="true"><path d="M38 40C24 38 14 28 12 12m0 0-6 8m6-8 8 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span class="hint-en">Tap the deck to draw a card</span>
+      <span class="hint-pt">Toque no baralho para tirar uma carta</span>
+    </button>
+  </main>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
