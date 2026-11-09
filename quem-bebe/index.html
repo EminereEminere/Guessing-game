@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="theme-color" content="#1a1226">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Quem Bebe?">
+  <title>Quem Bebe? · Who Drinks?</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ===== Setup: player names ===== -->
+  <section class="screen setup" id="setup">
+    <div class="setup-inner">
+      <div class="logo" aria-hidden="true">🍻</div>
+      <h1 class="title">Quem Bebe?</h1>
+      <p class="subtitle">Who drinks? · The couples quiz</p>
+
+      <form id="setupForm" class="setup-form" autocomplete="off">
+        <label class="field field--p1">
+          <span class="field-label">Player 1 · Jogador 1</span>
+          <input id="name1" name="name1" type="text" maxlength="14" placeholder="Name / Nome" required>
+        </label>
+        <label class="field field--p2">
+          <span class="field-label">Player 2 · Jogador 2</span>
+          <input id="name2" name="name2" type="text" maxlength="14" placeholder="Name / Nome" required>
+        </label>
+        <button class="btn btn--primary" type="submit">Start · Começar</button>
+      </form>
+
+      <ul class="rules">
+        <li>Take turns · Revezem: each round, 3 questions per player · 3 perguntas por jogador</li>
+        <li>Pick a category deck & tap an answer · Escolha um baralho e toque numa resposta</li>
+        <li>Fewest points in the round drinks · Quem fizer menos pontos bebe 🍷</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===== Game ===== -->
+  <section class="screen game" id="game" hidden>
+    <header class="scoreboard" id="scoreboard">
+      <div class="player player--p1" id="p1">
+        <span class="player-name" id="p1Name"></span>
+        <span class="player-score" id="p1Score">0</span>
+        <span class="player-dots" id="p1Dots"></span>
+      </div>
+      <button class="round-btn" id="menuBtn" type="button" aria-label="Menu">
+        <span class="round-label">Round</span>
+        <span class="round-num" id="roundNum">1</span>
+      </button>
+      <div class="player player--p2" id="p2">
+        <span class="player-name" id="p2Name"></span>
+        <span class="player-score" id="p2Score">0</span>
+        <span class="player-dots" id="p2Dots"></span>
+      </div>
+    </header>
+
+    <main class="table" id="table">
+      <div class="turn">
+        <p class="turn-who" id="turnWho"></p>
+        <p class="turn-hint">Pick a deck · Escolha um baralho</p>
+      </div>
+      <div class="decks" id="decks"></div>
+    </main>
+
+    <!-- Drawn card (takes the whole screen below the scoreboard) -->
+    <div class="card-layer" id="cardLayer" hidden>
+      <article class="card" id="card">
+        <div class="card-top">
+          <span class="chip" id="cardCat"></span>
+          <span class="chip chip--level" id="cardLevel"></span>
+        </div>
+        <p class="card-for" id="cardFor"></p>
+        <h2 class="q-en" id="qEn"></h2>
+        <p class="q-pt" id="qPt"></p>
+        <ol class="options" id="options"></ol>
+        <div class="feedback" id="feedback" hidden>
+          <p class="feedback-text" id="feedbackText"></p>
+          <button class="btn btn--primary" id="nextBtn" type="button"></button>
+        </div>
+      </article>
+    </div>
+
+    <!-- Round result -->
+    <div class="result-layer" id="resultLayer" hidden>
+      <div class="result">
+        <p class="result-round" id="resultRound"></p>
+        <div class="result-emoji" aria-hidden="true">🍻</div>
+        <h2 class="result-who" id="resultWho"></h2>
+        <p class="result-pt" id="resultPt"></p>
+        <div class="result-table" id="resultTable"></div>
+        <button class="btn btn--primary" id="nextRoundBtn" type="button">Next round · Próxima rodada</button>
+      </div>
+    </div>
+
+    <!-- Menu -->
+    <div class="menu-layer" id="menuLayer" hidden>
+      <div class="menu">
+        <button class="btn" id="resumeBtn" type="button">Back to game · Voltar ao jogo</button>
+        <button class="btn btn--danger" id="newGameBtn" type="button">New game · Novo jogo</button>
+      </div>
+    </div>
+  </section>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
