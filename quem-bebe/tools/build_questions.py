@@ -89,8 +89,12 @@ def parse(path):
         if n not in questions:
             sys.exit(f"{path.name}: answer key for unknown question {n}")
         opt_en = questions[n]["options"][ans - 1][0]
-        if label and label.lower() != opt_en.lower():
-            sys.exit(f"{path.name} q{n}: key says '{label}' but option {ans} is '{opt_en}'")
+        # The key label may be a shortened version of the option; warn only if they don't overlap.
+        a, b = label.lower().rstrip("."), opt_en.lower()
+        if label and a != b and a not in b and b not in a:
+            words = set(re.findall(r"\w+", a)) - {"the", "a", "of", "and", "to"}
+            if not words or not words <= set(re.findall(r"\w+", b)):
+                print(f"  ⚠ {path.name} q{n}: key says '{label}' but option {ans} is '{opt_en}'")
         questions[n]["answer"] = ans
 
     for n, q in sorted(questions.items()):

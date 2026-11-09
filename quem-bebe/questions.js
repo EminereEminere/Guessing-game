@@ -2,9 +2,9 @@
 // answer = number of the correct option (1-4).
 window.QUIZ_CATEGORIES = [
  {
-  "id": "geography",
-  "en": "Geography",
-  "pt": "Geografia",
+  "id": "01-world-geography",
+  "en": "World Geography",
+  "pt": "Geografia Mundial",
   "icon": "🌍",
   "questions": [
    {
@@ -1303,6 +1303,10470 @@ window.QUIZ_CATEGORIES = [
      [
       "Guinea",
       "Guiné"
+     ]
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "02-brazil-geography",
+  "en": "Brazil Geography",
+  "pt": "Geografia do Brasil",
+  "icon": "🇧🇷",
+  "questions": [
+   {
+    "level": "easy",
+    "q": [
+     "What is the capital of Brazil?",
+     "Qual é a capital do Brasil?"
+    ],
+    "options": [
+     [
+      "Rio de Janeiro",
+      "Rio de Janeiro"
+     ],
+     [
+      "São Paulo",
+      "São Paulo"
+     ],
+     [
+      "Brasília",
+      "Brasília"
+     ],
+     [
+      "Salvador",
+      "Salvador"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which is the largest Brazilian state by area?",
+     "Qual é o maior estado brasileiro em extensão territorial?"
+    ],
+    "options": [
+     [
+      "Amazonas",
+      "Amazonas"
+     ],
+     [
+      "Pará",
+      "Pará"
+     ],
+     [
+      "Mato Grosso",
+      "Mato Grosso"
+     ],
+     [
+      "Minas Gerais",
+      "Minas Gerais"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which city is famous for the Christ the Redeemer statue?",
+     "Qual cidade é famosa pela estátua do Cristo Redentor?"
+    ],
+    "options": [
+     [
+      "São Paulo",
+      "São Paulo"
+     ],
+     [
+      "Rio de Janeiro",
+      "Rio de Janeiro"
+     ],
+     [
+      "Salvador",
+      "Salvador"
+     ],
+     [
+      "Recife",
+      "Recife"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which ocean borders Brazil?",
+     "Qual oceano banha o litoral brasileiro?"
+    ],
+    "options": [
+     [
+      "Pacific Ocean",
+      "Oceano Pacífico"
+     ],
+     [
+      "Indian Ocean",
+      "Oceano Índico"
+     ],
+     [
+      "Atlantic Ocean",
+      "Oceano Atlântico"
+     ],
+     [
+      "Arctic Ocean",
+      "Oceano Ártico"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Brazilian city is famous for its Carnival and Pelourinho?",
+     "Qual cidade brasileira é famosa pelo Carnaval e pelo Pelourinho?"
+    ],
+    "options": [
+     [
+      "Fortaleza",
+      "Fortaleza"
+     ],
+     [
+      "Salvador",
+      "Salvador"
+     ],
+     [
+      "Curitiba",
+      "Curitiba"
+     ],
+     [
+      "Manaus",
+      "Manaus"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the largest rainforest in Brazil?",
+     "Qual é a maior floresta tropical do Brasil?"
+    ],
+    "options": [
+     [
+      "Atlantic Forest",
+      "Mata Atlântica"
+     ],
+     [
+      "Amazon Rainforest",
+      "Floresta Amazônica"
+     ],
+     [
+      "Araucaria Forest",
+      "Mata de Araucárias"
+     ],
+     [
+      "Caatinga",
+      "Caatinga"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Brazilian state is famous for the city of Florianópolis?",
+     "Qual estado brasileiro é famoso pela cidade de Florianópolis?"
+    ],
+    "options": [
+     [
+      "Paraná",
+      "Paraná"
+     ],
+     [
+      "Rio Grande do Sul",
+      "Rio Grande do Sul"
+     ],
+     [
+      "Santa Catarina",
+      "Santa Catarina"
+     ],
+     [
+      "São Paulo",
+      "São Paulo"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which city is known as the capital of samba and is home to the Sambadrome?",
+     "Qual cidade é conhecida como a capital do samba e abriga o Sambódromo?"
+    ],
+    "options": [
+     [
+      "Rio de Janeiro",
+      "Rio de Janeiro"
+     ],
+     [
+      "Belo Horizonte",
+      "Belo Horizonte"
+     ],
+     [
+      "Recife",
+      "Recife"
+     ],
+     [
+      "Brasília",
+      "Brasília"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Brazilian state has the city of Recife as its capital?",
+     "Qual estado brasileiro tem Recife como capital?"
+    ],
+    "options": [
+     [
+      "Alagoas",
+      "Alagoas"
+     ],
+     [
+      "Pernambuco",
+      "Pernambuco"
+     ],
+     [
+      "Paraíba",
+      "Paraíba"
+     ],
+     [
+      "Ceará",
+      "Ceará"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which famous waterfalls are shared by Brazil and Argentina?",
+     "Quais famosas cataratas são compartilhadas pelo Brasil e pela Argentina?"
+    ],
+    "options": [
+     [
+      "Victoria Falls",
+      "Cataratas Vitória"
+     ],
+     [
+      "Niagara Falls",
+      "Cataratas do Niágara"
+     ],
+     [
+      "Iguazu Falls",
+      "Cataratas do Iguaçu"
+     ],
+     [
+      "Angel Falls",
+      "Salto Ángel"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Brazilian state is famous for the city of Manaus?",
+     "Qual estado brasileiro é famoso pela cidade de Manaus?"
+    ],
+    "options": [
+     [
+      "Pará",
+      "Pará"
+     ],
+     [
+      "Amazonas",
+      "Amazonas"
+     ],
+     [
+      "Acre",
+      "Acre"
+     ],
+     [
+      "Rondônia",
+      "Rondônia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Brazilian region contains the states of Bahia, Ceará and Pernambuco?",
+     "Qual região brasileira inclui os estados da Bahia, Ceará e Pernambuco?"
+    ],
+    "options": [
+     [
+      "North",
+      "Norte"
+     ],
+     [
+      "Northeast",
+      "Nordeste"
+     ],
+     [
+      "Southeast",
+      "Sudeste"
+     ],
+     [
+      "South",
+      "Sul"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which city is the largest in Brazil by population?",
+     "Qual é a maior cidade do Brasil em população?"
+    ],
+    "options": [
+     [
+      "Rio de Janeiro",
+      "Rio de Janeiro"
+     ],
+     [
+      "Brasília",
+      "Brasília"
+     ],
+     [
+      "São Paulo",
+      "São Paulo"
+     ],
+     [
+      "Salvador",
+      "Salvador"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which state is famous for the Lençóis Maranhenses National Park?",
+     "Qual estado é famoso pelo Parque Nacional dos Lençóis Maranhenses?"
+    ],
+    "options": [
+     [
+      "Piauí",
+      "Piauí"
+     ],
+     [
+      "Maranhão",
+      "Maranhão"
+     ],
+     [
+      "Ceará",
+      "Ceará"
+     ],
+     [
+      "Pará",
+      "Pará"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Brazilian state has Curitiba as its capital?",
+     "Qual estado brasileiro tem Curitiba como capital?"
+    ],
+    "options": [
+     [
+      "Santa Catarina",
+      "Santa Catarina"
+     ],
+     [
+      "Paraná",
+      "Paraná"
+     ],
+     [
+      "Rio Grande do Sul",
+      "Rio Grande do Sul"
+     ],
+     [
+      "São Paulo",
+      "São Paulo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian state is the only one whose capital is located on an island?",
+     "Qual estado brasileiro tem sua capital localizada em uma ilha?"
+    ],
+    "options": [
+     [
+      "Bahia",
+      "Bahia"
+     ],
+     [
+      "Espírito Santo",
+      "Espírito Santo"
+     ],
+     [
+      "Santa Catarina",
+      "Santa Catarina"
+     ],
+     [
+      "Rio Grande do Norte",
+      "Rio Grande do Norte"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which is the longest river entirely within Brazilian territory?",
+     "Qual é o rio mais longo inteiramente dentro do território brasileiro?"
+    ],
+    "options": [
+     [
+      "São Francisco River",
+      "Rio São Francisco"
+     ],
+     [
+      "Tocantins River",
+      "Rio Tocantins"
+     ],
+     [
+      "Paraná River",
+      "Rio Paraná"
+     ],
+     [
+      "Xingu River",
+      "Rio Xingu"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian state has the highest population?",
+     "Qual estado brasileiro tem a maior população?"
+    ],
+    "options": [
+     [
+      "Minas Gerais",
+      "Minas Gerais"
+     ],
+     [
+      "Rio de Janeiro",
+      "Rio de Janeiro"
+     ],
+     [
+      "São Paulo",
+      "São Paulo"
+     ],
+     [
+      "Bahia",
+      "Bahia"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which biome is characterized by dry vegetation and thorny plants in northeastern Brazil?",
+     "Qual bioma é caracterizado por vegetação seca e plantas espinhosas no Nordeste brasileiro?"
+    ],
+    "options": [
+     [
+      "Cerrado",
+      "Cerrado"
+     ],
+     [
+      "Caatinga",
+      "Caatinga"
+     ],
+     [
+      "Pantanal",
+      "Pantanal"
+     ],
+     [
+      "Pampa",
+      "Pampa"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian city is known as the Gateway to the Amazon?",
+     "Qual cidade brasileira é conhecida como a Porta de Entrada da Amazônia?"
+    ],
+    "options": [
+     [
+      "Belém",
+      "Belém"
+     ],
+     [
+      "Manaus",
+      "Manaus"
+     ],
+     [
+      "Rio Branco",
+      "Rio Branco"
+     ],
+     [
+      "Macapá",
+      "Macapá"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which state is home to the famous Chapada Diamantina National Park?",
+     "Qual estado abriga o famoso Parque Nacional da Chapada Diamantina?"
+    ],
+    "options": [
+     [
+      "Goiás",
+      "Goiás"
+     ],
+     [
+      "Bahia",
+      "Bahia"
+     ],
+     [
+      "Minas Gerais",
+      "Minas Gerais"
+     ],
+     [
+      "Tocantins",
+      "Tocantins"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian state is known for the city of Ouro Preto?",
+     "Qual estado brasileiro é conhecido pela cidade de Ouro Preto?"
+    ],
+    "options": [
+     [
+      "Minas Gerais",
+      "Minas Gerais"
+     ],
+     [
+      "Goiás",
+      "Goiás"
+     ],
+     [
+      "Bahia",
+      "Bahia"
+     ],
+     [
+      "Espírito Santo",
+      "Espírito Santo"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "In which Brazilian state is the Pantanal primarily located?",
+     "Em qual estado brasileiro está localizada a maior parte do Pantanal?"
+    ],
+    "options": [
+     [
+      "Paraná",
+      "Paraná"
+     ],
+     [
+      "Mato Grosso do Sul",
+      "Mato Grosso do Sul"
+     ],
+     [
+      "São Paulo",
+      "São Paulo"
+     ],
+     [
+      "Rondônia",
+      "Rondônia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian capital is located closest to the equator?",
+     "Qual capital brasileira está localizada mais próxima da linha do Equador?"
+    ],
+    "options": [
+     [
+      "Manaus",
+      "Manaus"
+     ],
+     [
+      "Belém",
+      "Belém"
+     ],
+     [
+      "Macapá",
+      "Macapá"
+     ],
+     [
+      "Boa Vista",
+      "Boa Vista"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian state has the city of Foz do Iguaçu?",
+     "Qual estado brasileiro abriga a cidade de Foz do Iguaçu?"
+    ],
+    "options": [
+     [
+      "Santa Catarina",
+      "Santa Catarina"
+     ],
+     [
+      "Paraná",
+      "Paraná"
+     ],
+     [
+      "Mato Grosso do Sul",
+      "Mato Grosso do Sul"
+     ],
+     [
+      "Rio Grande do Sul",
+      "Rio Grande do Sul"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which mountain range runs along parts of southeastern Brazil?",
+     "Qual cadeia de montanhas atravessa partes do Sudeste brasileiro?"
+    ],
+    "options": [
+     [
+      "Andes",
+      "Andes"
+     ],
+     [
+      "Serra do Mar",
+      "Serra do Mar"
+     ],
+     [
+      "Serra Nevada",
+      "Serra Nevada"
+     ],
+     [
+      "Cordillera Blanca",
+      "Cordilheira Branca"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian state has the highest number of municipalities?",
+     "Qual estado brasileiro possui o maior número de municípios?"
+    ],
+    "options": [
+     [
+      "Minas Gerais",
+      "Minas Gerais"
+     ],
+     [
+      "São Paulo",
+      "São Paulo"
+     ],
+     [
+      "Bahia",
+      "Bahia"
+     ],
+     [
+      "Rio Grande do Sul",
+      "Rio Grande do Sul"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which river forms part of the border between Brazil and Paraguay?",
+     "Qual rio forma parte da fronteira entre o Brasil e o Paraguai?"
+    ],
+    "options": [
+     [
+      "Amazon River",
+      "Rio Amazonas"
+     ],
+     [
+      "Paraná River",
+      "Rio Paraná"
+     ],
+     [
+      "São Francisco River",
+      "Rio São Francisco"
+     ],
+     [
+      "Negro River",
+      "Rio Negro"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian state is home to the Jalapão region?",
+     "Qual estado brasileiro abriga a região do Jalapão?"
+    ],
+    "options": [
+     [
+      "Goiás",
+      "Goiás"
+     ],
+     [
+      "Tocantins",
+      "Tocantins"
+     ],
+     [
+      "Maranhão",
+      "Maranhão"
+     ],
+     [
+      "Mato Grosso",
+      "Mato Grosso"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian capital is famous for its planned urban design and modernist architecture?",
+     "Qual capital brasileira é famosa pelo planejamento urbano e pela arquitetura modernista?"
+    ],
+    "options": [
+     [
+      "Goiânia",
+      "Goiânia"
+     ],
+     [
+      "Brasília",
+      "Brasília"
+     ],
+     [
+      "Belo Horizonte",
+      "Belo Horizonte"
+     ],
+     [
+      "Palmas",
+      "Palmas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian state is the smallest by area?",
+     "Qual é o menor estado brasileiro em extensão territorial?"
+    ],
+    "options": [
+     [
+      "Alagoas",
+      "Alagoas"
+     ],
+     [
+      "Sergipe",
+      "Sergipe"
+     ],
+     [
+      "Rio de Janeiro",
+      "Rio de Janeiro"
+     ],
+     [
+      "Espírito Santo",
+      "Espírito Santo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian region contains the state of Acre?",
+     "Qual região brasileira inclui o estado do Acre?"
+    ],
+    "options": [
+     [
+      "Northeast",
+      "Nordeste"
+     ],
+     [
+      "Central-West",
+      "Centro-Oeste"
+     ],
+     [
+      "North",
+      "Norte"
+     ],
+     [
+      "Southeast",
+      "Sudeste"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which river meets the Rio Negro near Manaus to form the Amazon River?",
+     "Qual rio encontra o Rio Negro perto de Manaus para formar o Rio Amazonas?"
+    ],
+    "options": [
+     [
+      "Madeira River",
+      "Rio Madeira"
+     ],
+     [
+      "Solimões River",
+      "Rio Solimões"
+     ],
+     [
+      "Tapajós River",
+      "Rio Tapajós"
+     ],
+     [
+      "Xingu River",
+      "Rio Xingu"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian city is known for its Oktoberfest celebration?",
+     "Qual cidade brasileira é conhecida pela celebração da Oktoberfest?"
+    ],
+    "options": [
+     [
+      "Blumenau",
+      "Blumenau"
+     ],
+     [
+      "Gramado",
+      "Gramado"
+     ],
+     [
+      "Joinville",
+      "Joinville"
+     ],
+     [
+      "Curitiba",
+      "Curitiba"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Brazilian state borders both Uruguay and Argentina?",
+     "Qual estado brasileiro faz fronteira com o Uruguai e a Argentina?"
+    ],
+    "options": [
+     [
+      "Santa Catarina",
+      "Santa Catarina"
+     ],
+     [
+      "Paraná",
+      "Paraná"
+     ],
+     [
+      "Rio Grande do Sul",
+      "Rio Grande do Sul"
+     ],
+     [
+      "Mato Grosso do Sul",
+      "Mato Grosso do Sul"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state has the highest average elevation?",
+     "Qual estado brasileiro possui a maior altitude média?"
+    ],
+    "options": [
+     [
+      "Minas Gerais",
+      "Minas Gerais"
+     ],
+     [
+      "Paraná",
+      "Paraná"
+     ],
+     [
+      "Santa Catarina",
+      "Santa Catarina"
+     ],
+     [
+      "Rio Grande do Sul",
+      "Rio Grande do Sul"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state contains the Serra da Capivara National Park, famous for prehistoric rock art?",
+     "Qual estado brasileiro abriga o Parque Nacional da Serra da Capivara, famoso por suas pinturas rupestres pré-históricas?"
+    ],
+    "options": [
+     [
+      "Ceará",
+      "Ceará"
+     ],
+     [
+      "Piauí",
+      "Piauí"
+     ],
+     [
+      "Bahia",
+      "Bahia"
+     ],
+     [
+      "Pernambuco",
+      "Pernambuco"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian capital is crossed by the Rio Guaíba?",
+     "Qual capital brasileira é banhada pelo Guaíba?"
+    ],
+    "options": [
+     [
+      "Florianópolis",
+      "Florianópolis"
+     ],
+     [
+      "Porto Alegre",
+      "Porto Alegre"
+     ],
+     [
+      "Curitiba",
+      "Curitiba"
+     ],
+     [
+      "Vitória",
+      "Vitória"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state has the highest number of neighboring countries?",
+     "Qual estado brasileiro faz fronteira com o maior número de países?"
+    ],
+    "options": [
+     [
+      "Amazonas",
+      "Amazonas"
+     ],
+     [
+      "Acre",
+      "Acre"
+     ],
+     [
+      "Roraima",
+      "Roraima"
+     ],
+     [
+      "Mato Grosso",
+      "Mato Grosso"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian river is famous for its seasonal underground or disappearing-water phenomenon in the Jalapão region?",
+     "Qual rio brasileiro é famoso pelo fenômeno de suas águas que desaparecem em trechos subterrâneos na região do Jalapão?"
+    ],
+    "options": [
+     [
+      "Rio Formoso",
+      "Rio Formoso"
+     ],
+     [
+      "Rio da Prata",
+      "Rio da Prata"
+     ],
+     [
+      "Rio Araguaia",
+      "Rio Araguaia"
+     ],
+     [
+      "Rio São Francisco",
+      "Rio São Francisco"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state contains the Serra do Roncador?",
+     "Qual estado brasileiro abriga a Serra do Roncador?"
+    ],
+    "options": [
+     [
+      "Goiás",
+      "Goiás"
+     ],
+     [
+      "Mato Grosso",
+      "Mato Grosso"
+     ],
+     [
+      "Pará",
+      "Pará"
+     ],
+     [
+      "Tocantins",
+      "Tocantins"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian capital is located on the island of São Luís?",
+     "Qual capital brasileira está localizada na ilha de São Luís?"
+    ],
+    "options": [
+     [
+      "Teresina",
+      "Teresina"
+     ],
+     [
+      "São Luís",
+      "São Luís"
+     ],
+     [
+      "Belém",
+      "Belém"
+     ],
+     [
+      "Natal",
+      "Natal"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state contains the highest point in Brazil, Pico da Neblina?",
+     "Qual estado brasileiro abriga o ponto mais alto do Brasil, o Pico da Neblina?"
+    ],
+    "options": [
+     [
+      "Pará",
+      "Pará"
+     ],
+     [
+      "Amazonas",
+      "Amazonas"
+     ],
+     [
+      "Roraima",
+      "Roraima"
+     ],
+     [
+      "Acre",
+      "Acre"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian biome covers much of the central plateau and is known for its twisted trees and deep roots?",
+     "Qual bioma brasileiro cobre grande parte do planalto central e é conhecido por suas árvores retorcidas e raízes profundas?"
+    ],
+    "options": [
+     [
+      "Caatinga",
+      "Caatinga"
+     ],
+     [
+      "Cerrado",
+      "Cerrado"
+     ],
+     [
+      "Pampa",
+      "Pampa"
+     ],
+     [
+      "Pantanal",
+      "Pantanal"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state is home to the island of Marajó?",
+     "Qual estado brasileiro abriga a Ilha de Marajó?"
+    ],
+    "options": [
+     [
+      "Amapá",
+      "Amapá"
+     ],
+     [
+      "Pará",
+      "Pará"
+     ],
+     [
+      "Maranhão",
+      "Maranhão"
+     ],
+     [
+      "Amazonas",
+      "Amazonas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian river basin is the largest entirely within Brazil?",
+     "Qual bacia hidrográfica é a maior inteiramente dentro do Brasil?"
+    ],
+    "options": [
+     [
+      "Paraná Basin",
+      "Bacia do Paraná"
+     ],
+     [
+      "Tocantins-Araguaia Basin",
+      "Bacia Tocantins-Araguaia"
+     ],
+     [
+      "São Francisco Basin",
+      "Bacia do São Francisco"
+     ],
+     [
+      "Uruguay Basin",
+      "Bacia do Uruguai"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which state is home to Brazil's highest coastal mountain peak, Pico da Bandeira?",
+     "Qual estado abriga o Pico da Bandeira, uma das montanhas mais altas do Brasil?"
+    ],
+    "options": [
+     [
+      "Rio de Janeiro and São Paulo",
+      "Rio de Janeiro e São Paulo"
+     ],
+     [
+      "Minas Gerais and Espírito Santo",
+      "Minas Gerais e Espírito Santo"
+     ],
+     [
+      "Paraná and Santa Catarina",
+      "Paraná e Santa Catarina"
+     ],
+     [
+      "Bahia and Goiás",
+      "Bahia e Goiás"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state contains the city of São Gabriel da Cachoeira, near the borders with Colombia and Venezuela?",
+     "Qual estado brasileiro abriga São Gabriel da Cachoeira, perto das fronteiras com a Colômbia e a Venezuela?"
+    ],
+    "options": [
+     [
+      "Roraima",
+      "Roraima"
+     ],
+     [
+      "Amazonas",
+      "Amazonas"
+     ],
+     [
+      "Acre",
+      "Acre"
+     ],
+     [
+      "Pará",
+      "Pará"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state has the largest coastline?",
+     "Qual estado brasileiro possui o litoral mais extenso?"
+    ],
+    "options": [
+     [
+      "Rio de Janeiro",
+      "Rio de Janeiro"
+     ],
+     [
+      "Bahia",
+      "Bahia"
+     ],
+     [
+      "Maranhão",
+      "Maranhão"
+     ],
+     [
+      "Pará",
+      "Pará"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Brazilian state contains the geodesic center of South America, near the city of Cuiabá?",
+     "Qual estado brasileiro abriga o centro geodésico da América do Sul, próximo à cidade de Cuiabá?"
+    ],
+    "options": [
+     [
+      "Goiás",
+      "Goiás"
+     ],
+     [
+      "Mato Grosso",
+      "Mato Grosso"
+     ],
+     [
+      "Mato Grosso do Sul",
+      "Mato Grosso do Sul"
+     ],
+     [
+      "Rondônia",
+      "Rondônia"
+     ]
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "03-general-knowledge",
+  "en": "General Knowledge",
+  "pt": "Conhecimentos Gerais",
+  "icon": "🧠",
+  "questions": [
+   {
+    "level": "easy",
+    "q": [
+     "How many days are there in a leap year?",
+     "Quantos dias tem um ano bissexto?"
+    ],
+    "options": [
+     [
+      "364",
+      "364"
+     ],
+     [
+      "365",
+      "365"
+     ],
+     [
+      "366",
+      "366"
+     ],
+     [
+      "367",
+      "367"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "How many colors are traditionally listed in a rainbow?",
+     "Quantas cores são tradicionalmente identificadas em um arco-íris?"
+    ],
+    "options": [
+     [
+      "Five",
+      "Cinco"
+     ],
+     [
+      "Six",
+      "Seis"
+     ],
+     [
+      "Seven",
+      "Sete"
+     ],
+     [
+      "Eight",
+      "Oito"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which language has the most native speakers worldwide?",
+     "Qual idioma possui o maior número de falantes nativos no mundo?"
+    ],
+    "options": [
+     [
+      "English",
+      "Inglês"
+     ],
+     [
+      "Spanish",
+      "Espanhol"
+     ],
+     [
+      "Mandarin Chinese",
+      "Chinês mandarim"
+     ],
+     [
+      "Hindi",
+      "Hindi"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the currency of Japan?",
+     "Qual é a moeda do Japão?"
+    ],
+    "options": [
+     [
+      "Yuan",
+      "Yuan"
+     ],
+     [
+      "Yen",
+      "Iene"
+     ],
+     [
+      "Won",
+      "Won"
+     ],
+     [
+      "Baht",
+      "Baht"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "How many sides does a hexagon have?",
+     "Quantos lados tem um hexágono?"
+    ],
+    "options": [
+     [
+      "Five",
+      "Cinco"
+     ],
+     [
+      "Six",
+      "Seis"
+     ],
+     [
+      "Seven",
+      "Sete"
+     ],
+     [
+      "Eight",
+      "Oito"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal is featured on the Ferrari logo?",
+     "Qual animal aparece no logotipo da Ferrari?"
+    ],
+    "options": [
+     [
+      "Bull",
+      "Touro"
+     ],
+     [
+      "Horse",
+      "Cavalo"
+     ],
+     [
+      "Eagle",
+      "Águia"
+     ],
+     [
+      "Lion",
+      "Leão"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the name of the fairy in Peter Pan?",
+     "Qual é o nome da fada de Peter Pan?"
+    ],
+    "options": [
+     [
+      "Cinderella",
+      "Cinderela"
+     ],
+     [
+      "Tinker Bell",
+      "Sininho"
+     ],
+     [
+      "Aurora",
+      "Aurora"
+     ],
+     [
+      "Wendy",
+      "Wendy"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which instrument has black and white keys?",
+     "Qual instrumento musical possui teclas pretas e brancas?"
+    ],
+    "options": [
+     [
+      "Violin",
+      "Violino"
+     ],
+     [
+      "Piano",
+      "Piano"
+     ],
+     [
+      "Trumpet",
+      "Trompete"
+     ],
+     [
+      "Flute",
+      "Flauta"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "How many players are on the field for one football (soccer) team during a standard match?",
+     "Quantos jogadores de um time ficam em campo durante uma partida normal de futebol?"
+    ],
+    "options": [
+     [
+      "Nine",
+      "Nove"
+     ],
+     [
+      "Ten",
+      "Dez"
+     ],
+     [
+      "Eleven",
+      "Onze"
+     ],
+     [
+      "Twelve",
+      "Doze"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which company created the iPhone?",
+     "Qual empresa criou o iPhone?"
+    ],
+    "options": [
+     [
+      "Samsung",
+      "Samsung"
+     ],
+     [
+      "Microsoft",
+      "Microsoft"
+     ],
+     [
+      "Apple",
+      "Apple"
+     ],
+     [
+      "Sony",
+      "Sony"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the name of the fictional school attended by Harry Potter?",
+     "Qual é o nome da escola fictícia frequentada por Harry Potter?"
+    ],
+    "options": [
+     [
+      "Beauxbatons",
+      "Beauxbatons"
+     ],
+     [
+      "Hogwarts",
+      "Hogwarts"
+     ],
+     [
+      "Durmstrang",
+      "Durmstrang"
+     ],
+     [
+      "Narnia",
+      "Nárnia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which month has the fewest days in a normal year?",
+     "Qual mês tem o menor número de dias em um ano normal?"
+    ],
+    "options": [
+     [
+      "January",
+      "Janeiro"
+     ],
+     [
+      "February",
+      "Fevereiro"
+     ],
+     [
+      "March",
+      "Março"
+     ],
+     [
+      "April",
+      "Abril"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What does the abbreviation WWW stand for?",
+     "O que significa a sigla WWW?"
+    ],
+    "options": [
+     [
+      "World Wide Web",
+      "Rede Mundial de Computadores"
+     ],
+     [
+      "World Web Window",
+      "Janela Mundial da Web"
+     ],
+     [
+      "Wide World Wire",
+      "Conexão Mundial Ampla"
+     ],
+     [
+      "Web World Work",
+      "Trabalho Mundial da Web"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which sport uses a racket and a shuttlecock?",
+     "Qual esporte utiliza uma raquete e uma peteca?"
+    ],
+    "options": [
+     [
+      "Tennis",
+      "Tênis"
+     ],
+     [
+      "Badminton",
+      "Badminton"
+     ],
+     [
+      "Squash",
+      "Squash"
+     ],
+     [
+      "Table tennis",
+      "Tênis de mesa"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the name of the famous clock tower in London that contains the Great Bell?",
+     "Qual é o nome da famosa torre do relógio em Londres que abriga o Grande Sino?"
+    ],
+    "options": [
+     [
+      "Tower Bridge",
+      "Tower Bridge"
+     ],
+     [
+      "Big Ben",
+      "Big Ben"
+     ],
+     [
+      "Buckingham Tower",
+      "Torre de Buckingham"
+     ],
+     [
+      "London Eye",
+      "London Eye"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which artist painted the Mona Lisa?",
+     "Qual artista pintou a Mona Lisa?"
+    ],
+    "options": [
+     [
+      "Michelangelo",
+      "Michelangelo"
+     ],
+     [
+      "Leonardo da Vinci",
+      "Leonardo da Vinci"
+     ],
+     [
+      "Raphael",
+      "Rafael"
+     ],
+     [
+      "Vincent van Gogh",
+      "Vincent van Gogh"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "In which year did the Berlin Wall fall?",
+     "Em que ano o Muro de Berlim caiu?"
+    ],
+    "options": [
+     [
+      "1985",
+      "1985"
+     ],
+     [
+      "1987",
+      "1987"
+     ],
+     [
+      "1989",
+      "1989"
+     ],
+     [
+      "1991",
+      "1991"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which country invented paper?",
+     "Qual país inventou o papel?"
+    ],
+    "options": [
+     [
+      "Egypt",
+      "Egito"
+     ],
+     [
+      "China",
+      "China"
+     ],
+     [
+      "Greece",
+      "Grécia"
+     ],
+     [
+      "India",
+      "Índia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the official language of Austria?",
+     "Qual é o idioma oficial da Áustria?"
+    ],
+    "options": [
+     [
+      "French",
+      "Francês"
+     ],
+     [
+      "German",
+      "Alemão"
+     ],
+     [
+      "Italian",
+      "Italiano"
+     ],
+     [
+      "Dutch",
+      "Holandês"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "How many bones are there in the average adult human body?",
+     "Quantos ossos existem, em média, no corpo de um adulto?"
+    ],
+    "options": [
+     [
+      "186",
+      "186"
+     ],
+     [
+      "196",
+      "196"
+     ],
+     [
+      "206",
+      "206"
+     ],
+     [
+      "216",
+      "216"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which famous scientist developed the theory of general relativity?",
+     "Qual cientista famoso desenvolveu a teoria da relatividade geral?"
+    ],
+    "options": [
+     [
+      "Isaac Newton",
+      "Isaac Newton"
+     ],
+     [
+      "Albert Einstein",
+      "Albert Einstein"
+     ],
+     [
+      "Galileo Galilei",
+      "Galileu Galilei"
+     ],
+     [
+      "Nikola Tesla",
+      "Nikola Tesla"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which country hosted the first modern Olympic Games in 1896?",
+     "Qual país sediou os primeiros Jogos Olímpicos da era moderna em 1896?"
+    ],
+    "options": [
+     [
+      "France",
+      "França"
+     ],
+     [
+      "Italy",
+      "Itália"
+     ],
+     [
+      "Greece",
+      "Grécia"
+     ],
+     [
+      "United Kingdom",
+      "Reino Unido"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the process by which a caterpillar becomes a butterfly?",
+     "Qual é o nome do processo pelo qual uma lagarta se transforma em borboleta?"
+    ],
+    "options": [
+     [
+      "Evolution",
+      "Evolução"
+     ],
+     [
+      "Metamorphosis",
+      "Metamorfose"
+     ],
+     [
+      "Photosynthesis",
+      "Fotossíntese"
+     ],
+     [
+      "Germination",
+      "Germinação"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which blood type is known as the universal red blood cell donor?",
+     "Qual tipo sanguíneo é conhecido como doador universal de hemácias?"
+    ],
+    "options": [
+     [
+      "A positive",
+      "A positivo"
+     ],
+     [
+      "AB positive",
+      "AB positivo"
+     ],
+     [
+      "O negative",
+      "O negativo"
+     ],
+     [
+      "B negative",
+      "B negativo"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the currency used in Switzerland?",
+     "Qual é o nome da moeda utilizada na Suíça?"
+    ],
+    "options": [
+     [
+      "Euro",
+      "Euro"
+     ],
+     [
+      "Swiss franc",
+      "Franco suíço"
+     ],
+     [
+      "Krona",
+      "Coroa"
+     ],
+     [
+      "Pound",
+      "Libra"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who wrote the novel 1984?",
+     "Quem escreveu o romance 1984?"
+    ],
+    "options": [
+     [
+      "Aldous Huxley",
+      "Aldous Huxley"
+     ],
+     [
+      "George Orwell",
+      "George Orwell"
+     ],
+     [
+      "Ernest Hemingway",
+      "Ernest Hemingway"
+     ],
+     [
+      "J. R. R. Tolkien",
+      "J. R. R. Tolkien"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which famous ship sank on its maiden voyage in 1912?",
+     "Qual famoso navio afundou em sua viagem inaugural em 1912?"
+    ],
+    "options": [
+     [
+      "Britannic",
+      "Britannic"
+     ],
+     [
+      "Titanic",
+      "Titanic"
+     ],
+     [
+      "Lusitania",
+      "Lusitania"
+     ],
+     [
+      "Queen Mary",
+      "Queen Mary"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which planet was named after the Roman god of war?",
+     "Qual planeta recebeu o nome do deus romano da guerra?"
+    ],
+    "options": [
+     [
+      "Jupiter",
+      "Júpiter"
+     ],
+     [
+      "Venus",
+      "Vênus"
+     ],
+     [
+      "Mars",
+      "Marte"
+     ],
+     [
+      "Mercury",
+      "Mercúrio"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main ingredient in traditional Japanese miso soup?",
+     "Qual é o principal ingrediente da tradicional sopa japonesa de missô?"
+    ],
+    "options": [
+     [
+      "Rice",
+      "Arroz"
+     ],
+     [
+      "Fermented soybean paste",
+      "Pasta de soja fermentada"
+     ],
+     [
+      "Seaweed only",
+      "Apenas algas marinhas"
+     ],
+     [
+      "Coconut milk",
+      "Leite de coco"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which company developed the Windows operating system?",
+     "Qual empresa desenvolveu o sistema operacional Windows?"
+    ],
+    "options": [
+     [
+      "IBM",
+      "IBM"
+     ],
+     [
+      "Apple",
+      "Apple"
+     ],
+     [
+      "Microsoft",
+      "Microsoft"
+     ],
+     [
+      "Intel",
+      "Intel"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which famous structure was originally built as a mausoleum in India?",
+     "Qual estrutura famosa foi originalmente construída como um mausoléu na Índia?"
+    ],
+    "options": [
+     [
+      "Angkor Wat",
+      "Angkor Wat"
+     ],
+     [
+      "Taj Mahal",
+      "Taj Mahal"
+     ],
+     [
+      "Colosseum",
+      "Coliseu"
+     ],
+     [
+      "Parthenon",
+      "Partenon"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the hardest naturally occurring mineral?",
+     "Qual é o mineral natural mais duro que existe?"
+    ],
+    "options": [
+     [
+      "Quartz",
+      "Quartzo"
+     ],
+     [
+      "Diamond",
+      "Diamante"
+     ],
+     [
+      "Topaz",
+      "Topázio"
+     ],
+     [
+      "Emerald",
+      "Esmeralda"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which country gave the Statue of Liberty to the United States?",
+     "Qual país presenteou os Estados Unidos com a Estátua da Liberdade?"
+    ],
+    "options": [
+     [
+      "United Kingdom",
+      "Reino Unido"
+     ],
+     [
+      "France",
+      "França"
+     ],
+     [
+      "Spain",
+      "Espanha"
+     ],
+     [
+      "Germany",
+      "Alemanha"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the longest-running animated television series in the United States?",
+     "Qual é o nome da série animada de televisão mais longeva dos Estados Unidos?"
+    ],
+    "options": [
+     [
+      "Family Guy",
+      "Uma Família da Pesada"
+     ],
+     [
+      "South Park",
+      "South Park"
+     ],
+     [
+      "The Simpsons",
+      "Os Simpsons"
+     ],
+     [
+      "SpongeBob SquarePants",
+      "Bob Esponja"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which famous scientist discovered penicillin?",
+     "Qual cientista famoso descobriu a penicilina?"
+    ],
+    "options": [
+     [
+      "Louis Pasteur",
+      "Louis Pasteur"
+     ],
+     [
+      "Alexander Fleming",
+      "Alexander Fleming"
+     ],
+     [
+      "Marie Curie",
+      "Marie Curie"
+     ],
+     [
+      "Robert Koch",
+      "Robert Koch"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which ancient civilization developed the first known writing system, cuneiform?",
+     "Qual civilização antiga desenvolveu o primeiro sistema de escrita conhecido, a escrita cuneiforme?"
+    ],
+    "options": [
+     [
+      "Ancient Egyptians",
+      "Antigos egípcios"
+     ],
+     [
+      "Sumerians",
+      "Sumérios"
+     ],
+     [
+      "Ancient Greeks",
+      "Antigos gregos"
+     ],
+     [
+      "Romans",
+      "Romanos"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which treaty formally ended World War I between Germany and the Allied Powers?",
+     "Qual tratado encerrou formalmente a Primeira Guerra Mundial entre a Alemanha e as Potências Aliadas?"
+    ],
+    "options": [
+     [
+      "Treaty of Paris",
+      "Tratado de Paris"
+     ],
+     [
+      "Treaty of Versailles",
+      "Tratado de Versalhes"
+     ],
+     [
+      "Treaty of Rome",
+      "Tratado de Roma"
+     ],
+     [
+      "Treaty of Vienna",
+      "Tratado de Viena"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which mathematician is credited with the incompleteness theorems?",
+     "Qual matemático é conhecido pelos teoremas da incompletude?"
+    ],
+    "options": [
+     [
+      "Alan Turing",
+      "Alan Turing"
+     ],
+     [
+      "Kurt Gödel",
+      "Kurt Gödel"
+     ],
+     [
+      "Carl Friedrich Gauss",
+      "Carl Friedrich Gauss"
+     ],
+     [
+      "René Descartes",
+      "René Descartes"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the economic theory associated with Adam Smith's famous concept of the invisible hand?",
+     "Qual é o nome da teoria econômica associada ao famoso conceito da mão invisível de Adam Smith?"
+    ],
+    "options": [
+     [
+      "Mercantilism",
+      "Mercantilismo"
+     ],
+     [
+      "Classical liberal economics",
+      "Economia liberal clássica"
+     ],
+     [
+      "Communism",
+      "Comunismo"
+     ],
+     [
+      "Keynesian economics",
+      "Economia keynesiana"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which country was the first to grant women the right to vote in national elections?",
+     "Qual país foi o primeiro a conceder às mulheres o direito de votar em eleições nacionais?"
+    ],
+    "options": [
+     [
+      "United Kingdom",
+      "Reino Unido"
+     ],
+     [
+      "United States",
+      "Estados Unidos"
+     ],
+     [
+      "New Zealand",
+      "Nova Zelândia"
+     ],
+     [
+      "France",
+      "França"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which ancient Roman city was destroyed by the eruption of Mount Vesuvius in 79 AD?",
+     "Qual antiga cidade romana foi destruída pela erupção do Monte Vesúvio em 79 d.C.?"
+    ],
+    "options": [
+     [
+      "Athens",
+      "Atenas"
+     ],
+     [
+      "Pompeii",
+      "Pompeia"
+     ],
+     [
+      "Carthage",
+      "Cartago"
+     ],
+     [
+      "Sparta",
+      "Esparta"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which philosopher wrote The Republic?",
+     "Qual filósofo escreveu A República?"
+    ],
+    "options": [
+     [
+      "Aristotle",
+      "Aristóteles"
+     ],
+     [
+      "Socrates",
+      "Sócrates"
+     ],
+     [
+      "Plato",
+      "Platão"
+     ],
+     [
+      "Epicurus",
+      "Epicuro"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the first artificial satellite launched into space?",
+     "Qual é o nome do primeiro satélite artificial lançado ao espaço?"
+    ],
+    "options": [
+     [
+      "Apollo 11",
+      "Apollo 11"
+     ],
+     [
+      "Sputnik 1",
+      "Sputnik 1"
+     ],
+     [
+      "Explorer 1",
+      "Explorer 1"
+     ],
+     [
+      "Vostok 1",
+      "Vostok 1"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which composer continued composing music despite becoming profoundly deaf?",
+     "Qual compositor continuou compondo música apesar de ficar profundamente surdo?"
+    ],
+    "options": [
+     [
+      "Mozart",
+      "Mozart"
+     ],
+     [
+      "Beethoven",
+      "Beethoven"
+     ],
+     [
+      "Bach",
+      "Bach"
+     ],
+     [
+      "Chopin",
+      "Chopin"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the international agreement designed to phase out substances that damage the ozone layer?",
+     "Qual é o nome do acordo internacional criado para eliminar gradualmente substâncias que destroem a camada de ozônio?"
+    ],
+    "options": [
+     [
+      "Kyoto Protocol",
+      "Protocolo de Kyoto"
+     ],
+     [
+      "Montreal Protocol",
+      "Protocolo de Montreal"
+     ],
+     [
+      "Paris Agreement",
+      "Acordo de Paris"
+     ],
+     [
+      "Geneva Convention",
+      "Convenção de Genebra"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which civilization built the ancient city of Machu Picchu?",
+     "Qual civilização construiu a antiga cidade de Machu Picchu?"
+    ],
+    "options": [
+     [
+      "Maya",
+      "Maias"
+     ],
+     [
+      "Aztec",
+      "Astecas"
+     ],
+     [
+      "Inca",
+      "Incas"
+     ],
+     [
+      "Olmec",
+      "Olmecas"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which scientist proposed the uncertainty principle in quantum mechanics?",
+     "Qual cientista propôs o princípio da incerteza na mecânica quântica?"
+    ],
+    "options": [
+     [
+      "Niels Bohr",
+      "Niels Bohr"
+     ],
+     [
+      "Werner Heisenberg",
+      "Werner Heisenberg"
+     ],
+     [
+      "Max Planck",
+      "Max Planck"
+     ],
+     [
+      "Erwin Schrödinger",
+      "Erwin Schrödinger"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which language is the source of the word \"algebra\"?",
+     "De qual idioma se originou a palavra \"álgebra\"?"
+    ],
+    "options": [
+     [
+      "Greek",
+      "Grego"
+     ],
+     [
+      "Latin",
+      "Latim"
+     ],
+     [
+      "Arabic",
+      "Árabe"
+     ],
+     [
+      "Persian",
+      "Persa"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which empire built the road network known as the Royal Road, connecting major parts of its territory?",
+     "Qual império construiu a rede de estradas conhecida como Estrada Real, conectando partes importantes de seu território?"
+    ],
+    "options": [
+     [
+      "Roman Empire",
+      "Império Romano"
+     ],
+     [
+      "Persian Empire",
+      "Império Persa"
+     ],
+     [
+      "Mongol Empire",
+      "Império Mongol"
+     ],
+     [
+      "Byzantine Empire",
+      "Império Bizantino"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which economist wrote The General Theory of Employment, Interest and Money?",
+     "Qual economista escreveu A Teoria Geral do Emprego, do Juro e da Moeda?"
+    ],
+    "options": [
+     [
+      "Adam Smith",
+      "Adam Smith"
+     ],
+     [
+      "Karl Marx",
+      "Karl Marx"
+     ],
+     [
+      "John Maynard Keynes",
+      "John Maynard Keynes"
+     ],
+     [
+      "Milton Friedman",
+      "Milton Friedman"
+     ]
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
+  "id": "04-science-nature",
+  "en": "Science & Nature",
+  "pt": "Ciência e Natureza",
+  "icon": "🔬",
+  "questions": [
+   {
+    "level": "easy",
+    "q": [
+     "Which planet is closest to the Sun?",
+     "Qual planeta está mais próximo do Sol?"
+    ],
+    "options": [
+     [
+      "Venus",
+      "Vênus"
+     ],
+     [
+      "Mercury",
+      "Mercúrio"
+     ],
+     [
+      "Mars",
+      "Marte"
+     ],
+     [
+      "Earth",
+      "Terra"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What gas do humans need to breathe to survive?",
+     "Qual gás os seres humanos precisam respirar para sobreviver?"
+    ],
+    "options": [
+     [
+      "Carbon dioxide",
+      "Dióxido de carbono"
+     ],
+     [
+      "Nitrogen",
+      "Nitrogênio"
+     ],
+     [
+      "Oxygen",
+      "Oxigênio"
+     ],
+     [
+      "Hydrogen",
+      "Hidrogênio"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the chemical symbol for water?",
+     "Qual é o símbolo químico da água?"
+    ],
+    "options": [
+     [
+      "CO2",
+      "CO2"
+     ],
+     [
+      "H2O",
+      "H2O"
+     ],
+     [
+      "O2",
+      "O2"
+     ],
+     [
+      "NaCl",
+      "NaCl"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What force keeps us on the ground?",
+     "Qual força nos mantém no chão?"
+    ],
+    "options": [
+     [
+      "Magnetism",
+      "Magnetismo"
+     ],
+     [
+      "Gravity",
+      "Gravidade"
+     ],
+     [
+      "Friction",
+      "Atrito"
+     ],
+     [
+      "Electricity",
+      "Eletricidade"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which planet is known as the Red Planet?",
+     "Qual planeta é conhecido como Planeta Vermelho?"
+    ],
+    "options": [
+     [
+      "Jupiter",
+      "Júpiter"
+     ],
+     [
+      "Mars",
+      "Marte"
+     ],
+     [
+      "Saturn",
+      "Saturno"
+     ],
+     [
+      "Neptune",
+      "Netuno"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the largest organ of the human body?",
+     "Qual é o maior órgão do corpo humano?"
+    ],
+    "options": [
+     [
+      "Liver",
+      "Fígado"
+     ],
+     [
+      "Brain",
+      "Cérebro"
+     ],
+     [
+      "Skin",
+      "Pele"
+     ],
+     [
+      "Heart",
+      "Coração"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What do plants absorb from the atmosphere during photosynthesis?",
+     "O que as plantas absorvem da atmosfera durante a fotossíntese?"
+    ],
+    "options": [
+     [
+      "Oxygen",
+      "Oxigênio"
+     ],
+     [
+      "Carbon dioxide",
+      "Dióxido de carbono"
+     ],
+     [
+      "Nitrogen",
+      "Nitrogênio"
+     ],
+     [
+      "Hydrogen",
+      "Hidrogênio"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the center of an atom called?",
+     "Como é chamado o centro de um átomo?"
+    ],
+    "options": [
+     [
+      "Electron",
+      "Elétron"
+     ],
+     [
+      "Nucleus",
+      "Núcleo"
+     ],
+     [
+      "Proton",
+      "Próton"
+     ],
+     [
+      "Molecule",
+      "Molécula"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "At what temperature does water freeze at standard atmospheric pressure?",
+     "A que temperatura a água congela sob pressão atmosférica padrão?"
+    ],
+    "options": [
+     [
+      "0°C",
+      "0°C"
+     ],
+     [
+      "10°C",
+      "10°C"
+     ],
+     [
+      "32°C",
+      "32°C"
+     ],
+     [
+      "100°C",
+      "100°C"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which star is closest to Earth?",
+     "Qual estrela está mais próxima da Terra?"
+    ],
+    "options": [
+     [
+      "Sirius",
+      "Sirius"
+     ],
+     [
+      "Polaris",
+      "Estrela Polar"
+     ],
+     [
+      "The Sun",
+      "O Sol"
+     ],
+     [
+      "Proxima Centauri",
+      "Proxima Centauri"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which part of a plant usually absorbs water from the soil?",
+     "Qual parte de uma planta geralmente absorve água do solo?"
+    ],
+    "options": [
+     [
+      "Leaves",
+      "Folhas"
+     ],
+     [
+      "Flowers",
+      "Flores"
+     ],
+     [
+      "Roots",
+      "Raízes"
+     ],
+     [
+      "Stem",
+      "Caule"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the process of water turning into vapor called?",
+     "Como é chamado o processo de transformação da água em vapor?"
+    ],
+    "options": [
+     [
+      "Condensation",
+      "Condensação"
+     ],
+     [
+      "Evaporation",
+      "Evaporação"
+     ],
+     [
+      "Freezing",
+      "Congelamento"
+     ],
+     [
+      "Melting",
+      "Derretimento"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which planet is famous for its large rings?",
+     "Qual planeta é famoso por seus grandes anéis?"
+    ],
+    "options": [
+     [
+      "Mars",
+      "Marte"
+     ],
+     [
+      "Saturn",
+      "Saturno"
+     ],
+     [
+      "Venus",
+      "Vênus"
+     ],
+     [
+      "Mercury",
+      "Mercúrio"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the hardest substance in the human body?",
+     "Qual é a substância mais dura do corpo humano?"
+    ],
+    "options": [
+     [
+      "Bone",
+      "Osso"
+     ],
+     [
+      "Tooth enamel",
+      "Esmalte dentário"
+     ],
+     [
+      "Cartilage",
+      "Cartilagem"
+     ],
+     [
+      "Fingernail",
+      "Unha"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the main source of energy for Earth's climate system?",
+     "Qual é a principal fonte de energia do sistema climático da Terra?"
+    ],
+    "options": [
+     [
+      "The Moon",
+      "A Lua"
+     ],
+     [
+      "The Sun",
+      "O Sol"
+     ],
+     [
+      "Volcanoes",
+      "Vulcões"
+     ],
+     [
+      "Ocean currents",
+      "Correntes oceânicas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which element has the chemical symbol Fe?",
+     "Qual elemento possui o símbolo químico Fe?"
+    ],
+    "options": [
+     [
+      "Fluorine",
+      "Flúor"
+     ],
+     [
+      "Iron",
+      "Ferro"
+     ],
+     [
+      "Francium",
+      "Frâncio"
+     ],
+     [
+      "Fermium",
+      "Férmio"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the approximate speed of light in a vacuum?",
+     "Qual é a velocidade aproximada da luz no vácuo?"
+    ],
+    "options": [
+     [
+      "30,000 km/s",
+      "30.000 km/s"
+     ],
+     [
+      "150,000 km/s",
+      "150.000 km/s"
+     ],
+     [
+      "300,000 km/s",
+      "300.000 km/s"
+     ],
+     [
+      "500,000 km/s",
+      "500.000 km/s"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which blood cells are primarily responsible for fighting infections?",
+     "Quais células sanguíneas são principalmente responsáveis por combater infecções?"
+    ],
+    "options": [
+     [
+      "Red blood cells",
+      "Hemácias"
+     ],
+     [
+      "White blood cells",
+      "Leucócitos"
+     ],
+     [
+      "Platelets",
+      "Plaquetas"
+     ],
+     [
+      "Plasma cells only",
+      "Apenas células plasmáticas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the most abundant gas in Earth's atmosphere?",
+     "Qual é o gás mais abundante na atmosfera terrestre?"
+    ],
+    "options": [
+     [
+      "Oxygen",
+      "Oxigênio"
+     ],
+     [
+      "Carbon dioxide",
+      "Dióxido de carbono"
+     ],
+     [
+      "Nitrogen",
+      "Nitrogênio"
+     ],
+     [
+      "Argon",
+      "Argônio"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which organelle is known as the powerhouse of the cell?",
+     "Qual organela é conhecida como a usina de energia da célula?"
+    ],
+    "options": [
+     [
+      "Nucleus",
+      "Núcleo"
+     ],
+     [
+      "Mitochondrion",
+      "Mitocôndria"
+     ],
+     [
+      "Ribosome",
+      "Ribossomo"
+     ],
+     [
+      "Golgi apparatus",
+      "Complexo de Golgi"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the chemical symbol for gold?",
+     "Qual é o símbolo químico do ouro?"
+    ],
+    "options": [
+     [
+      "Ag",
+      "Ag"
+     ],
+     [
+      "Au",
+      "Au"
+     ],
+     [
+      "Gd",
+      "Gd"
+     ],
+     [
+      "Go",
+      "Go"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which planet has the strongest winds in the Solar System?",
+     "Qual planeta possui os ventos mais fortes do Sistema Solar?"
+    ],
+    "options": [
+     [
+      "Jupiter",
+      "Júpiter"
+     ],
+     [
+      "Neptune",
+      "Netuno"
+     ],
+     [
+      "Uranus",
+      "Urano"
+     ],
+     [
+      "Saturn",
+      "Saturno"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What type of rock is formed from cooled magma or lava?",
+     "Que tipo de rocha é formada pelo resfriamento do magma ou da lava?"
+    ],
+    "options": [
+     [
+      "Sedimentary",
+      "Sedimentar"
+     ],
+     [
+      "Metamorphic",
+      "Metamórfica"
+     ],
+     [
+      "Igneous",
+      "Ígnea"
+     ],
+     [
+      "Organic",
+      "Orgânica"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which vitamin can the human body produce when skin is exposed to sunlight?",
+     "Qual vitamina o corpo humano pode produzir quando a pele é exposta à luz solar?"
+    ],
+    "options": [
+     [
+      "Vitamin A",
+      "Vitamina A"
+     ],
+     [
+      "Vitamin B12",
+      "Vitamina B12"
+     ],
+     [
+      "Vitamin C",
+      "Vitamina C"
+     ],
+     [
+      "Vitamin D",
+      "Vitamina D"
+     ]
+    ],
+    "answer": 4
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the pH of pure water at approximately 25°C?",
+     "Qual é o pH da água pura a aproximadamente 25°C?"
+    ],
+    "options": [
+     [
+      "3",
+      "3"
+     ],
+     [
+      "5",
+      "5"
+     ],
+     [
+      "7",
+      "7"
+     ],
+     [
+      "9",
+      "9"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which layer of Earth is primarily composed of liquid iron and nickel?",
+     "Qual camada da Terra é composta principalmente por ferro e níquel líquidos?"
+    ],
+    "options": [
+     [
+      "Inner core",
+      "Núcleo interno"
+     ],
+     [
+      "Outer core",
+      "Núcleo externo"
+     ],
+     [
+      "Mantle",
+      "Manto"
+     ],
+     [
+      "Crust",
+      "Crosta"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which particle carries a negative electric charge?",
+     "Qual partícula possui carga elétrica negativa?"
+    ],
+    "options": [
+     [
+      "Proton",
+      "Próton"
+     ],
+     [
+      "Neutron",
+      "Nêutron"
+     ],
+     [
+      "Electron",
+      "Elétron"
+     ],
+     [
+      "Positron",
+      "Pósitron"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the boundary around a black hole beyond which nothing can escape?",
+     "Qual é o nome do limite ao redor de um buraco negro além do qual nada consegue escapar?"
+    ],
+    "options": [
+     [
+      "Singularity",
+      "Singularidade"
+     ],
+     [
+      "Event horizon",
+      "Horizonte de eventos"
+     ],
+     [
+      "Accretion disk",
+      "Disco de acreção"
+     ],
+     [
+      "Photon sphere",
+      "Esfera de fótons"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which scientist is famous for the laws of motion and universal gravitation?",
+     "Qual cientista é famoso pelas leis do movimento e da gravitação universal?"
+    ],
+    "options": [
+     [
+      "Albert Einstein",
+      "Albert Einstein"
+     ],
+     [
+      "Isaac Newton",
+      "Isaac Newton"
+     ],
+     [
+      "Charles Darwin",
+      "Charles Darwin"
+     ],
+     [
+      "James Clerk Maxwell",
+      "James Clerk Maxwell"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the approximate age of the Earth?",
+     "Qual é a idade aproximada da Terra?"
+    ],
+    "options": [
+     [
+      "1.5 billion years",
+      "1,5 bilhão de anos"
+     ],
+     [
+      "2.8 billion years",
+      "2,8 bilhões de anos"
+     ],
+     [
+      "4.5 billion years",
+      "4,5 bilhões de anos"
+     ],
+     [
+      "7 billion years",
+      "7 bilhões de anos"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which type of electromagnetic radiation has the shortest wavelength?",
+     "Qual tipo de radiação eletromagnética possui o menor comprimento de onda?"
+    ],
+    "options": [
+     [
+      "Radio waves",
+      "Ondas de rádio"
+     ],
+     [
+      "Infrared",
+      "Infravermelho"
+     ],
+     [
+      "X-rays",
+      "Raios X"
+     ],
+     [
+      "Gamma rays",
+      "Raios gama"
+     ]
+    ],
+    "answer": 4
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which gas is primarily responsible for the greenhouse effect caused by human activity?",
+     "Qual gás é o principal responsável pelo efeito estufa causado pelas atividades humanas?"
+    ],
+    "options": [
+     [
+      "Oxygen",
+      "Oxigênio"
+     ],
+     [
+      "Carbon dioxide",
+      "Dióxido de carbono"
+     ],
+     [
+      "Helium",
+      "Hélio"
+     ],
+     [
+      "Hydrogen",
+      "Hidrogênio"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which part of the brain controls basic functions such as breathing and heart rate?",
+     "Qual parte do cérebro controla funções básicas como a respiração e os batimentos cardíacos?"
+    ],
+    "options": [
+     [
+      "Cerebellum",
+      "Cerebelo"
+     ],
+     [
+      "Brainstem",
+      "Tronco encefálico"
+     ],
+     [
+      "Frontal lobe",
+      "Lobo frontal"
+     ],
+     [
+      "Hippocampus",
+      "Hipocampo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the process in which a solid changes directly into a gas?",
+     "Como é chamado o processo em que um sólido passa diretamente para o estado gasoso?"
+    ],
+    "options": [
+     [
+      "Condensation",
+      "Condensação"
+     ],
+     [
+      "Sublimation",
+      "Sublimação"
+     ],
+     [
+      "Deposition",
+      "Ressublimação"
+     ],
+     [
+      "Fusion",
+      "Fusão"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which scientist proposed the theory of evolution by natural selection?",
+     "Qual cientista propôs a teoria da evolução por seleção natural?"
+    ],
+    "options": [
+     [
+      "Gregor Mendel",
+      "Gregor Mendel"
+     ],
+     [
+      "Charles Darwin",
+      "Charles Darwin"
+     ],
+     [
+      "Louis Pasteur",
+      "Louis Pasteur"
+     ],
+     [
+      "Alfred Wegener",
+      "Alfred Wegener"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the approximate escape velocity from Earth's surface?",
+     "Qual é a velocidade de escape aproximada a partir da superfície da Terra?"
+    ],
+    "options": [
+     [
+      "5.2 km/s",
+      "5,2 km/s"
+     ],
+     [
+      "7.9 km/s",
+      "7,9 km/s"
+     ],
+     [
+      "11.2 km/s",
+      "11,2 km/s"
+     ],
+     [
+      "16.7 km/s",
+      "16,7 km/s"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which element has the highest atomic number among naturally occurring elements commonly found in significant quantities?",
+     "Qual elemento possui o maior número atômico entre os elementos naturais encontrados em quantidades significativas?"
+    ],
+    "options": [
+     [
+      "Uranium",
+      "Urânio"
+     ],
+     [
+      "Plutonium",
+      "Plutônio"
+     ],
+     [
+      "Thorium",
+      "Tório"
+     ],
+     [
+      "Radium",
+      "Rádio"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the boundary between Earth's crust and mantle?",
+     "Qual é o nome da fronteira entre a crosta terrestre e o manto?"
+    ],
+    "options": [
+     [
+      "Gutenberg discontinuity",
+      "Descontinuidade de Gutenberg"
+     ],
+     [
+      "Mohorovičić discontinuity",
+      "Descontinuidade de Mohorovičić"
+     ],
+     [
+      "Lehmann discontinuity",
+      "Descontinuidade de Lehmann"
+     ],
+     [
+      "Conrad discontinuity",
+      "Descontinuidade de Conrad"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which enzyme unwinds the DNA double helix during replication?",
+     "Qual enzima desenrola a dupla hélice do DNA durante a replicação?"
+    ],
+    "options": [
+     [
+      "DNA polymerase",
+      "DNA polimerase"
+     ],
+     [
+      "Helicase",
+      "Helicase"
+     ],
+     [
+      "Ligase",
+      "Ligase"
+     ],
+     [
+      "Amylase",
+      "Amilase"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which subatomic particle is responsible for carrying the strong nuclear force?",
+     "Qual partícula subatômica é responsável por transmitir a força nuclear forte?"
+    ],
+    "options": [
+     [
+      "Photon",
+      "Fóton"
+     ],
+     [
+      "Gluon",
+      "Glúon"
+     ],
+     [
+      "Neutrino",
+      "Neutrino"
+     ],
+     [
+      "Higgs boson",
+      "Bóson de Higgs"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the point in an orbit where an object is closest to the Sun?",
+     "Qual é o nome do ponto de uma órbita em que um objeto está mais próximo do Sol?"
+    ],
+    "options": [
+     [
+      "Aphelion",
+      "Afélio"
+     ],
+     [
+      "Perihelion",
+      "Periélio"
+     ],
+     [
+      "Perigee",
+      "Perigeu"
+     ],
+     [
+      "Apogee",
+      "Apogeu"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which fundamental particle gives other elementary particles mass through its associated field?",
+     "Qual partícula fundamental está associada ao campo que dá massa a outras partículas elementares?"
+    ],
+    "options": [
+     [
+      "Photon",
+      "Fóton"
+     ],
+     [
+      "Higgs boson",
+      "Bóson de Higgs"
+     ],
+     [
+      "Gluon",
+      "Glúon"
+     ],
+     [
+      "Electron",
+      "Elétron"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the approximate half-life of carbon-14?",
+     "Qual é a meia-vida aproximada do carbono-14?"
+    ],
+    "options": [
+     [
+      "573 years",
+      "573 anos"
+     ],
+     [
+      "5,730 years",
+      "5.730 anos"
+     ],
+     [
+      "57,300 years",
+      "57.300 anos"
+     ],
+     [
+      "573,000 years",
+      "573.000 anos"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which scientist formulated the laws of planetary motion?",
+     "Qual cientista formulou as leis do movimento planetário?"
+    ],
+    "options": [
+     [
+      "Galileo Galilei",
+      "Galileu Galilei"
+     ],
+     [
+      "Johannes Kepler",
+      "Johannes Kepler"
+     ],
+     [
+      "Nicolaus Copernicus",
+      "Nicolau Copérnico"
+     ],
+     [
+      "Tycho Brahe",
+      "Tycho Brahe"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which phenomenon explains why the sky appears blue?",
+     "Qual fenômeno explica por que o céu parece azul?"
+    ],
+    "options": [
+     [
+      "Reflection",
+      "Reflexão"
+     ],
+     [
+      "Refraction",
+      "Refração"
+     ],
+     [
+      "Rayleigh scattering",
+      "Espalhamento de Rayleigh"
+     ],
+     [
+      "Diffraction",
+      "Difração"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which type of plate boundary is associated with two tectonic plates moving away from each other?",
+     "Que tipo de limite de placas tectônicas ocorre quando duas placas se afastam?"
+    ],
+    "options": [
+     [
+      "Convergent",
+      "Convergente"
+     ],
+     [
+      "Divergent",
+      "Divergente"
+     ],
+     [
+      "Transform",
+      "Transformante"
+     ],
+     [
+      "Subduction",
+      "Subducção"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the process by which RNA is synthesized from a DNA template?",
+     "Como é chamado o processo pelo qual o RNA é sintetizado a partir de um molde de DNA?"
+    ],
+    "options": [
+     [
+      "Translation",
+      "Tradução"
+     ],
+     [
+      "Transcription",
+      "Transcrição"
+     ],
+     [
+      "Replication",
+      "Replicação"
+     ],
+     [
+      "Mutation",
+      "Mutação"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which planet has the most extreme axial tilt, rotating almost on its side?",
+     "Qual planeta possui a inclinação axial mais extrema, girando praticamente de lado?"
+    ],
+    "options": [
+     [
+      "Saturn",
+      "Saturno"
+     ],
+     [
+      "Uranus",
+      "Urano"
+     ],
+     [
+      "Neptune",
+      "Netuno"
+     ],
+     [
+      "Venus",
+      "Vênus"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the boundary around a star beyond which its gravitational pull can no longer keep an orbiting object bound?",
+     "Qual é o nome do limite ao redor de uma estrela além do qual sua gravidade não consegue mais manter um objeto em órbita?"
+    ],
+    "options": [
+     [
+      "Roche limit",
+      "Limite de Roche"
+     ],
+     [
+      "Hill sphere",
+      "Esfera de Hill"
+     ],
+     [
+      "Schwarzschild radius",
+      "Raio de Schwarzschild"
+     ],
+     [
+      "Bondi radius",
+      "Raio de Bondi"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which scientist discovered the neutron in 1932?",
+     "Qual cientista descobriu o nêutron em 1932?"
+    ],
+    "options": [
+     [
+      "Ernest Rutherford",
+      "Ernest Rutherford"
+     ],
+     [
+      "James Chadwick",
+      "James Chadwick"
+     ],
+     [
+      "J. J. Thomson",
+      "J. J. Thomson"
+     ],
+     [
+      "Enrico Fermi",
+      "Enrico Fermi"
+     ]
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "05-food-drinks",
+  "en": "Food & Drinks",
+  "pt": "Comidas e Bebidas",
+  "icon": "🍹",
+  "questions": [
+   {
+    "level": "easy",
+    "q": [
+     "Which country is traditionally associated with pizza?",
+     "Qual país é tradicionalmente associado à pizza?"
+    ],
+    "options": [
+     [
+      "France",
+      "França"
+     ],
+     [
+      "Italy",
+      "Itália"
+     ],
+     [
+      "Greece",
+      "Grécia"
+     ],
+     [
+      "Spain",
+      "Espanha"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the main ingredient in guacamole?",
+     "Qual é o principal ingrediente do guacamole?"
+    ],
+    "options": [
+     [
+      "Tomato",
+      "Tomate"
+     ],
+     [
+      "Avocado",
+      "Abacate"
+     ],
+     [
+      "Cucumber",
+      "Pepino"
+     ],
+     [
+      "Peas",
+      "Ervilhas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which fruit is known for having its seeds on the outside?",
+     "Qual fruta é conhecida por ter suas sementes na parte externa?"
+    ],
+    "options": [
+     [
+      "Apple",
+      "Maçã"
+     ],
+     [
+      "Strawberry",
+      "Morango"
+     ],
+     [
+      "Banana",
+      "Banana"
+     ],
+     [
+      "Orange",
+      "Laranja"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the main ingredient in traditional hummus?",
+     "Qual é o principal ingrediente do homus tradicional?"
+    ],
+    "options": [
+     [
+      "Lentils",
+      "Lentilhas"
+     ],
+     [
+      "Chickpeas",
+      "Grão-de-bico"
+     ],
+     [
+      "Potatoes",
+      "Batatas"
+     ],
+     [
+      "Kidney beans",
+      "Feijão-vermelho"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which drink is traditionally made from fermented grapes?",
+     "Qual bebida é tradicionalmente produzida a partir da fermentação de uvas?"
+    ],
+    "options": [
+     [
+      "Beer",
+      "Cerveja"
+     ],
+     [
+      "Wine",
+      "Vinho"
+     ],
+     [
+      "Whiskey",
+      "Uísque"
+     ],
+     [
+      "Cider",
+      "Sidra"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which country is famous for sushi?",
+     "Qual país é famoso pelo sushi?"
+    ],
+    "options": [
+     [
+      "China",
+      "China"
+     ],
+     [
+      "Japan",
+      "Japão"
+     ],
+     [
+      "Thailand",
+      "Tailândia"
+     ],
+     [
+      "South Korea",
+      "Coreia do Sul"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the main ingredient in French fries?",
+     "Qual é o principal ingrediente da batata frita?"
+    ],
+    "options": [
+     [
+      "Sweet potato",
+      "Batata-doce"
+     ],
+     [
+      "Potato",
+      "Batata"
+     ],
+     [
+      "Cassava",
+      "Mandioca"
+     ],
+     [
+      "Yam",
+      "Inhame"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which fruit is traditionally used to make orange juice?",
+     "Qual fruta é tradicionalmente utilizada para fazer suco de laranja?"
+    ],
+    "options": [
+     [
+      "Lemon",
+      "Limão"
+     ],
+     [
+      "Orange",
+      "Laranja"
+     ],
+     [
+      "Grapefruit",
+      "Toranja"
+     ],
+     [
+      "Tangerine",
+      "Tangerina"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the main ingredient in chocolate?",
+     "Qual é o principal ingrediente do chocolate?"
+    ],
+    "options": [
+     [
+      "Coffee beans",
+      "Grãos de café"
+     ],
+     [
+      "Cocoa beans",
+      "Grãos de cacau"
+     ],
+     [
+      "Vanilla beans",
+      "Favas de baunilha"
+     ],
+     [
+      "Almonds",
+      "Amêndoas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Brazilian dish is traditionally made with black beans and pork?",
+     "Qual prato brasileiro é tradicionalmente preparado com feijão-preto e carne de porco?"
+    ],
+    "options": [
+     [
+      "Moqueca",
+      "Moqueca"
+     ],
+     [
+      "Feijoada",
+      "Feijoada"
+     ],
+     [
+      "Vatapá",
+      "Vatapá"
+     ],
+     [
+      "Pão de queijo",
+      "Pão de queijo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which drink is made by steeping tea leaves in hot water?",
+     "Qual bebida é feita deixando folhas de chá em infusão na água quente?"
+    ],
+    "options": [
+     [
+      "Coffee",
+      "Café"
+     ],
+     [
+      "Tea",
+      "Chá"
+     ],
+     [
+      "Cocoa",
+      "Cacau"
+     ],
+     [
+      "Lemonade",
+      "Limonada"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which country is famous for croissants?",
+     "Qual país é famoso pelos croissants?"
+    ],
+    "options": [
+     [
+      "France",
+      "França"
+     ],
+     [
+      "Germany",
+      "Alemanha"
+     ],
+     [
+      "Portugal",
+      "Portugal"
+     ],
+     [
+      "Mexico",
+      "México"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is tofu primarily made from?",
+     "De que o tofu é feito principalmente?"
+    ],
+    "options": [
+     [
+      "Rice",
+      "Arroz"
+     ],
+     [
+      "Soybeans",
+      "Soja"
+     ],
+     [
+      "Corn",
+      "Milho"
+     ],
+     [
+      "Wheat",
+      "Trigo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which spice gives curry powder much of its yellow color?",
+     "Qual especiaria dá grande parte da cor amarela ao curry em pó?"
+    ],
+    "options": [
+     [
+      "Cinnamon",
+      "Canela"
+     ],
+     [
+      "Turmeric",
+      "Cúrcuma"
+     ],
+     [
+      "Paprika",
+      "Páprica"
+     ],
+     [
+      "Nutmeg",
+      "Noz-moscada"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the main ingredient in traditional Brazilian pão de queijo?",
+     "Qual é o principal ingrediente do pão de queijo tradicional brasileiro?"
+    ],
+    "options": [
+     [
+      "Wheat flour",
+      "Farinha de trigo"
+     ],
+     [
+      "Tapioca starch",
+      "Polvilho"
+     ],
+     [
+      "Cornmeal",
+      "Fubá"
+     ],
+     [
+      "Rice flour",
+      "Farinha de arroz"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which cheese is traditionally used in a Greek salad?",
+     "Qual queijo é tradicionalmente utilizado na salada grega?"
+    ],
+    "options": [
+     [
+      "Mozzarella",
+      "Muçarela"
+     ],
+     [
+      "Feta",
+      "Feta"
+     ],
+     [
+      "Cheddar",
+      "Cheddar"
+     ],
+     [
+      "Parmesan",
+      "Parmesão"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main ingredient in traditional pesto alla Genovese?",
+     "Qual é o principal ingrediente do pesto alla Genovese tradicional?"
+    ],
+    "options": [
+     [
+      "Parsley",
+      "Salsa"
+     ],
+     [
+      "Basil",
+      "Manjericão"
+     ],
+     [
+      "Coriander",
+      "Coentro"
+     ],
+     [
+      "Spinach",
+      "Espinafre"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which country is the origin of the dish paella?",
+     "Qual país é a origem do prato paella?"
+    ],
+    "options": [
+     [
+      "Portugal",
+      "Portugal"
+     ],
+     [
+      "Spain",
+      "Espanha"
+     ],
+     [
+      "Italy",
+      "Itália"
+     ],
+     [
+      "France",
+      "França"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which alcoholic drink is traditionally made from fermented barley and hops?",
+     "Qual bebida alcoólica é tradicionalmente produzida com cevada fermentada e lúpulo?"
+    ],
+    "options": [
+     [
+      "Wine",
+      "Vinho"
+     ],
+     [
+      "Beer",
+      "Cerveja"
+     ],
+     [
+      "Rum",
+      "Rum"
+     ],
+     [
+      "Tequila",
+      "Tequila"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main ingredient in the Japanese dish miso?",
+     "Qual é o principal ingrediente do missô japonês?"
+    ],
+    "options": [
+     [
+      "Fermented soybeans",
+      "Soja fermentada"
+     ],
+     [
+      "Fermented rice",
+      "Arroz fermentado"
+     ],
+     [
+      "Fermented fish",
+      "Peixe fermentado"
+     ],
+     [
+      "Fermented cabbage",
+      "Repolho fermentado"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which nut is traditionally used to make marzipan?",
+     "Qual oleaginosa é tradicionalmente utilizada para fazer marzipã?"
+    ],
+    "options": [
+     [
+      "Walnut",
+      "Noz"
+     ],
+     [
+      "Almond",
+      "Amêndoa"
+     ],
+     [
+      "Cashew",
+      "Castanha de caju"
+     ],
+     [
+      "Pistachio",
+      "Pistache"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the primary ingredient in traditional Mexican tortillas?",
+     "Qual é o principal ingrediente das tortilhas mexicanas tradicionais?"
+    ],
+    "options": [
+     [
+      "Wheat or corn flour",
+      "Farinha de trigo ou milho"
+     ],
+     [
+      "Rice flour",
+      "Farinha de arroz"
+     ],
+     [
+      "Potato starch",
+      "Fécula de batata"
+     ],
+     [
+      "Chickpea flour",
+      "Farinha de grão-de-bico"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which country is the origin of the dish kimchi?",
+     "Qual país é a origem do prato kimchi?"
+    ],
+    "options": [
+     [
+      "Japan",
+      "Japão"
+     ],
+     [
+      "China",
+      "China"
+     ],
+     [
+      "South Korea",
+      "Coreia do Sul"
+     ],
+     [
+      "Vietnam",
+      "Vietnã"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What gives wasabi its characteristic pungent heat?",
+     "O que dá ao wasabi seu sabor picante característico?"
+    ],
+    "options": [
+     [
+      "Capsaicin",
+      "Capsaicina"
+     ],
+     [
+      "Allyl isothiocyanate",
+      "Isotiocianato de alila"
+     ],
+     [
+      "Piperine",
+      "Piperina"
+     ],
+     [
+      "Menthol",
+      "Mentol"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which fruit is used to make traditional cider?",
+     "Qual fruta é utilizada para produzir a sidra tradicional?"
+    ],
+    "options": [
+     [
+      "Pear",
+      "Pera"
+     ],
+     [
+      "Apple",
+      "Maçã"
+     ],
+     [
+      "Peach",
+      "Pêssego"
+     ],
+     [
+      "Plum",
+      "Ameixa"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which country is particularly famous for producing Parmigiano Reggiano cheese?",
+     "Qual país é especialmente famoso pela produção do queijo Parmigiano Reggiano?"
+    ],
+    "options": [
+     [
+      "France",
+      "França"
+     ],
+     [
+      "Italy",
+      "Itália"
+     ],
+     [
+      "Switzerland",
+      "Suíça"
+     ],
+     [
+      "Netherlands",
+      "Países Baixos"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main ingredient in baba ganoush?",
+     "Qual é o principal ingrediente do baba ganoush?"
+    ],
+    "options": [
+     [
+      "Chickpeas",
+      "Grão-de-bico"
+     ],
+     [
+      "Eggplant",
+      "Berinjela"
+     ],
+     [
+      "Zucchini",
+      "Abobrinha"
+     ],
+     [
+      "Cauliflower",
+      "Couve-flor"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which coffee preparation involves forcing hot water through finely ground coffee under pressure?",
+     "Qual método de preparo de café utiliza água quente sob pressão através de café finamente moído?"
+    ],
+    "options": [
+     [
+      "French press",
+      "Prensa francesa"
+     ],
+     [
+      "Espresso",
+      "Espresso"
+     ],
+     [
+      "Cold brew",
+      "Café extraído a frio"
+     ],
+     [
+      "Pour-over",
+      "Café coado"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which ingredient is responsible for making bread dough rise through fermentation?",
+     "Qual ingrediente é responsável por fazer a massa do pão crescer por meio da fermentação?"
+    ],
+    "options": [
+     [
+      "Salt",
+      "Sal"
+     ],
+     [
+      "Yeast",
+      "Fermento biológico"
+     ],
+     [
+      "Sugar alone",
+      "Apenas açúcar"
+     ],
+     [
+      "Butter",
+      "Manteiga"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which country is the origin of the dessert tiramisu?",
+     "Qual país é a origem da sobremesa tiramisù?"
+    ],
+    "options": [
+     [
+      "France",
+      "França"
+     ],
+     [
+      "Italy",
+      "Itália"
+     ],
+     [
+      "Austria",
+      "Áustria"
+     ],
+     [
+      "Belgium",
+      "Bélgica"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main ingredient in traditional tabbouleh?",
+     "Qual é o principal ingrediente do tabule tradicional?"
+    ],
+    "options": [
+     [
+      "Couscous",
+      "Cuscuz"
+     ],
+     [
+      "Parsley",
+      "Salsa"
+     ],
+     [
+      "Rice",
+      "Arroz"
+     ],
+     [
+      "Lentils",
+      "Lentilhas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which type of rice is traditionally used for risotto?",
+     "Qual tipo de arroz é tradicionalmente utilizado para fazer risoto?"
+    ],
+    "options": [
+     [
+      "Basmati",
+      "Basmati"
+     ],
+     [
+      "Arborio",
+      "Arbório"
+     ],
+     [
+      "Jasmine",
+      "Jasmim"
+     ],
+     [
+      "Long-grain",
+      "Grão longo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which country is the origin of the spirit tequila?",
+     "Qual país é a origem da bebida tequila?"
+    ],
+    "options": [
+     [
+      "Brazil",
+      "Brasil"
+     ],
+     [
+      "Mexico",
+      "México"
+     ],
+     [
+      "Cuba",
+      "Cuba"
+     ],
+     [
+      "Peru",
+      "Peru"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main ingredient in the Brazilian dish moqueca?",
+     "Qual é o principal ingrediente da moqueca brasileira tradicional?"
+    ],
+    "options": [
+     [
+      "Beef",
+      "Carne bovina"
+     ],
+     [
+      "Fish or seafood",
+      "Peixe ou frutos do mar"
+     ],
+     [
+      "Chicken",
+      "Frango"
+     ],
+     [
+      "Pork",
+      "Carne de porco"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which sugar is naturally present in milk?",
+     "Qual açúcar está naturalmente presente no leite?"
+    ],
+    "options": [
+     [
+      "Fructose",
+      "Frutose"
+     ],
+     [
+      "Lactose",
+      "Lactose"
+     ],
+     [
+      "Maltose",
+      "Maltose"
+     ],
+     [
+      "Sucrose",
+      "Sacarose"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which chemical compound gives chili peppers their heat?",
+     "Qual composto químico dá a ardência às pimentas?"
+    ],
+    "options": [
+     [
+      "Piperine",
+      "Piperina"
+     ],
+     [
+      "Capsaicin",
+      "Capsaicina"
+     ],
+     [
+      "Curcumin",
+      "Curcumina"
+     ],
+     [
+      "Allicin",
+      "Alicina"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which grape variety is traditionally used in many red wines from Bordeaux?",
+     "Qual variedade de uva é tradicionalmente utilizada em muitos vinhos tintos de Bordeaux?"
+    ],
+    "options": [
+     [
+      "Pinot Noir",
+      "Pinot Noir"
+     ],
+     [
+      "Cabernet Sauvignon",
+      "Cabernet Sauvignon"
+     ],
+     [
+      "Riesling",
+      "Riesling"
+     ],
+     [
+      "Moscato",
+      "Moscato"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the Japanese fermented soybean food that is often eaten for breakfast?",
+     "Qual é o nome do alimento japonês de soja fermentada frequentemente consumido no café da manhã?"
+    ],
+    "options": [
+     [
+      "Tofu",
+      "Tofu"
+     ],
+     [
+      "Natto",
+      "Natto"
+     ],
+     [
+      "Tempura",
+      "Tempurá"
+     ],
+     [
+      "Sashimi",
+      "Sashimi"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which country is the origin of the cheese Gouda?",
+     "Qual país é a origem do queijo Gouda?"
+    ],
+    "options": [
+     [
+      "Belgium",
+      "Bélgica"
+     ],
+     [
+      "Netherlands",
+      "Países Baixos"
+     ],
+     [
+      "Germany",
+      "Alemanha"
+     ],
+     [
+      "Denmark",
+      "Dinamarca"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which compound is responsible for the characteristic aroma of vanilla?",
+     "Qual composto é responsável pelo aroma característico da baunilha?"
+    ],
+    "options": [
+     [
+      "Cinnamaldehyde",
+      "Cinamaldeído"
+     ],
+     [
+      "Vanillin",
+      "Vanilina"
+     ],
+     [
+      "Eugenol",
+      "Eugenol"
+     ],
+     [
+      "Limonene",
+      "Limoneno"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the main ingredient in the Middle Eastern dish falafel?",
+     "Qual é o principal ingrediente do falafel do Oriente Médio?"
+    ],
+    "options": [
+     [
+      "Rice",
+      "Arroz"
+     ],
+     [
+      "Chickpeas or fava beans",
+      "Grão-de-bico ou favas"
+     ],
+     [
+      "Lentils only",
+      "Apenas lentilhas"
+     ],
+     [
+      "Bulgur",
+      "Trigo para quibe"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which cooking technique involves briefly boiling food and then rapidly cooling it in ice water?",
+     "Qual técnica culinária consiste em ferver rapidamente um alimento e depois resfriá-lo em água com gelo?"
+    ],
+    "options": [
+     [
+      "Braising",
+      "Brasear"
+     ],
+     [
+      "Blanching",
+      "Branqueamento"
+     ],
+     [
+      "Searing",
+      "Selar"
+     ],
+     [
+      "Poaching",
+      "Escalfar"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the primary ingredient in traditional Worcestershire sauce that gives it much of its savory flavor?",
+     "Qual é o ingrediente tradicional do molho inglês que contribui muito para seu sabor umami?"
+    ],
+    "options": [
+     [
+      "Anchovies",
+      "Anchovas"
+     ],
+     [
+      "Mushrooms",
+      "Cogumelos"
+     ],
+     [
+      "Beef broth",
+      "Caldo de carne"
+     ],
+     [
+      "Soybeans",
+      "Soja"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which region is traditionally associated with the origin of Champagne sparkling wine?",
+     "Qual região é tradicionalmente associada à origem do espumante Champagne?"
+    ],
+    "options": [
+     [
+      "Tuscany",
+      "Toscana"
+     ],
+     [
+      "Champagne",
+      "Champagne"
+     ],
+     [
+      "Rioja",
+      "Rioja"
+     ],
+     [
+      "Burgundy",
+      "Borgonha"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the Japanese knife-cutting technique that produces very thin slices?",
+     "Qual é o nome da técnica japonesa de corte que produz fatias muito finas?"
+    ],
+    "options": [
+     [
+      "Julienne",
+      "Julienne"
+     ],
+     [
+      "Usugiri",
+      "Usugiri"
+     ],
+     [
+      "Brunoise",
+      "Brunoise"
+     ],
+     [
+      "Chiffonade",
+      "Chiffonade"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which molecule is primarily responsible for the umami taste?",
+     "Qual molécula é principalmente responsável pelo sabor umami?"
+    ],
+    "options": [
+     [
+      "Citric acid",
+      "Ácido cítrico"
+     ],
+     [
+      "Glutamate",
+      "Glutamato"
+     ],
+     [
+      "Sucrose",
+      "Sacarose"
+     ],
+     [
+      "Caffeine",
+      "Cafeína"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which country is the origin of the spirit pisco, which is also strongly associated with Peru?",
+     "Qual país é a origem da bebida pisco, também fortemente associada ao Peru?"
+    ],
+    "options": [
+     [
+      "Chile",
+      "Chile"
+     ],
+     [
+      "Peru",
+      "Peru"
+     ],
+     [
+      "Argentina",
+      "Argentina"
+     ],
+     [
+      "Bolivia",
+      "Bolívia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the main difference between Champagne and most other sparkling wines?",
+     "Qual é a principal diferença entre Champagne e a maioria dos outros espumantes?"
+    ],
+    "options": [
+     [
+      "Champagne is made only from white grapes",
+      "Champagne é feito apenas de uvas brancas"
+     ],
+     [
+      "Champagne must come from the Champagne region of France",
+      "Champagne deve ser produzido na região de Champagne, na França"
+     ],
+     [
+      "Champagne contains no carbon dioxide",
+      "Champagne não contém dióxido de carbono"
+     ],
+     [
+      "Champagne is always sweeter",
+      "Champagne é sempre mais doce"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which enzyme in pineapple is responsible for breaking down proteins and can tenderize meat?",
+     "Qual enzima do abacaxi é responsável por quebrar proteínas e pode amaciar carnes?"
+    ],
+    "options": [
+     [
+      "Papain",
+      "Papaína"
+     ],
+     [
+      "Bromelain",
+      "Bromelina"
+     ],
+     [
+      "Amylase",
+      "Amilase"
+     ],
+     [
+      "Lactase",
+      "Lactase"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the Japanese process of fermenting soybeans to produce soy sauce?",
+     "Qual é o nome do processo japonês de fermentação da soja utilizado para produzir molho de soja?"
+    ],
+    "options": [
+     [
+      "Koji fermentation",
+      "Fermentação com koji"
+     ],
+     [
+      "Distillation",
+      "Destilação"
+     ],
+     [
+      "Pasteurization",
+      "Pasteurização"
+     ],
+     [
+      "Carbonation",
+      "Carbonatação"
+     ]
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "06-technology",
+  "en": "Technology",
+  "pt": "Tecnologia",
+  "icon": "💻",
+  "questions": [
+   {
+    "level": "easy",
+    "q": [
+     "Which company makes the Galaxy smartphone series?",
+     "Qual empresa fabrica a linha de smartphones Galaxy?"
+    ],
+    "options": [
+     [
+      "Apple",
+      "Apple"
+     ],
+     [
+      "Samsung",
+      "Samsung"
+     ],
+     [
+      "Xiaomi",
+      "Xiaomi"
+     ],
+     [
+      "Huawei",
+      "Huawei"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What does GPS stand for?",
+     "O que significa a sigla GPS?"
+    ],
+    "options": [
+     [
+      "Global Positioning System",
+      "Sistema de Posicionamento Global"
+     ],
+     [
+      "General Phone Service",
+      "Serviço Geral de Telefonia"
+     ],
+     [
+      "Geographic Power System",
+      "Sistema de Energia Geográfica"
+     ],
+     [
+      "Global Phone Signal",
+      "Sinal Global de Telefone"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which device is primarily used to move a cursor on a computer?",
+     "Qual dispositivo é utilizado principalmente para movimentar o cursor de um computador?"
+    ],
+    "options": [
+     [
+      "Keyboard",
+      "Teclado"
+     ],
+     [
+      "Mouse",
+      "Mouse"
+     ],
+     [
+      "Printer",
+      "Impressora"
+     ],
+     [
+      "Scanner",
+      "Scanner"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which company developed the Android operating system?",
+     "Qual empresa desenvolveu o sistema operacional Android?"
+    ],
+    "options": [
+     [
+      "Microsoft",
+      "Microsoft"
+     ],
+     [
+      "Google",
+      "Google"
+     ],
+     [
+      "Apple",
+      "Apple"
+     ],
+     [
+      "IBM",
+      "IBM"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What does USB stand for?",
+     "O que significa a sigla USB?"
+    ],
+    "options": [
+     [
+      "Universal Serial Bus",
+      "Barramento Serial Universal"
+     ],
+     [
+      "United System Base",
+      "Base de Sistema Unificado"
+     ],
+     [
+      "Universal Storage Board",
+      "Placa de Armazenamento Universal"
+     ],
+     [
+      "User Service Block",
+      "Bloco de Serviço do Usuário"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which technology allows wireless communication over short distances between devices?",
+     "Qual tecnologia permite a comunicação sem fio a curta distância entre dispositivos?"
+    ],
+    "options": [
+     [
+      "HDMI",
+      "HDMI"
+     ],
+     [
+      "Bluetooth",
+      "Bluetooth"
+     ],
+     [
+      "Ethernet",
+      "Ethernet"
+     ],
+     [
+      "VGA",
+      "VGA"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which company created Windows?",
+     "Qual empresa criou o Windows?"
+    ],
+    "options": [
+     [
+      "Apple",
+      "Apple"
+     ],
+     [
+      "Microsoft",
+      "Microsoft"
+     ],
+     [
+      "Google",
+      "Google"
+     ],
+     [
+      "Intel",
+      "Intel"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What does Wi-Fi allow devices to do?",
+     "O que o Wi-Fi permite que os dispositivos façam?"
+    ],
+    "options": [
+     [
+      "Connect wirelessly to a network",
+      "Conectar-se sem fio a uma rede"
+     ],
+     [
+      "Increase battery capacity",
+      "Aumentar a capacidade da bateria"
+     ],
+     [
+      "Store files permanently",
+      "Armazenar arquivos permanentemente"
+     ],
+     [
+      "Charge without electricity",
+      "Carregar sem eletricidade"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the main function of a computer's keyboard?",
+     "Qual é a principal função do teclado de um computador?"
+    ],
+    "options": [
+     [
+      "Display images",
+      "Exibir imagens"
+     ],
+     [
+      "Enter text and commands",
+      "Inserir textos e comandos"
+     ],
+     [
+      "Store data",
+      "Armazenar dados"
+     ],
+     [
+      "Connect to the internet",
+      "Conectar-se à internet"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which device is used to print documents on paper?",
+     "Qual dispositivo é utilizado para imprimir documentos em papel?"
+    ],
+    "options": [
+     [
+      "Router",
+      "Roteador"
+     ],
+     [
+      "Printer",
+      "Impressora"
+     ],
+     [
+      "Monitor",
+      "Monitor"
+     ],
+     [
+      "Modem",
+      "Modem"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What does AI stand for?",
+     "O que significa a sigla AI?"
+    ],
+    "options": [
+     [
+      "Automated Internet",
+      "Internet Automatizada"
+     ],
+     [
+      "Artificial Intelligence",
+      "Inteligência Artificial"
+     ],
+     [
+      "Advanced Information",
+      "Informação Avançada"
+     ],
+     [
+      "Automatic Interface",
+      "Interface Automática"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which storage device is generally faster: an SSD or a traditional HDD?",
+     "Qual dispositivo de armazenamento geralmente é mais rápido: um SSD ou um HD tradicional?"
+    ],
+    "options": [
+     [
+      "HDD",
+      "HD"
+     ],
+     [
+      "SSD",
+      "SSD"
+     ],
+     [
+      "Both are always identical",
+      "Ambos são sempre iguais"
+     ],
+     [
+      "Neither can store data",
+      "Nenhum dos dois pode armazenar dados"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What does HDMI commonly transmit between devices?",
+     "O que o HDMI geralmente transmite entre dispositivos?"
+    ],
+    "options": [
+     [
+      "Video and audio",
+      "Vídeo e áudio"
+     ],
+     [
+      "Electricity only",
+      "Apenas eletricidade"
+     ],
+     [
+      "Internet passwords",
+      "Senhas de internet"
+     ],
+     [
+      "GPS coordinates",
+      "Coordenadas de GPS"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which of these is a social media platform?",
+     "Qual destas opções é uma rede social?"
+    ],
+    "options": [
+     [
+      "Excel",
+      "Excel"
+     ],
+     [
+      "Instagram",
+      "Instagram"
+     ],
+     [
+      "Windows",
+      "Windows"
+     ],
+     [
+      "Photoshop",
+      "Photoshop"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the main purpose of a computer antivirus program?",
+     "Qual é a principal finalidade de um antivírus de computador?"
+    ],
+    "options": [
+     [
+      "Increase screen brightness",
+      "Aumentar o brilho da tela"
+     ],
+     [
+      "Detect and prevent malicious software",
+      "Detectar e impedir softwares maliciosos"
+     ],
+     [
+      "Improve internet speed automatically",
+      "Melhorar automaticamente a velocidade da internet"
+     ],
+     [
+      "Increase RAM capacity",
+      "Aumentar a capacidade da memória RAM"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What does CPU stand for?",
+     "O que significa a sigla CPU?"
+    ],
+    "options": [
+     [
+      "Central Processing Unit",
+      "Unidade Central de Processamento"
+     ],
+     [
+      "Computer Power Utility",
+      "Utilitário de Energia do Computador"
+     ],
+     [
+      "Central Program User",
+      "Usuário Central de Programas"
+     ],
+     [
+      "Core Performance Unit",
+      "Unidade de Desempenho do Núcleo"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which programming language is commonly used for web page interactivity?",
+     "Qual linguagem de programação é comumente utilizada para adicionar interatividade às páginas da web?"
+    ],
+    "options": [
+     [
+      "JavaScript",
+      "JavaScript"
+     ],
+     [
+      "SQL",
+      "SQL"
+     ],
+     [
+      "C",
+      "C"
+     ],
+     [
+      "Assembly",
+      "Assembly"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What does RAM do in a computer?",
+     "Qual é a função da memória RAM em um computador?"
+    ],
+    "options": [
+     [
+      "Permanently store files",
+      "Armazenar arquivos permanentemente"
+     ],
+     [
+      "Temporarily hold data being used",
+      "Armazenar temporariamente os dados em uso"
+     ],
+     [
+      "Generate electricity",
+      "Gerar eletricidade"
+     ],
+     [
+      "Connect the computer to Wi-Fi",
+      "Conectar o computador ao Wi-Fi"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What does VPN stand for?",
+     "O que significa a sigla VPN?"
+    ],
+    "options": [
+     [
+      "Virtual Private Network",
+      "Rede Privada Virtual"
+     ],
+     [
+      "Visual Processing Node",
+      "Nó de Processamento Visual"
+     ],
+     [
+      "Verified Personal Network",
+      "Rede Pessoal Verificada"
+     ],
+     [
+      "Variable Protocol Number",
+      "Número de Protocolo Variável"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which company created the PlayStation console?",
+     "Qual empresa criou o console PlayStation?"
+    ],
+    "options": [
+     [
+      "Nintendo",
+      "Nintendo"
+     ],
+     [
+      "Sony",
+      "Sony"
+     ],
+     [
+      "Microsoft",
+      "Microsoft"
+     ],
+     [
+      "Sega",
+      "Sega"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What does HTTP stand for?",
+     "O que significa a sigla HTTP?"
+    ],
+    "options": [
+     [
+      "HyperText Transfer Protocol",
+      "Protocolo de Transferência de Hipertexto"
+     ],
+     [
+      "High Technology Transfer Program",
+      "Programa de Transferência de Alta Tecnologia"
+     ],
+     [
+      "Hyperlink Transmission Process",
+      "Processo de Transmissão de Hiperlinks"
+     ],
+     [
+      "Host Transfer Technical Protocol",
+      "Protocolo Técnico de Transferência de Hospedagem"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the primary purpose of a GPU?",
+     "Qual é a principal função de uma GPU?"
+    ],
+    "options": [
+     [
+      "Process graphics and parallel computations",
+      "Processar gráficos e cálculos paralelos"
+     ],
+     [
+      "Store permanent files",
+      "Armazenar arquivos permanentemente"
+     ],
+     [
+      "Manage internet connections only",
+      "Gerenciar apenas conexões de internet"
+     ],
+     [
+      "Supply electricity to the motherboard",
+      "Fornecer energia à placa-mãe"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who created the Python programming language?",
+     "Quem criou a linguagem de programação Python?"
+    ],
+    "options": [
+     [
+      "Guido van Rossum",
+      "Guido van Rossum"
+     ],
+     [
+      "Bill Gates",
+      "Bill Gates"
+     ],
+     [
+      "Dennis Ritchie",
+      "Dennis Ritchie"
+     ],
+     [
+      "James Gosling",
+      "James Gosling"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main purpose of blockchain technology?",
+     "Qual é a principal finalidade da tecnologia blockchain?"
+    ],
+    "options": [
+     [
+      "Create faster computer processors",
+      "Criar processadores de computador mais rápidos"
+     ],
+     [
+      "Maintain a distributed and tamper-resistant digital ledger",
+      "Manter um registro digital distribuído e resistente a alterações"
+     ],
+     [
+      "Improve camera quality",
+      "Melhorar a qualidade das câmeras"
+     ],
+     [
+      "Replace all internet connections",
+      "Substituir todas as conexões de internet"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What does OLED stand for?",
+     "O que significa a sigla OLED?"
+    ],
+    "options": [
+     [
+      "Organic Light-Emitting Diode",
+      "Diodo Orgânico Emissor de Luz"
+     ],
+     [
+      "Optical Light Electronic Display",
+      "Tela Eletrônica de Luz Óptica"
+     ],
+     [
+      "Open Layer Energy Device",
+      "Dispositivo de Energia de Camada Aberta"
+     ],
+     [
+      "Organic Liquid Electronic Display",
+      "Tela Eletrônica de Líquido Orgânico"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is cloud computing?",
+     "O que é computação em nuvem?"
+    ],
+    "options": [
+     [
+      "Storing and processing data using remote servers",
+      "Armazenar e processar dados usando servidores remotos"
+     ],
+     [
+      "Using computers only during rainy weather",
+      "Usar computadores apenas em dias chuvosos"
+     ],
+     [
+      "Connecting computers without electricity",
+      "Conectar computadores sem eletricidade"
+     ],
+     [
+      "Saving files exclusively on USB drives",
+      "Salvar arquivos exclusivamente em pendrives"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which technology is used for contactless payments with many smartphones and bank cards?",
+     "Qual tecnologia é utilizada para pagamentos por aproximação em muitos smartphones e cartões bancários?"
+    ],
+    "options": [
+     [
+      "NFC",
+      "NFC"
+     ],
+     [
+      "VGA",
+      "VGA"
+     ],
+     [
+      "FTP",
+      "FTP"
+     ],
+     [
+      "SATA",
+      "SATA"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What does open-source software mean?",
+     "O que significa software de código aberto?"
+    ],
+    "options": [
+     [
+      "Software that is always free of charge",
+      "Software que é sempre gratuito"
+     ],
+     [
+      "Software whose source code is available under an open license",
+      "Software cujo código-fonte está disponível sob uma licença aberta"
+     ],
+     [
+      "Software that only works online",
+      "Software que funciona apenas online"
+     ],
+     [
+      "Software that cannot be modified",
+      "Software que não pode ser modificado"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main purpose of DNS on the internet?",
+     "Qual é a principal função do DNS na internet?"
+    ],
+    "options": [
+     [
+      "Encrypt all files",
+      "Criptografar todos os arquivos"
+     ],
+     [
+      "Translate domain names into IP addresses",
+      "Converter nomes de domínio em endereços IP"
+     ],
+     [
+      "Increase RAM speed",
+      "Aumentar a velocidade da memória RAM"
+     ],
+     [
+      "Block all advertisements",
+      "Bloquear todos os anúncios"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which company developed the first widely successful iPod?",
+     "Qual empresa desenvolveu o primeiro iPod de grande sucesso?"
+    ],
+    "options": [
+     [
+      "Sony",
+      "Sony"
+     ],
+     [
+      "Apple",
+      "Apple"
+     ],
+     [
+      "Samsung",
+      "Samsung"
+     ],
+     [
+      "Microsoft",
+      "Microsoft"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the purpose of two-factor authentication?",
+     "Qual é a finalidade da autenticação de dois fatores?"
+    ],
+    "options": [
+     [
+      "Double the internet speed",
+      "Dobrar a velocidade da internet"
+     ],
+     [
+      "Add a second verification step to improve account security",
+      "Adicionar uma segunda etapa de verificação para aumentar a segurança da conta"
+     ],
+     [
+      "Create two copies of every file",
+      "Criar duas cópias de cada arquivo"
+     ],
+     [
+      "Allow two users to share one password",
+      "Permitir que dois usuários compartilhem uma senha"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What does 5G refer to in mobile networks?",
+     "A que se refere o 5G nas redes móveis?"
+    ],
+    "options": [
+     [
+      "Fifth-generation mobile network technology",
+      "Tecnologia de rede móvel de quinta geração"
+     ],
+     [
+      "Five gigabytes of storage",
+      "Cinco gigabytes de armazenamento"
+     ],
+     [
+      "Five times the internet speed in every situation",
+      "Cinco vezes mais velocidade de internet em qualquer situação"
+     ],
+     [
+      "Fifth-generation computer processors",
+      "Processadores de computador de quinta geração"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which component stores the BIOS or UEFI firmware on most modern computers?",
+     "Qual componente armazena o firmware BIOS ou UEFI na maioria dos computadores modernos?"
+    ],
+    "options": [
+     [
+      "RAM",
+      "RAM"
+     ],
+     [
+      "Non-volatile flash memory",
+      "Memória flash não volátil"
+     ],
+     [
+      "CPU cache",
+      "Memória cache da CPU"
+     ],
+     [
+      "GPU memory",
+      "Memória da GPU"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is an IP address used for?",
+     "Para que serve um endereço IP?"
+    ],
+    "options": [
+     [
+      "Identify a device or network interface on an IP network",
+      "Identificar um dispositivo ou interface em uma rede IP"
+     ],
+     [
+      "Measure computer temperature",
+      "Medir a temperatura do computador"
+     ],
+     [
+      "Store passwords",
+      "Armazenar senhas"
+     ],
+     [
+      "Increase processor frequency",
+      "Aumentar a frequência do processador"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What does the term \"phishing\" describe?",
+     "O que o termo \"phishing\" descreve?"
+    ],
+    "options": [
+     [
+      "A technique for improving Wi-Fi",
+      "Uma técnica para melhorar o Wi-Fi"
+     ],
+     [
+      "A fraudulent attempt to steal sensitive information",
+      "Uma tentativa fraudulenta de roubar informações confidenciais"
+     ],
+     [
+      "A type of computer cooling",
+      "Um tipo de refrigeração de computador"
+     ],
+     [
+      "A method of compressing images",
+      "Um método de compressão de imagens"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which encryption algorithm is widely used in modern symmetric encryption?",
+     "Qual algoritmo de criptografia é amplamente utilizado na criptografia simétrica moderna?"
+    ],
+    "options": [
+     [
+      "RSA",
+      "RSA"
+     ],
+     [
+      "AES",
+      "AES"
+     ],
+     [
+      "SHA-256",
+      "SHA-256"
+     ],
+     [
+      "ECC",
+      "ECC"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the main difference between TCP and UDP?",
+     "Qual é a principal diferença entre TCP e UDP?"
+    ],
+    "options": [
+     [
+      "TCP is connection-oriented and reliable; UDP is connectionless and does not guarantee delivery",
+      "TCP é orientado à conexão e confiável; UDP não exige conexão e não garante a entrega"
+     ],
+     [
+      "UDP is always encrypted; TCP is never encrypted",
+      "UDP é sempre criptografado; TCP nunca é criptografado"
+     ],
+     [
+      "TCP only works on Wi-Fi",
+      "TCP funciona apenas em Wi-Fi"
+     ],
+     [
+      "UDP can only transmit images",
+      "UDP só pode transmitir imagens"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which computer architecture is commonly used in modern smartphones?",
+     "Qual arquitetura de processador é comumente utilizada nos smartphones modernos?"
+    ],
+    "options": [
+     [
+      "x86 exclusively",
+      "Exclusivamente x86"
+     ],
+     [
+      "ARM",
+      "ARM"
+     ],
+     [
+      "PowerPC",
+      "PowerPC"
+     ],
+     [
+      "SPARC",
+      "SPARC"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What does a hypervisor do?",
+     "Qual é a função de um hipervisor?"
+    ],
+    "options": [
+     [
+      "Manage virtual machines",
+      "Gerenciar máquinas virtuais"
+     ],
+     [
+      "Increase screen resolution",
+      "Aumentar a resolução da tela"
+     ],
+     [
+      "Compress video files",
+      "Comprimir arquivos de vídeo"
+     ],
+     [
+      "Encrypt Wi-Fi signals",
+      "Criptografar sinais Wi-Fi"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which technology allows multiple processors or cores to execute tasks simultaneously?",
+     "Qual tecnologia permite que vários processadores ou núcleos executem tarefas simultaneamente?"
+    ],
+    "options": [
+     [
+      "Parallel computing",
+      "Computação paralela"
+     ],
+     [
+      "Defragmentation",
+      "Desfragmentação"
+     ],
+     [
+      "Rasterization",
+      "Rasterização"
+     ],
+     [
+      "Virtual memory",
+      "Memória virtual"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the main function of a compiler?",
+     "Qual é a principal função de um compilador?"
+    ],
+    "options": [
+     [
+      "Translate source code into another form, often machine code",
+      "Traduzir o código-fonte para outra forma, frequentemente código de máquina"
+     ],
+     [
+      "Physically repair a computer",
+      "Consertar fisicamente um computador"
+     ],
+     [
+      "Increase internet bandwidth",
+      "Aumentar a largura de banda da internet"
+     ],
+     [
+      "Store cloud backups",
+      "Armazenar backups na nuvem"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which data structure follows the Last In, First Out principle?",
+     "Qual estrutura de dados segue o princípio Último a Entrar, Primeiro a Sair?"
+    ],
+    "options": [
+     [
+      "Queue",
+      "Fila"
+     ],
+     [
+      "Stack",
+      "Pilha"
+     ],
+     [
+      "Tree",
+      "Árvore"
+     ],
+     [
+      "Graph",
+      "Grafo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What does the term \"zero-day vulnerability\" mean?",
+     "O que significa o termo \"vulnerabilidade de dia zero\"?"
+    ],
+    "options": [
+     [
+      "A vulnerability that has never existed before",
+      "Uma vulnerabilidade que nunca existiu antes"
+     ],
+     [
+      "A vulnerability unknown to the vendor or without an available fix when exploited",
+      "Uma vulnerabilidade desconhecida pelo fornecedor ou sem correção disponível quando explorada"
+     ],
+     [
+      "A virus that deletes files after 24 hours",
+      "Um vírus que apaga arquivos após 24 horas"
+     ],
+     [
+      "A computer that has no operating system",
+      "Um computador sem sistema operacional"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which protocol is commonly used to securely access a remote command-line terminal?",
+     "Qual protocolo é comumente utilizado para acessar com segurança um terminal de linha de comando remoto?"
+    ],
+    "options": [
+     [
+      "FTP",
+      "FTP"
+     ],
+     [
+      "SSH",
+      "SSH"
+     ],
+     [
+      "HTTP",
+      "HTTP"
+     ],
+     [
+      "SMTP",
+      "SMTP"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the purpose of a cache in computing?",
+     "Qual é a finalidade de um cache na computação?"
+    ],
+    "options": [
+     [
+      "Store frequently used data for faster access",
+      "Armazenar dados frequentemente utilizados para acesso mais rápido"
+     ],
+     [
+      "Permanently delete temporary files",
+      "Excluir permanentemente arquivos temporários"
+     ],
+     [
+      "Generate random passwords",
+      "Gerar senhas aleatórias"
+     ],
+     [
+      "Replace the CPU",
+      "Substituir a CPU"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which organization maintains the standards for the Unicode character encoding standard?",
+     "Qual organização mantém o padrão de codificação de caracteres Unicode?"
+    ],
+    "options": [
+     [
+      "Unicode Consortium",
+      "Consórcio Unicode"
+     ],
+     [
+      "World Bank",
+      "Banco Mundial"
+     ],
+     [
+      "International Monetary Fund",
+      "Fundo Monetário Internacional"
+     ],
+     [
+      "Internet Archive",
+      "Internet Archive"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What does the term \"latency\" mean in computer networking?",
+     "O que significa o termo \"latência\" em redes de computadores?"
+    ],
+    "options": [
+     [
+      "The amount of stored data",
+      "A quantidade de dados armazenados"
+     ],
+     [
+      "The delay before data transfer or response",
+      "O atraso antes da transferência de dados ou resposta"
+     ],
+     [
+      "The maximum screen brightness",
+      "O brilho máximo da tela"
+     ],
+     [
+      "The physical size of a router",
+      "O tamanho físico de um roteador"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which machine learning approach trains a model using labeled examples?",
+     "Qual abordagem de aprendizado de máquina treina um modelo usando exemplos rotulados?"
+    ],
+    "options": [
+     [
+      "Unsupervised learning",
+      "Aprendizado não supervisionado"
+     ],
+     [
+      "Supervised learning",
+      "Aprendizado supervisionado"
+     ],
+     [
+      "Reinforcement learning",
+      "Aprendizado por reforço"
+     ],
+     [
+      "Evolutionary computing",
+      "Computação evolutiva"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the purpose of a checksum?",
+     "Qual é a finalidade de uma soma de verificação?"
+    ],
+    "options": [
+     [
+      "Detect errors or changes in data",
+      "Detectar erros ou alterações nos dados"
+     ],
+     [
+      "Encrypt an entire hard drive",
+      "Criptografar um disco rígido inteiro"
+     ],
+     [
+      "Increase processor speed",
+      "Aumentar a velocidade do processador"
+     ],
+     [
+      "Create a new IP address",
+      "Criar um novo endereço IP"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which programming language was originally developed by Dennis Ritchie at Bell Labs?",
+     "Qual linguagem de programação foi originalmente desenvolvida por Dennis Ritchie no Bell Labs?"
+    ],
+    "options": [
+     [
+      "Python",
+      "Python"
+     ],
+     [
+      "C",
+      "C"
+     ],
+     [
+      "Java",
+      "Java"
+     ],
+     [
+      "Ruby",
+      "Ruby"
+     ]
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "07-animals",
+  "en": "Animals",
+  "pt": "Animais",
+  "icon": "🦁",
+  "questions": [
+   {
+    "level": "easy",
+    "q": [
+     "Which is the largest land animal in the world?",
+     "Qual é o maior animal terrestre do mundo?"
+    ],
+    "options": [
+     [
+      "Rhinoceros",
+      "Rinoceronte"
+     ],
+     [
+      "African elephant",
+      "Elefante-africano"
+     ],
+     [
+      "Hippopotamus",
+      "Hipopótamo"
+     ],
+     [
+      "Giraffe",
+      "Girafa"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal is known as the king of the jungle?",
+     "Qual animal é conhecido como o rei da selva?"
+    ],
+    "options": [
+     [
+      "Tiger",
+      "Tigre"
+     ],
+     [
+      "Lion",
+      "Leão"
+     ],
+     [
+      "Leopard",
+      "Leopardo"
+     ],
+     [
+      "Jaguar",
+      "Onça-pintada"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal produces honey?",
+     "Qual animal produz mel?"
+    ],
+    "options": [
+     [
+      "Ant",
+      "Formiga"
+     ],
+     [
+      "Bee",
+      "Abelha"
+     ],
+     [
+      "Butterfly",
+      "Borboleta"
+     ],
+     [
+      "Wasp",
+      "Vespa"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the fastest land animal?",
+     "Qual é o animal terrestre mais rápido?"
+    ],
+    "options": [
+     [
+      "Lion",
+      "Leão"
+     ],
+     [
+      "Cheetah",
+      "Guepardo"
+     ],
+     [
+      "Horse",
+      "Cavalo"
+     ],
+     [
+      "Ostrich",
+      "Avestruz"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal is famous for carrying its house on its back?",
+     "Qual animal é famoso por carregar sua casa nas costas?"
+    ],
+    "options": [
+     [
+      "Turtle",
+      "Tartaruga"
+     ],
+     [
+      "Rabbit",
+      "Coelho"
+     ],
+     [
+      "Frog",
+      "Sapo"
+     ],
+     [
+      "Lizard",
+      "Lagarto"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal is known for changing its skin color to blend into its surroundings?",
+     "Qual animal é conhecido por mudar a cor da pele para se camuflar no ambiente?"
+    ],
+    "options": [
+     [
+      "Crocodile",
+      "Crocodilo"
+     ],
+     [
+      "Chameleon",
+      "Camaleão"
+     ],
+     [
+      "Iguana",
+      "Iguana"
+     ],
+     [
+      "Gecko",
+      "Lagartixa"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which mammal can fly?",
+     "Qual mamífero consegue voar?"
+    ],
+    "options": [
+     [
+      "Flying squirrel",
+      "Esquilo-voador"
+     ],
+     [
+      "Bat",
+      "Morcego"
+     ],
+     [
+      "Penguin",
+      "Pinguim"
+     ],
+     [
+      "Ostrich",
+      "Avestruz"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal has a very long neck?",
+     "Qual animal possui um pescoço muito comprido?"
+    ],
+    "options": [
+     [
+      "Zebra",
+      "Zebra"
+     ],
+     [
+      "Giraffe",
+      "Girafa"
+     ],
+     [
+      "Camel",
+      "Camelo"
+     ],
+     [
+      "Deer",
+      "Veado"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal is known for having black and white stripes?",
+     "Qual animal é conhecido por ter listras pretas e brancas?"
+    ],
+    "options": [
+     [
+      "Tiger",
+      "Tigre"
+     ],
+     [
+      "Zebra",
+      "Zebra"
+     ],
+     [
+      "Leopard",
+      "Leopardo"
+     ],
+     [
+      "Panda",
+      "Panda"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which bird is traditionally associated with delivering babies in folklore?",
+     "Qual ave é tradicionalmente associada à entrega de bebês no folclore?"
+    ],
+    "options": [
+     [
+      "Eagle",
+      "Águia"
+     ],
+     [
+      "Stork",
+      "Cegonha"
+     ],
+     [
+      "Owl",
+      "Coruja"
+     ],
+     [
+      "Peacock",
+      "Pavão"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal is famous for storing food in its cheeks?",
+     "Qual animal é famoso por armazenar comida nas bochechas?"
+    ],
+    "options": [
+     [
+      "Hamster",
+      "Hamster"
+     ],
+     [
+      "Cat",
+      "Gato"
+     ],
+     [
+      "Dog",
+      "Cachorro"
+     ],
+     [
+      "Rabbit",
+      "Coelho"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal is the largest living bird?",
+     "Qual é a maior ave viva do mundo?"
+    ],
+    "options": [
+     [
+      "Eagle",
+      "Águia"
+     ],
+     [
+      "Ostrich",
+      "Avestruz"
+     ],
+     [
+      "Emu",
+      "Ema"
+     ],
+     [
+      "Albatross",
+      "Albatroz"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which animal is known for building dams?",
+     "Qual animal é conhecido por construir represas?"
+    ],
+    "options": [
+     [
+      "Otter",
+      "Lontra"
+     ],
+     [
+      "Beaver",
+      "Castor"
+     ],
+     [
+      "Badger",
+      "Texugo"
+     ],
+     [
+      "Raccoon",
+      "Guaxinim"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is a baby dog called?",
+     "Como é chamado um cachorro bebê?"
+    ],
+    "options": [
+     [
+      "Calf",
+      "Bezerro"
+     ],
+     [
+      "Puppy",
+      "Filhote"
+     ],
+     [
+      "Cub",
+      "Filhote de animal selvagem"
+     ],
+     [
+      "Foal",
+      "Potro"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which sea creature has eight arms?",
+     "Qual criatura marinha possui oito braços?"
+    ],
+    "options": [
+     [
+      "Squid",
+      "Lula"
+     ],
+     [
+      "Octopus",
+      "Polvo"
+     ],
+     [
+      "Jellyfish",
+      "Água-viva"
+     ],
+     [
+      "Starfish",
+      "Estrela-do-mar"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal has three hearts?",
+     "Qual animal possui três corações?"
+    ],
+    "options": [
+     [
+      "Shark",
+      "Tubarão"
+     ],
+     [
+      "Octopus",
+      "Polvo"
+     ],
+     [
+      "Dolphin",
+      "Golfinho"
+     ],
+     [
+      "Whale",
+      "Baleia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which mammal lays eggs?",
+     "Qual mamífero põe ovos?"
+    ],
+    "options": [
+     [
+      "Kangaroo",
+      "Canguru"
+     ],
+     [
+      "Platypus",
+      "Ornitorrinco"
+     ],
+     [
+      "Koala",
+      "Coala"
+     ],
+     [
+      "Sloth",
+      "Preguiça"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the largest species of shark?",
+     "Qual é a maior espécie de tubarão?"
+    ],
+    "options": [
+     [
+      "Great white shark",
+      "Tubarão-branco"
+     ],
+     [
+      "Whale shark",
+      "Tubarão-baleia"
+     ],
+     [
+      "Tiger shark",
+      "Tubarão-tigre"
+     ],
+     [
+      "Hammerhead shark",
+      "Tubarão-martelo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal is known to have the strongest bite force among living animals commonly measured?",
+     "Qual animal é conhecido por ter uma das mordidas mais fortes entre os animais vivos?"
+    ],
+    "options": [
+     [
+      "Lion",
+      "Leão"
+     ],
+     [
+      "Saltwater crocodile",
+      "Crocodilo-de-água-salgada"
+     ],
+     [
+      "Great white shark",
+      "Tubarão-branco"
+     ],
+     [
+      "Gorilla",
+      "Gorila"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which bird can fly backward?",
+     "Qual ave consegue voar para trás?"
+    ],
+    "options": [
+     [
+      "Sparrow",
+      "Pardal"
+     ],
+     [
+      "Hummingbird",
+      "Beija-flor"
+     ],
+     [
+      "Eagle",
+      "Águia"
+     ],
+     [
+      "Falcon",
+      "Falcão"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal has fingerprints that are remarkably similar to human fingerprints?",
+     "Qual animal possui impressões digitais surpreendentemente semelhantes às humanas?"
+    ],
+    "options": [
+     [
+      "Koala",
+      "Coala"
+     ],
+     [
+      "Panda",
+      "Panda"
+     ],
+     [
+      "Chimpanzee",
+      "Chimpanzé"
+     ],
+     [
+      "Lemur",
+      "Lêmure"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the main diet of a giant panda?",
+     "Qual é a principal alimentação do panda-gigante?"
+    ],
+    "options": [
+     [
+      "Fish",
+      "Peixe"
+     ],
+     [
+      "Bamboo",
+      "Bambu"
+     ],
+     [
+      "Insects",
+      "Insetos"
+     ],
+     [
+      "Fruit",
+      "Frutas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal is known for having the longest gestation period among land mammals?",
+     "Qual animal é conhecido por ter um dos períodos de gestação mais longos entre os mamíferos terrestres?"
+    ],
+    "options": [
+     [
+      "Elephant",
+      "Elefante"
+     ],
+     [
+      "Giraffe",
+      "Girafa"
+     ],
+     [
+      "Rhinoceros",
+      "Rinoceronte"
+     ],
+     [
+      "Camel",
+      "Camelo"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which marine mammal uses echolocation to navigate and find prey?",
+     "Qual mamífero marinho utiliza a ecolocalização para se orientar e encontrar presas?"
+    ],
+    "options": [
+     [
+      "Seal",
+      "Foca"
+     ],
+     [
+      "Dolphin",
+      "Golfinho"
+     ],
+     [
+      "Manatee",
+      "Peixe-boi"
+     ],
+     [
+      "Sea lion",
+      "Leão-marinho"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the group of animals that includes frogs and salamanders?",
+     "Qual é o nome do grupo de animais que inclui sapos e salamandras?"
+    ],
+    "options": [
+     [
+      "Reptiles",
+      "Répteis"
+     ],
+     [
+      "Amphibians",
+      "Anfíbios"
+     ],
+     [
+      "Mammals",
+      "Mamíferos"
+     ],
+     [
+      "Fish",
+      "Peixes"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal is famous for playing dead when threatened?",
+     "Qual animal é famoso por fingir estar morto quando se sente ameaçado?"
+    ],
+    "options": [
+     [
+      "Opossum",
+      "Gambá"
+     ],
+     [
+      "Fox",
+      "Raposa"
+     ],
+     [
+      "Wolf",
+      "Lobo"
+     ],
+     [
+      "Badger",
+      "Texugo"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal has blue blood due to copper-based hemocyanin?",
+     "Qual animal possui sangue azul devido à hemocianina, uma proteína à base de cobre?"
+    ],
+    "options": [
+     [
+      "Octopus",
+      "Polvo"
+     ],
+     [
+      "Human",
+      "Ser humano"
+     ],
+     [
+      "Crocodile",
+      "Crocodilo"
+     ],
+     [
+      "Penguin",
+      "Pinguim"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which mammal is capable of regenerating lost body parts such as its tail?",
+     "Qual mamífero é capaz de regenerar partes perdidas do corpo, como a cauda?"
+    ],
+    "options": [
+     [
+      "Dolphin",
+      "Golfinho"
+     ],
+     [
+      "Spiny mouse",
+      "Camundongo-espinhoso"
+     ],
+     [
+      "Elephant",
+      "Elefante"
+     ],
+     [
+      "Bat",
+      "Morcego"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal has the longest migration of any mammal?",
+     "Qual animal realiza a migração mais longa entre os mamíferos?"
+    ],
+    "options": [
+     [
+      "African elephant",
+      "Elefante-africano"
+     ],
+     [
+      "Gray whale",
+      "Baleia-cinzenta"
+     ],
+     [
+      "Reindeer",
+      "Rena"
+     ],
+     [
+      "Humpback whale",
+      "Baleia-jubarte"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal is known for using tools to crack open nuts?",
+     "Qual animal é conhecido por utilizar ferramentas para quebrar nozes?"
+    ],
+    "options": [
+     [
+      "Chimpanzee",
+      "Chimpanzé"
+     ],
+     [
+      "Lion",
+      "Leão"
+     ],
+     [
+      "Giraffe",
+      "Girafa"
+     ],
+     [
+      "Kangaroo",
+      "Canguru"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the largest living reptile?",
+     "Qual é o maior réptil vivo?"
+    ],
+    "options": [
+     [
+      "Komodo dragon",
+      "Dragão-de-komodo"
+     ],
+     [
+      "Saltwater crocodile",
+      "Crocodilo-de-água-salgada"
+     ],
+     [
+      "Green anaconda",
+      "Sucuri-verde"
+     ],
+     [
+      "Leatherback turtle",
+      "Tartaruga-de-couro"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal is known to sleep while standing up?",
+     "Qual animal é conhecido por dormir em pé?"
+    ],
+    "options": [
+     [
+      "Horse",
+      "Cavalo"
+     ],
+     [
+      "Dolphin",
+      "Golfinho"
+     ],
+     [
+      "Bat",
+      "Morcego"
+     ],
+     [
+      "Rabbit",
+      "Coelho"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal has the longest tongue relative to its body size?",
+     "Qual animal possui uma das maiores línguas em relação ao tamanho do corpo?"
+    ],
+    "options": [
+     [
+      "Chameleon",
+      "Camaleão"
+     ],
+     [
+      "Giraffe",
+      "Girafa"
+     ],
+     [
+      "Anteater",
+      "Tamanduá"
+     ],
+     [
+      "Frog",
+      "Sapo"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which animal is the primary natural host of the rabies virus in many parts of Latin America?",
+     "Qual animal é um dos principais hospedeiros naturais do vírus da raiva em muitas regiões da América Latina?"
+    ],
+    "options": [
+     [
+      "Bat",
+      "Morcego"
+     ],
+     [
+      "Penguin",
+      "Pinguim"
+     ],
+     [
+      "Elephant",
+      "Elefante"
+     ],
+     [
+      "Dolphin",
+      "Golfinho"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the phenomenon in which animals blend into their surroundings to avoid detection?",
+     "Qual é o nome do fenômeno em que os animais se misturam ao ambiente para evitar serem detectados?"
+    ],
+    "options": [
+     [
+      "Migration",
+      "Migração"
+     ],
+     [
+      "Camouflage",
+      "Camuflagem"
+     ],
+     [
+      "Hibernation",
+      "Hibernação"
+     ],
+     [
+      "Mimicry only",
+      "Apenas mimetismo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which animal has the highest recorded land-animal running speed after the cheetah is excluded?",
+     "Qual animal possui uma das maiores velocidades de corrida entre os animais terrestres, depois do guepardo?"
+    ],
+    "options": [
+     [
+      "Pronghorn",
+      "Antilocapra"
+     ],
+     [
+      "Lion",
+      "Leão"
+     ],
+     [
+      "Greyhound",
+      "Galgo"
+     ],
+     [
+      "Horse",
+      "Cavalo"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which animal is famous for having a transparent body and being almost invisible in the water?",
+     "Qual animal é famoso por ter um corpo transparente e ser quase invisível na água?"
+    ],
+    "options": [
+     [
+      "Jellyfish",
+      "Água-viva"
+     ],
+     [
+      "Glass frog",
+      "Rã-de-vidro"
+     ],
+     [
+      "Seahorse",
+      "Cavalo-marinho"
+     ],
+     [
+      "Moray eel",
+      "Moreia"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the largest living species of penguin?",
+     "Qual é a maior espécie viva de pinguim?"
+    ],
+    "options": [
+     [
+      "King penguin",
+      "Pinguim-rei"
+     ],
+     [
+      "Emperor penguin",
+      "Pinguim-imperador"
+     ],
+     [
+      "Gentoo penguin",
+      "Pinguim-gentoo"
+     ],
+     [
+      "Adélie penguin",
+      "Pinguim-de-adélia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which mammal has the lowest body temperature among commonly studied mammals?",
+     "Qual mamífero possui uma das menores temperaturas corporais entre os mamíferos estudados?"
+    ],
+    "options": [
+     [
+      "Arctic fox",
+      "Raposa-do-ártico"
+     ],
+     [
+      "Three-toed sloth",
+      "Preguiça-de-três-dedos"
+     ],
+     [
+      "Polar bear",
+      "Urso-polar"
+     ],
+     [
+      "Dolphin",
+      "Golfinho"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which animal is capable of surviving extreme dehydration by entering a dormant state?",
+     "Qual animal consegue sobreviver à desidratação extrema entrando em um estado de dormência?"
+    ],
+    "options": [
+     [
+      "Tardigrade",
+      "Tardígrado"
+     ],
+     [
+      "Dolphin",
+      "Golfinho"
+     ],
+     [
+      "Ostrich",
+      "Avestruz"
+     ],
+     [
+      "Crocodile",
+      "Crocodilo"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which animal has the largest eyes in the animal kingdom?",
+     "Qual animal possui os maiores olhos do reino animal?"
+    ],
+    "options": [
+     [
+      "Blue whale",
+      "Baleia-azul"
+     ],
+     [
+      "Colossal squid",
+      "Lula-colossal"
+     ],
+     [
+      "Giant squid",
+      "Lula-gigante"
+     ],
+     [
+      "Ostrich",
+      "Avestruz"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which animal is known for using venom delivered through spines on its hind legs?",
+     "Qual animal é conhecido por utilizar veneno liberado por esporões nas patas traseiras?"
+    ],
+    "options": [
+     [
+      "Platypus",
+      "Ornitorrinco"
+     ],
+     [
+      "Echidna",
+      "Equidna"
+     ],
+     [
+      "Kangaroo",
+      "Canguru"
+     ],
+     [
+      "Koala",
+      "Coala"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which marine animal is famous for changing its sex during its life cycle?",
+     "Qual animal marinho é famoso por mudar de sexo durante seu ciclo de vida?"
+    ],
+    "options": [
+     [
+      "Clownfish",
+      "Peixe-palhaço"
+     ],
+     [
+      "Great white shark",
+      "Tubarão-branco"
+     ],
+     [
+      "Blue whale",
+      "Baleia-azul"
+     ],
+     [
+      "Sea turtle",
+      "Tartaruga-marinha"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which mammal is the only one capable of sustained powered flight?",
+     "Qual mamífero é o único capaz de realizar voo ativo e sustentado?"
+    ],
+    "options": [
+     [
+      "Flying squirrel",
+      "Esquilo-voador"
+     ],
+     [
+      "Bat",
+      "Morcego"
+     ],
+     [
+      "Colugo",
+      "Colugo"
+     ],
+     [
+      "Sugar glider",
+      "Petauro-do-açúcar"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the biological process by which some animals enter a state of reduced metabolic activity during hot or dry conditions?",
+     "Qual é o nome do processo biológico pelo qual alguns animais entram em um estado de atividade metabólica reduzida durante períodos quentes ou secos?"
+    ],
+    "options": [
+     [
+      "Hibernation",
+      "Hibernação"
+     ],
+     [
+      "Estivation",
+      "Estivação"
+     ],
+     [
+      "Migration",
+      "Migração"
+     ],
+     [
+      "Molting",
+      "Muda"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which bird is famous for having the largest wingspan of any living bird?",
+     "Qual ave é famosa por possuir a maior envergadura entre as aves vivas?"
+    ],
+    "options": [
+     [
+      "Wandering albatross",
+      "Albatroz-errante"
+     ],
+     [
+      "Golden eagle",
+      "Águia-real"
+     ],
+     [
+      "Andean condor",
+      "Condor-andino"
+     ],
+     [
+      "Great white pelican",
+      "Pelicano-branco"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which animal has a tongue that can extend to capture prey using sticky saliva?",
+     "Qual animal possui uma língua que pode se estender para capturar presas com saliva pegajosa?"
+    ],
+    "options": [
+     [
+      "Chameleon",
+      "Camaleão"
+     ],
+     [
+      "Crocodile",
+      "Crocodilo"
+     ],
+     [
+      "Turtle",
+      "Tartaruga"
+     ],
+     [
+      "Penguin",
+      "Pinguim"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which mammal is famous for having the densest fur of any animal?",
+     "Qual mamífero é famoso por possuir uma das pelagens mais densas do reino animal?"
+    ],
+    "options": [
+     [
+      "Sea otter",
+      "Lontra-marinha"
+     ],
+     [
+      "Polar bear",
+      "Urso-polar"
+     ],
+     [
+      "Arctic fox",
+      "Raposa-do-ártico"
+     ],
+     [
+      "Beaver",
+      "Castor"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which animal's heart can temporarily stop beating during deep dives?",
+     "O coração de qual animal pode reduzir drasticamente seus batimentos durante mergulhos profundos?"
+    ],
+    "options": [
+     [
+      "Dolphin",
+      "Golfinho"
+     ],
+     [
+      "Hummingbird",
+      "Beija-flor"
+     ],
+     [
+      "Elephant",
+      "Elefante"
+     ],
+     [
+      "Kangaroo",
+      "Canguru"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which animal is known for having a symbiotic relationship with cleaner fish, allowing smaller fish to remove parasites from its body?",
+     "Qual animal é conhecido por manter uma relação simbiótica com peixes limpadores, que removem parasitas de seu corpo?"
+    ],
+    "options": [
+     [
+      "Manta ray",
+      "Raia-manta"
+     ],
+     [
+      "Seahorse",
+      "Cavalo-marinho"
+     ],
+     [
+      "Clownfish",
+      "Peixe-palhaço"
+     ],
+     [
+      "Piranha",
+      "Piranha"
+     ]
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "08-mythology",
+  "en": "Mythology",
+  "pt": "Mitologia",
+  "icon": "⚡",
+  "questions": [
+   {
+    "level": "easy",
+    "q": [
+     "Who was the king of the Greek gods?",
+     "Quem era o rei dos deuses gregos?"
+    ],
+    "options": [
+     [
+      "Apollo",
+      "Apolo"
+     ],
+     [
+      "Zeus",
+      "Zeus"
+     ],
+     [
+      "Poseidon",
+      "Poseidon"
+     ],
+     [
+      "Ares",
+      "Ares"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Greek goddess was associated with love and beauty?",
+     "Qual deusa grega era associada ao amor e à beleza?"
+    ],
+    "options": [
+     [
+      "Athena",
+      "Atena"
+     ],
+     [
+      "Hera",
+      "Hera"
+     ],
+     [
+      "Aphrodite",
+      "Afrodite"
+     ],
+     [
+      "Artemis",
+      "Ártemis"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Who was the Greek god of the sea?",
+     "Quem era o deus grego dos mares?"
+    ],
+    "options": [
+     [
+      "Hades",
+      "Hades"
+     ],
+     [
+      "Poseidon",
+      "Poseidon"
+     ],
+     [
+      "Hermes",
+      "Hermes"
+     ],
+     [
+      "Apollo",
+      "Apolo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Norse god is famous for wielding the hammer Mjölnir?",
+     "Qual deus nórdico é famoso por empunhar o martelo Mjölnir?"
+    ],
+    "options": [
+     [
+      "Odin",
+      "Odin"
+     ],
+     [
+      "Loki",
+      "Loki"
+     ],
+     [
+      "Thor",
+      "Thor"
+     ],
+     [
+      "Freyr",
+      "Freyr"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Egyptian god is commonly depicted with the head of a jackal?",
+     "Qual deus egípcio é frequentemente representado com cabeça de chacal?"
+    ],
+    "options": [
+     [
+      "Ra",
+      "Rá"
+     ],
+     [
+      "Anubis",
+      "Anúbis"
+     ],
+     [
+      "Horus",
+      "Hórus"
+     ],
+     [
+      "Osiris",
+      "Osíris"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What creature was Medusa in Greek mythology?",
+     "Que criatura era Medusa na mitologia grega?"
+    ],
+    "options": [
+     [
+      "Mermaid",
+      "Sereia"
+     ],
+     [
+      "Gorgon",
+      "Górgona"
+     ],
+     [
+      "Centaur",
+      "Centauro"
+     ],
+     [
+      "Harpy",
+      "Harpia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Who was the Greek god of war?",
+     "Quem era o deus grego da guerra?"
+    ],
+    "options": [
+     [
+      "Ares",
+      "Ares"
+     ],
+     [
+      "Hermes",
+      "Hermes"
+     ],
+     [
+      "Hephaestus",
+      "Hefesto"
+     ],
+     [
+      "Dionysus",
+      "Dionísio"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which mythical creature is half human and half horse?",
+     "Qual criatura mitológica é metade humana e metade cavalo?"
+    ],
+    "options": [
+     [
+      "Minotaur",
+      "Minotauro"
+     ],
+     [
+      "Centaur",
+      "Centauro"
+     ],
+     [
+      "Griffin",
+      "Grifo"
+     ],
+     [
+      "Cyclops",
+      "Ciclope"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Who was the Roman god of the sea?",
+     "Quem era o deus romano dos mares?"
+    ],
+    "options": [
+     [
+      "Mars",
+      "Marte"
+     ],
+     [
+      "Neptune",
+      "Netuno"
+     ],
+     [
+      "Mercury",
+      "Mercúrio"
+     ],
+     [
+      "Vulcan",
+      "Vulcano"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Greek hero killed the Minotaur?",
+     "Qual herói grego matou o Minotauro?"
+    ],
+    "options": [
+     [
+      "Perseus",
+      "Perseu"
+     ],
+     [
+      "Theseus",
+      "Teseu"
+     ],
+     [
+      "Hercules",
+      "Hércules"
+     ],
+     [
+      "Achilles",
+      "Aquiles"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Egyptian goddess was associated with magic and motherhood?",
+     "Qual deusa egípcia era associada à magia e à maternidade?"
+    ],
+    "options": [
+     [
+      "Isis",
+      "Ísis"
+     ],
+     [
+      "Bastet",
+      "Bastet"
+     ],
+     [
+      "Sekhmet",
+      "Sekhmet"
+     ],
+     [
+      "Hathor",
+      "Hator"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What was the name of the Greek underworld?",
+     "Qual era o nome do submundo grego?"
+    ],
+    "options": [
+     [
+      "Olympus",
+      "Olimpo"
+     ],
+     [
+      "Tartarus",
+      "Tártaro"
+     ],
+     [
+      "Elysium",
+      "Elísio"
+     ],
+     [
+      "Arcadia",
+      "Arcádia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which Norse god was the father of Thor?",
+     "Qual deus nórdico era o pai de Thor?"
+    ],
+    "options": [
+     [
+      "Loki",
+      "Loki"
+     ],
+     [
+      "Odin",
+      "Odin"
+     ],
+     [
+      "Tyr",
+      "Tyr"
+     ],
+     [
+      "Balder",
+      "Balder"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which creature has the body of a lion and the head and wings of an eagle?",
+     "Qual criatura possui corpo de leão e cabeça e asas de águia?"
+    ],
+    "options": [
+     [
+      "Griffin",
+      "Grifo"
+     ],
+     [
+      "Phoenix",
+      "Fênix"
+     ],
+     [
+      "Dragon",
+      "Dragão"
+     ],
+     [
+      "Pegasus",
+      "Pégaso"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Who was the Greek goddess of wisdom?",
+     "Quem era a deusa grega da sabedoria?"
+    ],
+    "options": [
+     [
+      "Hera",
+      "Hera"
+     ],
+     [
+      "Athena",
+      "Atena"
+     ],
+     [
+      "Demeter",
+      "Deméter"
+     ],
+     [
+      "Aphrodite",
+      "Afrodite"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who flew too close to the Sun using wings made of feathers and wax?",
+     "Quem voou perto demais do Sol usando asas feitas de penas e cera?"
+    ],
+    "options": [
+     [
+      "Daedalus",
+      "Dédalo"
+     ],
+     [
+      "Icarus",
+      "Ícaro"
+     ],
+     [
+      "Perseus",
+      "Perseu"
+     ],
+     [
+      "Orpheus",
+      "Orfeu"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Greek hero was forced to complete twelve famous labors?",
+     "Qual herói grego foi obrigado a realizar doze trabalhos famosos?"
+    ],
+    "options": [
+     [
+      "Achilles",
+      "Aquiles"
+     ],
+     [
+      "Hercules",
+      "Hércules"
+     ],
+     [
+      "Jason",
+      "Jasão"
+     ],
+     [
+      "Odysseus",
+      "Odisseu"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who was the Greek god of wine and celebration?",
+     "Quem era o deus grego do vinho e das festividades?"
+    ],
+    "options": [
+     [
+      "Apollo",
+      "Apolo"
+     ],
+     [
+      "Dionysus",
+      "Dionísio"
+     ],
+     [
+      "Hermes",
+      "Hermes"
+     ],
+     [
+      "Ares",
+      "Ares"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Norse realm was home to the gods known as the Aesir?",
+     "Qual reino nórdico era o lar dos deuses conhecidos como Aesir?"
+    ],
+    "options": [
+     [
+      "Midgard",
+      "Midgard"
+     ],
+     [
+      "Asgard",
+      "Asgard"
+     ],
+     [
+      "Jotunheim",
+      "Jotunheim"
+     ],
+     [
+      "Helheim",
+      "Helheim"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who was the Greek goddess of the hunt?",
+     "Quem era a deusa grega da caça?"
+    ],
+    "options": [
+     [
+      "Artemis",
+      "Ártemis"
+     ],
+     [
+      "Hera",
+      "Hera"
+     ],
+     [
+      "Hestia",
+      "Héstia"
+     ],
+     [
+      "Persephone",
+      "Perséfone"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Egyptian god was associated with the Sun and often depicted with a falcon head?",
+     "Qual deus egípcio era associado ao Sol e frequentemente representado com cabeça de falcão?"
+    ],
+    "options": [
+     [
+      "Ra",
+      "Rá"
+     ],
+     [
+      "Thoth",
+      "Tote"
+     ],
+     [
+      "Set",
+      "Sete"
+     ],
+     [
+      "Ptah",
+      "Ptá"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What was the name of the three-headed dog guarding the Greek underworld?",
+     "Qual era o nome do cão de três cabeças que guardava o submundo grego?"
+    ],
+    "options": [
+     [
+      "Orthrus",
+      "Ortro"
+     ],
+     [
+      "Cerberus",
+      "Cérbero"
+     ],
+     [
+      "Chimera",
+      "Quimera"
+     ],
+     [
+      "Fenrir",
+      "Fenrir"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Greek hero was famous for his vulnerability in his heel?",
+     "Qual herói grego era famoso por sua vulnerabilidade no calcanhar?"
+    ],
+    "options": [
+     [
+      "Perseus",
+      "Perseu"
+     ],
+     [
+      "Achilles",
+      "Aquiles"
+     ],
+     [
+      "Theseus",
+      "Teseu"
+     ],
+     [
+      "Hector",
+      "Heitor"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who was the Roman equivalent of the Greek goddess Athena?",
+     "Quem era a equivalente romana da deusa grega Atena?"
+    ],
+    "options": [
+     [
+      "Diana",
+      "Diana"
+     ],
+     [
+      "Minerva",
+      "Minerva"
+     ],
+     [
+      "Venus",
+      "Vênus"
+     ],
+     [
+      "Juno",
+      "Juno"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which creature in Greek mythology was half human and half bull?",
+     "Qual criatura da mitologia grega era metade humana e metade touro?"
+    ],
+    "options": [
+     [
+      "Centaur",
+      "Centauro"
+     ],
+     [
+      "Minotaur",
+      "Minotauro"
+     ],
+     [
+      "Cyclops",
+      "Ciclope"
+     ],
+     [
+      "Satyr",
+      "Sátiro"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Greek figure was condemned to roll a boulder up a hill forever?",
+     "Qual personagem grego foi condenado a empurrar uma pedra montanha acima para sempre?"
+    ],
+    "options": [
+     [
+      "Tantalus",
+      "Tântalo"
+     ],
+     [
+      "Sisyphus",
+      "Sísifo"
+     ],
+     [
+      "Prometheus",
+      "Prometeu"
+     ],
+     [
+      "Atlas",
+      "Atlas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who stole fire from the gods and gave it to humanity in Greek mythology?",
+     "Quem roubou o fogo dos deuses e o entregou à humanidade na mitologia grega?"
+    ],
+    "options": [
+     [
+      "Hermes",
+      "Hermes"
+     ],
+     [
+      "Prometheus",
+      "Prometeu"
+     ],
+     [
+      "Hephaestus",
+      "Hefesto"
+     ],
+     [
+      "Apollo",
+      "Apolo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Hindu god is known as the destroyer within the Trimurti?",
+     "Qual deus hindu é conhecido como o destruidor dentro da Trimúrti?"
+    ],
+    "options": [
+     [
+      "Brahma",
+      "Brahma"
+     ],
+     [
+      "Vishnu",
+      "Vishnu"
+     ],
+     [
+      "Shiva",
+      "Shiva"
+     ],
+     [
+      "Indra",
+      "Indra"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Hindu deity has the head of an elephant?",
+     "Qual divindade hindu possui cabeça de elefante?"
+    ],
+    "options": [
+     [
+      "Krishna",
+      "Krishna"
+     ],
+     [
+      "Ganesha",
+      "Ganesha"
+     ],
+     [
+      "Hanuman",
+      "Hanuman"
+     ],
+     [
+      "Rama",
+      "Rama"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "In Greek mythology, who was the goddess of the harvest?",
+     "Na mitologia grega, quem era a deusa da colheita?"
+    ],
+    "options": [
+     [
+      "Demeter",
+      "Deméter"
+     ],
+     [
+      "Hera",
+      "Hera"
+     ],
+     [
+      "Aphrodite",
+      "Afrodite"
+     ],
+     [
+      "Hecate",
+      "Hécate"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Norse creature is destined to fight Odin during Ragnarök?",
+     "Qual criatura nórdica está destinada a lutar contra Odin durante o Ragnarök?"
+    ],
+    "options": [
+     [
+      "Jörmungandr",
+      "Jörmungandr"
+     ],
+     [
+      "Fenrir",
+      "Fenrir"
+     ],
+     [
+      "Sleipnir",
+      "Sleipnir"
+     ],
+     [
+      "Nidhogg",
+      "Nidhogg"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who was the Greek messenger god?",
+     "Quem era o deus mensageiro dos gregos?"
+    ],
+    "options": [
+     [
+      "Ares",
+      "Ares"
+     ],
+     [
+      "Hermes",
+      "Hermes"
+     ],
+     [
+      "Hades",
+      "Hades"
+     ],
+     [
+      "Hephaestus",
+      "Hefesto"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which mythical bird is reborn from its own ashes?",
+     "Qual ave mitológica renasce das próprias cinzas?"
+    ],
+    "options": [
+     [
+      "Griffin",
+      "Grifo"
+     ],
+     [
+      "Phoenix",
+      "Fênix"
+     ],
+     [
+      "Roc",
+      "Roc"
+     ],
+     [
+      "Harpy",
+      "Harpia"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Who was the wife of Hades and queen of the Greek underworld?",
+     "Quem era a esposa de Hades e rainha do submundo grego?"
+    ],
+    "options": [
+     [
+      "Athena",
+      "Atena"
+     ],
+     [
+      "Persephone",
+      "Perséfone"
+     ],
+     [
+      "Artemis",
+      "Ártemis"
+     ],
+     [
+      "Helen",
+      "Helena"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which Roman god was associated with agriculture and time?",
+     "Qual deus romano era associado à agricultura e ao tempo?"
+    ],
+    "options": [
+     [
+      "Jupiter",
+      "Júpiter"
+     ],
+     [
+      "Saturn",
+      "Saturno"
+     ],
+     [
+      "Mars",
+      "Marte"
+     ],
+     [
+      "Mercury",
+      "Mercúrio"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "In Egyptian mythology, what was the name of the weighing of the heart ceremony after death?",
+     "Na mitologia egípcia, qual era o nome da cerimônia de pesagem do coração após a morte?"
+    ],
+    "options": [
+     [
+      "Opening of the Mouth",
+      "Abertura da Boca"
+     ],
+     [
+      "Weighing of the Heart",
+      "Pesagem do Coração"
+     ],
+     [
+      "Journey of Ra",
+      "Jornada de Rá"
+     ],
+     [
+      "Festival of Opet",
+      "Festival de Opet"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Greek Titan was condemned to hold up the sky?",
+     "Qual titã grego foi condenado a sustentar o céu?"
+    ],
+    "options": [
+     [
+      "Cronus",
+      "Cronos"
+     ],
+     [
+      "Atlas",
+      "Atlas"
+     ],
+     [
+      "Hyperion",
+      "Hipérion"
+     ],
+     [
+      "Oceanus",
+      "Oceano"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the Norse world serpent that encircles Midgard?",
+     "Qual é o nome da serpente gigantesca nórdica que circunda Midgard?"
+    ],
+    "options": [
+     [
+      "Fenrir",
+      "Fenrir"
+     ],
+     [
+      "Jörmungandr",
+      "Jörmungandr"
+     ],
+     [
+      "Nidhogg",
+      "Nidhogg"
+     ],
+     [
+      "Fafnir",
+      "Fafnir"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Greek goddess was born fully grown and armored from Zeus's head?",
+     "Qual deusa grega nasceu adulta e armada da cabeça de Zeus?"
+    ],
+    "options": [
+     [
+      "Artemis",
+      "Ártemis"
+     ],
+     [
+      "Athena",
+      "Atena"
+     ],
+     [
+      "Aphrodite",
+      "Afrodite"
+     ],
+     [
+      "Hera",
+      "Hera"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which ancient Mesopotamian hero is the central character of one of the world's oldest surviving literary epics?",
+     "Qual herói da antiga Mesopotâmia é o personagem central de um dos poemas épicos mais antigos preservados do mundo?"
+    ],
+    "options": [
+     [
+      "Enkidu",
+      "Enkidu"
+     ],
+     [
+      "Gilgamesh",
+      "Gilgamesh"
+     ],
+     [
+      "Marduk",
+      "Marduk"
+     ],
+     [
+      "Sargon",
+      "Sargão"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "In Greek mythology, who was the ferryman who transported souls across the river Styx?",
+     "Na mitologia grega, quem era o barqueiro que transportava as almas pelo rio Estige?"
+    ],
+    "options": [
+     [
+      "Charon",
+      "Caronte"
+     ],
+     [
+      "Thanatos",
+      "Tânato"
+     ],
+     [
+      "Hypnos",
+      "Hipnos"
+     ],
+     [
+      "Morpheus",
+      "Morfeu"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Egyptian god was associated with writing and wisdom?",
+     "Qual deus egípcio era associado à escrita e à sabedoria?"
+    ],
+    "options": [
+     [
+      "Anubis",
+      "Anúbis"
+     ],
+     [
+      "Thoth",
+      "Tote"
+     ],
+     [
+      "Horus",
+      "Hórus"
+     ],
+     [
+      "Osiris",
+      "Osíris"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Greek mythological figure was transformed into a spider?",
+     "Qual personagem mitológica grega foi transformada em aranha?"
+    ],
+    "options": [
+     [
+      "Echo",
+      "Eco"
+     ],
+     [
+      "Arachne",
+      "Aracne"
+     ],
+     [
+      "Daphne",
+      "Dafne"
+     ],
+     [
+      "Cassandra",
+      "Cassandra"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Japanese mythical creature is often depicted as a supernatural fox?",
+     "Qual criatura mitológica japonesa é frequentemente representada como uma raposa sobrenatural?"
+    ],
+    "options": [
+     [
+      "Tengu",
+      "Tengu"
+     ],
+     [
+      "Kitsune",
+      "Kitsune"
+     ],
+     [
+      "Kappa",
+      "Kappa"
+     ],
+     [
+      "Oni",
+      "Oni"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Greek Titan was the father of Helios, Selene and Eos in some genealogies?",
+     "Qual titã grego era o pai de Hélio, Selene e Eos em algumas genealogias?"
+    ],
+    "options": [
+     [
+      "Atlas",
+      "Atlas"
+     ],
+     [
+      "Hyperion",
+      "Hipérion"
+     ],
+     [
+      "Cronus",
+      "Cronos"
+     ],
+     [
+      "Prometheus",
+      "Prometeu"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "In Norse mythology, what is the name of the great hall where Odin receives fallen warriors?",
+     "Na mitologia nórdica, qual é o nome do grande salão onde Odin recebe os guerreiros mortos em batalha?"
+    ],
+    "options": [
+     [
+      "Bifrost",
+      "Bifrost"
+     ],
+     [
+      "Valhalla",
+      "Valhala"
+     ],
+     [
+      "Midgard",
+      "Midgard"
+     ],
+     [
+      "Niflheim",
+      "Niflheim"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Hindu deity is traditionally depicted riding a giant eagle-like bird called Garuda?",
+     "Qual divindade hindu é tradicionalmente representada montando uma ave gigante semelhante a uma águia chamada Garuda?"
+    ],
+    "options": [
+     [
+      "Shiva",
+      "Shiva"
+     ],
+     [
+      "Vishnu",
+      "Vishnu"
+     ],
+     [
+      "Brahma",
+      "Brahma"
+     ],
+     [
+      "Ganesha",
+      "Ganesha"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What was the name of the Greek primordial deity representing the void or abyss?",
+     "Qual era o nome da divindade primordial grega que representava o vazio ou abismo?"
+    ],
+    "options": [
+     [
+      "Gaia",
+      "Gaia"
+     ],
+     [
+      "Chaos",
+      "Caos"
+     ],
+     [
+      "Nyx",
+      "Nix"
+     ],
+     [
+      "Eros",
+      "Eros"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which Greek hero sailed with the Argonauts in search of the Golden Fleece?",
+     "Qual herói grego navegou com os Argonautas em busca do Velocino de Ouro?"
+    ],
+    "options": [
+     [
+      "Odysseus",
+      "Odisseu"
+     ],
+     [
+      "Jason",
+      "Jasão"
+     ],
+     [
+      "Perseus",
+      "Perseu"
+     ],
+     [
+      "Bellerophon",
+      "Belerofonte"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which deity in Aztec mythology was associated with wind, air and knowledge, and was often represented as a feathered serpent?",
+     "Qual divindade da mitologia asteca era associada ao vento, ao ar e ao conhecimento, sendo frequentemente representada como uma serpente emplumada?"
+    ],
+    "options": [
+     [
+      "Huitzilopochtli",
+      "Huitzilopochtli"
+     ],
+     [
+      "Quetzalcoatl",
+      "Quetzalcoatl"
+     ],
+     [
+      "Tezcatlipoca",
+      "Tezcatlipoca"
+     ],
+     [
+      "Tlaloc",
+      "Tlaloc"
+     ]
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "09-human-body-psychology",
+  "en": "Human Body & Psychology",
+  "pt": "Corpo Humano e Psicologia",
+  "icon": "🫀",
+  "questions": [
+   {
+    "level": "easy",
+    "q": [
+     "Which organ pumps blood around the human body?",
+     "Qual órgão bombeia o sangue pelo corpo humano?"
+    ],
+    "options": [
+     [
+      "Liver",
+      "Fígado"
+     ],
+     [
+      "Heart",
+      "Coração"
+     ],
+     [
+      "Lungs",
+      "Pulmões"
+     ],
+     [
+      "Kidneys",
+      "Rins"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "How many senses are traditionally taught in basic science?",
+     "Quantos sentidos são tradicionalmente ensinados na ciência básica?"
+    ],
+    "options": [
+     [
+      "Three",
+      "Três"
+     ],
+     [
+      "Four",
+      "Quatro"
+     ],
+     [
+      "Five",
+      "Cinco"
+     ],
+     [
+      "Seven",
+      "Sete"
+     ]
+    ],
+    "answer": 3
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which organ is responsible for thinking and processing information?",
+     "Qual órgão é responsável pelo pensamento e pelo processamento de informações?"
+    ],
+    "options": [
+     [
+      "Heart",
+      "Coração"
+     ],
+     [
+      "Brain",
+      "Cérebro"
+     ],
+     [
+      "Stomach",
+      "Estômago"
+     ],
+     [
+      "Liver",
+      "Fígado"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which part of the body allows us to see?",
+     "Qual parte do corpo nos permite enxergar?"
+    ],
+    "options": [
+     [
+      "Ears",
+      "Orelhas"
+     ],
+     [
+      "Eyes",
+      "Olhos"
+     ],
+     [
+      "Nose",
+      "Nariz"
+     ],
+     [
+      "Skin",
+      "Pele"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which organ is primarily responsible for breathing?",
+     "Qual órgão é principalmente responsável pela respiração?"
+    ],
+    "options": [
+     [
+      "Kidneys",
+      "Rins"
+     ],
+     [
+      "Lungs",
+      "Pulmões"
+     ],
+     [
+      "Stomach",
+      "Estômago"
+     ],
+     [
+      "Pancreas",
+      "Pâncreas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the normal approximate body temperature of a healthy adult in Celsius?",
+     "Qual é a temperatura corporal normal aproximada de um adulto saudável em graus Celsius?"
+    ],
+    "options": [
+     [
+      "34°C",
+      "34°C"
+     ],
+     [
+      "37°C",
+      "37°C"
+     ],
+     [
+      "39°C",
+      "39°C"
+     ],
+     [
+      "41°C",
+      "41°C"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which part of the body contains the femur?",
+     "Em qual parte do corpo está localizado o fêmur?"
+    ],
+    "options": [
+     [
+      "Arm",
+      "Braço"
+     ],
+     [
+      "Leg",
+      "Perna"
+     ],
+     [
+      "Chest",
+      "Peito"
+     ],
+     [
+      "Skull",
+      "Crânio"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the name of the body's largest internal organ?",
+     "Qual é o maior órgão interno do corpo humano?"
+    ],
+    "options": [
+     [
+      "Heart",
+      "Coração"
+     ],
+     [
+      "Liver",
+      "Fígado"
+     ],
+     [
+      "Stomach",
+      "Estômago"
+     ],
+     [
+      "Pancreas",
+      "Pâncreas"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which organ helps digest food by producing stomach acid?",
+     "Qual órgão ajuda na digestão dos alimentos produzindo ácido gástrico?"
+    ],
+    "options": [
+     [
+      "Small intestine",
+      "Intestino delgado"
+     ],
+     [
+      "Stomach",
+      "Estômago"
+     ],
+     [
+      "Liver",
+      "Fígado"
+     ],
+     [
+      "Kidney",
+      "Rim"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which part of the body is responsible for hearing?",
+     "Qual parte do corpo é responsável pela audição?"
+    ],
+    "options": [
+     [
+      "Nose",
+      "Nariz"
+     ],
+     [
+      "Ears",
+      "Orelhas"
+     ],
+     [
+      "Eyes",
+      "Olhos"
+     ],
+     [
+      "Tongue",
+      "Língua"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the name of the hormone commonly associated with the body's fight-or-flight response?",
+     "Qual é o nome do hormônio comumente associado à resposta de luta ou fuga do corpo?"
+    ],
+    "options": [
+     [
+      "Insulin",
+      "Insulina"
+     ],
+     [
+      "Adrenaline",
+      "Adrenalina"
+     ],
+     [
+      "Melatonin",
+      "Melatonina"
+     ],
+     [
+      "Estrogen",
+      "Estrogênio"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which organ filters blood and produces urine?",
+     "Qual órgão filtra o sangue e produz urina?"
+    ],
+    "options": [
+     [
+      "Lungs",
+      "Pulmões"
+     ],
+     [
+      "Kidneys",
+      "Rins"
+     ],
+     [
+      "Heart",
+      "Coração"
+     ],
+     [
+      "Spleen",
+      "Baço"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "What is the name of the red pigment in blood that carries oxygen?",
+     "Qual é o nome do pigmento vermelho do sangue que transporta oxigênio?"
+    ],
+    "options": [
+     [
+      "Melanin",
+      "Melanina"
+     ],
+     [
+      "Hemoglobin",
+      "Hemoglobina"
+     ],
+     [
+      "Insulin",
+      "Insulina"
+     ],
+     [
+      "Keratin",
+      "Queratina"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which part of the body contains the smallest bones?",
+     "Em qual parte do corpo estão localizados os menores ossos?"
+    ],
+    "options": [
+     [
+      "Fingers",
+      "Dedos"
+     ],
+     [
+      "Middle ear",
+      "Ouvido médio"
+     ],
+     [
+      "Nose",
+      "Nariz"
+     ],
+     [
+      "Feet",
+      "Pés"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "easy",
+    "q": [
+     "Which hormone helps regulate sleep and wake cycles?",
+     "Qual hormônio ajuda a regular os ciclos de sono e vigília?"
+    ],
+    "options": [
+     [
+      "Cortisol",
+      "Cortisol"
+     ],
+     [
+      "Melatonin",
+      "Melatonina"
+     ],
+     [
+      "Testosterone",
+      "Testosterona"
+     ],
+     [
+      "Insulin",
+      "Insulina"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which part of the brain is mainly responsible for balance and coordination?",
+     "Qual parte do cérebro é principalmente responsável pelo equilíbrio e pela coordenação?"
+    ],
+    "options": [
+     [
+      "Cerebellum",
+      "Cerebelo"
+     ],
+     [
+      "Frontal lobe",
+      "Lobo frontal"
+     ],
+     [
+      "Hippocampus",
+      "Hipocampo"
+     ],
+     [
+      "Amygdala",
+      "Amígdala"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which hormone is produced by the pancreas to lower blood glucose?",
+     "Qual hormônio é produzido pelo pâncreas para diminuir a glicose no sangue?"
+    ],
+    "options": [
+     [
+      "Glucagon",
+      "Glucagon"
+     ],
+     [
+      "Insulin",
+      "Insulina"
+     ],
+     [
+      "Adrenaline",
+      "Adrenalina"
+     ],
+     [
+      "Cortisol",
+      "Cortisol"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which part of the brain is strongly involved in forming new memories?",
+     "Qual parte do cérebro está fortemente envolvida na formação de novas memórias?"
+    ],
+    "options": [
+     [
+      "Amygdala",
+      "Amígdala"
+     ],
+     [
+      "Hippocampus",
+      "Hipocampo"
+     ],
+     [
+      "Cerebellum",
+      "Cerebelo"
+     ],
+     [
+      "Medulla",
+      "Bulbo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the process by which the body maintains a stable internal environment?",
+     "Qual é o nome do processo pelo qual o corpo mantém um ambiente interno estável?"
+    ],
+    "options": [
+     [
+      "Metabolism",
+      "Metabolismo"
+     ],
+     [
+      "Homeostasis",
+      "Homeostase"
+     ],
+     [
+      "Digestion",
+      "Digestão"
+     ],
+     [
+      "Respiration",
+      "Respiração"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which blood vessels carry blood away from the heart?",
+     "Quais vasos sanguíneos transportam o sangue para longe do coração?"
+    ],
+    "options": [
+     [
+      "Veins",
+      "Veias"
+     ],
+     [
+      "Arteries",
+      "Artérias"
+     ],
+     [
+      "Capillaries only",
+      "Apenas capilares"
+     ],
+     [
+      "Lymph vessels",
+      "Vasos linfáticos"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which neurotransmitter is strongly associated with reward and motivation?",
+     "Qual neurotransmissor está fortemente associado à recompensa e à motivação?"
+    ],
+    "options": [
+     [
+      "Dopamine",
+      "Dopamina"
+     ],
+     [
+      "Melatonin",
+      "Melatonina"
+     ],
+     [
+      "Histamine",
+      "Histamina"
+     ],
+     [
+      "Insulin",
+      "Insulina"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which part of the nervous system controls many involuntary functions such as heart rate and digestion?",
+     "Qual parte do sistema nervoso controla muitas funções involuntárias, como os batimentos cardíacos e a digestão?"
+    ],
+    "options": [
+     [
+      "Somatic nervous system",
+      "Sistema nervoso somático"
+     ],
+     [
+      "Autonomic nervous system",
+      "Sistema nervoso autônomo"
+     ],
+     [
+      "Central skeletal system",
+      "Sistema esquelético central"
+     ],
+     [
+      "Sensory cortex only",
+      "Apenas o córtex sensorial"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the protein that gives skin, hair and nails much of their structure?",
+     "Qual é o nome da proteína que fornece grande parte da estrutura da pele, dos cabelos e das unhas?"
+    ],
+    "options": [
+     [
+      "Collagen",
+      "Colágeno"
+     ],
+     [
+      "Keratin",
+      "Queratina"
+     ],
+     [
+      "Hemoglobin",
+      "Hemoglobina"
+     ],
+     [
+      "Elastin",
+      "Elastina"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which lobe of the brain is primarily associated with visual processing?",
+     "Qual lobo do cérebro está principalmente associado ao processamento visual?"
+    ],
+    "options": [
+     [
+      "Frontal lobe",
+      "Lobo frontal"
+     ],
+     [
+      "Occipital lobe",
+      "Lobo occipital"
+     ],
+     [
+      "Temporal lobe",
+      "Lobo temporal"
+     ],
+     [
+      "Parietal lobe",
+      "Lobo parietal"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which hormone is commonly associated with stress regulation and is produced by the adrenal cortex?",
+     "Qual hormônio está comumente associado à regulação do estresse e é produzido pelo córtex das glândulas suprarrenais?"
+    ],
+    "options": [
+     [
+      "Cortisol",
+      "Cortisol"
+     ],
+     [
+      "Oxytocin",
+      "Ocitocina"
+     ],
+     [
+      "Insulin",
+      "Insulina"
+     ],
+     [
+      "Thyroxine",
+      "Tiroxina"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the psychological phenomenon in which people tend to remember the first and last items in a list better than the middle ones?",
+     "Qual é o nome do fenômeno psicológico em que as pessoas tendem a lembrar melhor dos primeiros e dos últimos itens de uma lista do que dos itens do meio?"
+    ],
+    "options": [
+     [
+      "Halo effect",
+      "Efeito halo"
+     ],
+     [
+      "Serial position effect",
+      "Efeito de posição serial"
+     ],
+     [
+      "Placebo effect",
+      "Efeito placebo"
+     ],
+     [
+      "Dunning-Kruger effect",
+      "Efeito Dunning-Kruger"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which psychological term describes attributing one's own unacceptable feelings to another person?",
+     "Qual termo psicológico descreve atribuir a outra pessoa sentimentos próprios que são difíceis de aceitar?"
+    ],
+    "options": [
+     [
+      "Projection",
+      "Projeção"
+     ],
+     [
+      "Regression",
+      "Regressão"
+     ],
+     [
+      "Sublimation",
+      "Sublimação"
+     ],
+     [
+      "Displacement",
+      "Deslocamento"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which hormone is often associated with social bonding and childbirth?",
+     "Qual hormônio é frequentemente associado aos vínculos sociais e ao parto?"
+    ],
+    "options": [
+     [
+      "Oxytocin",
+      "Ocitocina"
+     ],
+     [
+      "Testosterone",
+      "Testosterona"
+     ],
+     [
+      "Glucagon",
+      "Glucagon"
+     ],
+     [
+      "Thyroxine",
+      "Tiroxina"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which part of the brain is especially important for processing fear and emotional reactions?",
+     "Qual parte do cérebro é especialmente importante para processar o medo e as reações emocionais?"
+    ],
+    "options": [
+     [
+      "Cerebellum",
+      "Cerebelo"
+     ],
+     [
+      "Amygdala",
+      "Amígdala"
+     ],
+     [
+      "Occipital lobe",
+      "Lobo occipital"
+     ],
+     [
+      "Brainstem",
+      "Tronco encefálico"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the psychological term for changing one's behavior to match a group's expectations?",
+     "Qual é o termo psicológico para mudar o próprio comportamento para corresponder às expectativas de um grupo?"
+    ],
+    "options": [
+     [
+      "Conformity",
+      "Conformidade"
+     ],
+     [
+      "Habituation",
+      "Habituação"
+     ],
+     [
+      "Extinction",
+      "Extinção"
+     ],
+     [
+      "Dissociation",
+      "Dissociação"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which blood component is primarily responsible for clotting?",
+     "Qual componente do sangue é principalmente responsável pela coagulação?"
+    ],
+    "options": [
+     [
+      "Red blood cells",
+      "Hemácias"
+     ],
+     [
+      "Platelets",
+      "Plaquetas"
+     ],
+     [
+      "Plasma",
+      "Plasma"
+     ],
+     [
+      "White blood cells",
+      "Leucócitos"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "What is the name of the membrane that surrounds the lungs?",
+     "Qual é o nome da membrana que envolve os pulmões?"
+    ],
+    "options": [
+     [
+      "Pericardium",
+      "Pericárdio"
+     ],
+     [
+      "Pleura",
+      "Pleura"
+     ],
+     [
+      "Peritoneum",
+      "Peritônio"
+     ],
+     [
+      "Meninges",
+      "Meninges"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which type of memory allows you to temporarily hold and manipulate information?",
+     "Qual tipo de memória permite manter e manipular informações temporariamente?"
+    ],
+    "options": [
+     [
+      "Procedural memory",
+      "Memória procedural"
+     ],
+     [
+      "Working memory",
+      "Memória de trabalho"
+     ],
+     [
+      "Semantic memory",
+      "Memória semântica"
+     ],
+     [
+      "Episodic memory",
+      "Memória episódica"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which gland is often called the master gland because it regulates several other endocrine glands?",
+     "Qual glândula é frequentemente chamada de glândula-mestra por regular várias outras glândulas endócrinas?"
+    ],
+    "options": [
+     [
+      "Thyroid",
+      "Tireoide"
+     ],
+     [
+      "Pituitary gland",
+      "Hipófise"
+     ],
+     [
+      "Adrenal gland",
+      "Glândula suprarrenal"
+     ],
+     [
+      "Pineal gland",
+      "Glândula pineal"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "medium",
+    "q": [
+     "Which psychological concept describes the tendency to favor information that confirms existing beliefs?",
+     "Qual conceito psicológico descreve a tendência de favorecer informações que confirmam crenças existentes?"
+    ],
+    "options": [
+     [
+      "Confirmation bias",
+      "Viés de confirmação"
+     ],
+     [
+      "Anchoring bias",
+      "Viés de ancoragem"
+     ],
+     [
+      "Availability heuristic",
+      "Heurística da disponibilidade"
+     ],
+     [
+      "Hindsight bias",
+      "Viés retrospectivo"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which cranial nerve is responsible for transmitting visual information from the eye to the brain?",
+     "Qual nervo craniano é responsável por transmitir informações visuais do olho ao cérebro?"
+    ],
+    "options": [
+     [
+      "Optic nerve",
+      "Nervo óptico"
+     ],
+     [
+      "Vagus nerve",
+      "Nervo vago"
+     ],
+     [
+      "Trigeminal nerve",
+      "Nervo trigêmeo"
+     ],
+     [
+      "Facial nerve",
+      "Nervo facial"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which brain structure connects the two cerebral hemispheres?",
+     "Qual estrutura cerebral conecta os dois hemisférios cerebrais?"
+    ],
+    "options": [
+     [
+      "Thalamus",
+      "Tálamo"
+     ],
+     [
+      "Corpus callosum",
+      "Corpo caloso"
+     ],
+     [
+      "Hypothalamus",
+      "Hipotálamo"
+     ],
+     [
+      "Medulla",
+      "Bulbo"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which psychological experiment is famous for demonstrating obedience to authority?",
+     "Qual experimento psicológico ficou famoso por demonstrar a obediência à autoridade?"
+    ],
+    "options": [
+     [
+      "Stanford prison experiment",
+      "Experimento da prisão de Stanford"
+     ],
+     [
+      "Milgram experiment",
+      "Experimento de Milgram"
+     ],
+     [
+      "Little Albert experiment",
+      "Experimento do Pequeno Albert"
+     ],
+     [
+      "Asch conformity experiment",
+      "Experimento de conformidade de Asch"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which neurotransmitter is the primary inhibitory neurotransmitter in the adult central nervous system?",
+     "Qual neurotransmissor é o principal neurotransmissor inibitório no sistema nervoso central adulto?"
+    ],
+    "options": [
+     [
+      "Glutamate",
+      "Glutamato"
+     ],
+     [
+      "GABA",
+      "GABA"
+     ],
+     [
+      "Dopamine",
+      "Dopamina"
+     ],
+     [
+      "Acetylcholine",
+      "Acetilcolina"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which psychological theory proposes that people are motivated by a hierarchy of needs?",
+     "Qual teoria psicológica propõe que as pessoas são motivadas por uma hierarquia de necessidades?"
+    ],
+    "options": [
+     [
+      "Classical conditioning",
+      "Condicionamento clássico"
+     ],
+     [
+      "Maslow's hierarchy of needs",
+      "Hierarquia das necessidades de Maslow"
+     ],
+     [
+      "Cognitive dissonance theory",
+      "Teoria da dissonância cognitiva"
+     ],
+     [
+      "Attachment theory",
+      "Teoria do apego"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which part of the brain regulates body temperature, hunger and many hormonal functions?",
+     "Qual parte do cérebro regula a temperatura corporal, a fome e diversas funções hormonais?"
+    ],
+    "options": [
+     [
+      "Hippocampus",
+      "Hipocampo"
+     ],
+     [
+      "Hypothalamus",
+      "Hipotálamo"
+     ],
+     [
+      "Cerebellum",
+      "Cerebelo"
+     ],
+     [
+      "Occipital lobe",
+      "Lobo occipital"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the psychological phenomenon in which people perform differently when they know they are being observed?",
+     "Qual é o nome do fenômeno psicológico em que as pessoas mudam seu comportamento quando sabem que estão sendo observadas?"
+    ],
+    "options": [
+     [
+      "Hawthorne effect",
+      "Efeito Hawthorne"
+     ],
+     [
+      "Placebo effect",
+      "Efeito placebo"
+     ],
+     [
+      "Stroop effect",
+      "Efeito Stroop"
+     ],
+     [
+      "Spotlight effect",
+      "Efeito holofote"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which brain chemical is most directly associated with the regulation of mood and is targeted by many antidepressants?",
+     "Qual substância química cerebral está diretamente associada à regulação do humor e é alvo de muitos antidepressivos?"
+    ],
+    "options": [
+     [
+      "Serotonin",
+      "Serotonina"
+     ],
+     [
+      "Adrenaline",
+      "Adrenalina"
+     ],
+     [
+      "Melatonin",
+      "Melatonina"
+     ],
+     [
+      "Histamine",
+      "Histamina"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which psychological concept describes the discomfort caused by holding two contradictory beliefs?",
+     "Qual conceito psicológico descreve o desconforto causado por manter duas crenças contraditórias?"
+    ],
+    "options": [
+     [
+      "Cognitive dissonance",
+      "Dissonância cognitiva"
+     ],
+     [
+      "Learned helplessness",
+      "Desamparo aprendido"
+     ],
+     [
+      "Social facilitation",
+      "Facilitação social"
+     ],
+     [
+      "Classical conditioning",
+      "Condicionamento clássico"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which part of the autonomic nervous system is primarily responsible for the fight-or-flight response?",
+     "Qual parte do sistema nervoso autônomo é principalmente responsável pela resposta de luta ou fuga?"
+    ],
+    "options": [
+     [
+      "Parasympathetic nervous system",
+      "Sistema nervoso parassimpático"
+     ],
+     [
+      "Sympathetic nervous system",
+      "Sistema nervoso simpático"
+     ],
+     [
+      "Somatic nervous system",
+      "Sistema nervoso somático"
+     ],
+     [
+      "Enteric nervous system",
+      "Sistema nervoso entérico"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which cells in the pancreas produce insulin?",
+     "Quais células do pâncreas produzem insulina?"
+    ],
+    "options": [
+     [
+      "Alpha cells",
+      "Células alfa"
+     ],
+     [
+      "Beta cells",
+      "Células beta"
+     ],
+     [
+      "Delta cells",
+      "Células delta"
+     ],
+     [
+      "Acinar cells",
+      "Células acinares"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the psychological effect in which people overestimate how much others notice their appearance or behavior?",
+     "Qual é o nome do efeito psicológico em que as pessoas superestimam o quanto os outros percebem sua aparência ou comportamento?"
+    ],
+    "options": [
+     [
+      "Spotlight effect",
+      "Efeito holofote"
+     ],
+     [
+      "Bystander effect",
+      "Efeito espectador"
+     ],
+     [
+      "Halo effect",
+      "Efeito halo"
+     ],
+     [
+      "Barnum effect",
+      "Efeito Barnum"
+     ]
+    ],
+    "answer": 1
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which structure in the inner ear is primarily responsible for detecting rotational movements of the head?",
+     "Qual estrutura do ouvido interno é principalmente responsável por detectar movimentos rotacionais da cabeça?"
+    ],
+    "options": [
+     [
+      "Cochlea",
+      "Cóclea"
+     ],
+     [
+      "Semicircular canals",
+      "Canais semicirculares"
+     ],
+     [
+      "Eardrum",
+      "Tímpano"
+     ],
+     [
+      "Auditory ossicles",
+      "Ossículos auditivos"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "Which psychologist is most closely associated with the theory of classical conditioning through experiments with dogs?",
+     "Qual psicólogo é mais associado à teoria do condicionamento clássico por meio de experimentos com cães?"
+    ],
+    "options": [
+     [
+      "B. F. Skinner",
+      "B. F. Skinner"
+     ],
+     [
+      "Ivan Pavlov",
+      "Ivan Pavlov"
+     ],
+     [
+      "Carl Rogers",
+      "Carl Rogers"
+     ],
+     [
+      "Jean Piaget",
+      "Jean Piaget"
+     ]
+    ],
+    "answer": 2
+   },
+   {
+    "level": "hard",
+    "q": [
+     "What is the name of the phenomenon in which a person experiences a temporary inability to retrieve a familiar word or name despite feeling that they know it?",
+     "Qual é o nome do fenômeno em que uma pessoa sente que conhece uma palavra ou nome, mas não consegue se lembrar dele temporariamente?"
+    ],
+    "options": [
+     [
+      "Déjà vu",
+      "Déjà vu"
+     ],
+     [
+      "Tip-of-the-tongue phenomenon",
+      "Fenômeno da ponta da língua"
+     ],
+     [
+      "Dissociation",
+      "Dissociação"
+     ],
+     [
+      "False memory",
+      "Falsa memória"
      ]
     ],
     "answer": 2

@@ -174,8 +174,6 @@
       b.append(el("span", "deck-layer"), el("span", "deck-layer"));
       const face = el("span", "deck-face");
       face.append(el("span", "deck-icon", cat.icon), el("span", "deck-en", cat.en), el("span", "deck-pt", cat.pt));
-      const left = (state.decks[cat.id] || []).length || cat.questions.length;
-      face.append(el("span", "deck-count", `${left}`));
       b.append(face);
       b.setAttribute("aria-label", `${cat.en} / ${cat.pt}`);
       b.addEventListener("click", () => pickDeck(cat.id));

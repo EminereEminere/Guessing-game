@@ -25,7 +25,7 @@ A separate game in the [`quem-bebe/`](quem-bebe/) folder: open `quem-bebe/index.
 - After each round, whoever scored fewer points in that round drinks. On a tie, both drink.
 - Every question and answer is shown in English and Brazilian Portuguese. The game is saved on the device, so a reload resumes it.
 
-**Adding questions:** add or edit a `.txt` file in `quem-bebe/questions-src/`, one file per category, in the same format as `geography.txt`. The first line is `Category: English / Português / emoji`. Then run:
+**Adding questions:** add or edit a `.txt` file in `quem-bebe/questions-src/`, one file per category, in the same format as the existing ones (e.g. `01-world-geography.txt`); files are shown in filename order. The first line is `Category: English / Português / emoji`. Then run:
 
 ```sh
 python3 quem-bebe/tools/build_questions.py

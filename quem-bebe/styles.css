@@ -124,15 +124,15 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .round-num { font-family: Fraunces, Georgia, serif; font-size: 24px; font-weight: 700; line-height: 1.1; }
 
 /* ---------- Table (deck picker) ---------- */
-.table { flex: 1; overflow-y: auto; padding: 22px 18px calc(24px + env(safe-area-inset-bottom)); }
-.turn { text-align: center; margin-bottom: 22px; }
-.turn-who { font-family: Fraunces, Georgia, serif; font-size: 28px; font-weight: 700; margin: 0; }
+.table { flex: 1; overflow-y: auto; padding: 18px 14px calc(24px + env(safe-area-inset-bottom)); }
+.turn { text-align: center; margin-bottom: 18px; }
+.turn-who { font-family: Fraunces, Georgia, serif; font-size: clamp(22px, 6.5vw, 28px); font-weight: 700; margin: 0; }
 .turn-who b { color: var(--pc, var(--p1)); }
 .turn-hint { margin: 6px 0 0; color: var(--on-bg-soft); font-size: 14px; }
-.decks { display: flex; flex-wrap: wrap; justify-content: center; gap: 22px 16px; max-width: 600px; margin: 0 auto; }
+.decks { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px 12px; max-width: 600px; margin: 0 auto; }
 .deck {
   appearance: none; border: 0; background: none; padding: 0;
-  position: relative; aspect-ratio: 5 / 7; width: calc(50% - 8px); max-width: 180px;
+  position: relative; aspect-ratio: 5 / 7; width: calc((100% - 24px) / 3); max-width: 170px;
   transition: transform .18s var(--ease), opacity .2s;
 }
 .deck:active { transform: scale(.95); }
@@ -143,7 +143,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .deck-layer:nth-child(1) { transform: translate(6px, 8px) rotate(4deg); filter: brightness(.82); }
 .deck-layer:nth-child(2) { transform: translate(3px, 4px) rotate(2deg); filter: brightness(.9); }
 .deck-face {
-  position: absolute; inset: 0; border-radius: 16px; padding: 14px 10px;
+  position: absolute; inset: 0; border-radius: 14px; padding: 10px 6px;
   display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px;
   color: var(--ink); text-align: center;
   background:
@@ -152,14 +152,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
   border: 3px solid var(--pc, var(--p1));
   box-shadow: 0 12px 28px -10px rgba(0, 0, 0, .6);
 }
-.deck-icon { font-size: 40px; line-height: 1; }
-.deck-en { font-weight: 700; font-size: 16px; }
-.deck-pt { font-size: 13px; color: var(--ink-soft); }
-.deck-count { position: absolute; bottom: 8px; right: 10px; font-size: 11px; font-weight: 600; color: var(--ink-soft); }
+.deck-icon { font-size: clamp(24px, 7vw, 38px); line-height: 1; }
+.deck-en { font-weight: 700; font-size: clamp(11px, 3.2vw, 15px); line-height: 1.15; }
+.deck-pt { font-size: clamp(9.5px, 2.7vw, 12px); line-height: 1.15; color: var(--ink-soft); }
 .deck.is-used { opacity: .35; pointer-events: none; }
 .deck.is-used .deck-face::after {
-  content: "✓ used · usado"; position: absolute; top: 10px; left: 50%; transform: translateX(-50%);
-  font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px;
+  content: "✓ used · usado"; position: absolute; bottom: 8px; left: 50%; transform: translateX(-50%);
+  font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: .3px;
   background: var(--ink); color: var(--card); padding: 3px 8px; border-radius: 999px; white-space: nowrap;
 }
 

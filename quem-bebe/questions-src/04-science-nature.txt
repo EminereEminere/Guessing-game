@@ -1,0 +1,454 @@
+Category: Science & Nature / Ciência e Natureza / 🔬
+
+1. (Easy) Which planet is closest to the Sun?
+Qual planeta está mais próximo do Sol?
+
+1. Venus / Vênus
+2. Mercury / Mercúrio
+3. Mars / Marte
+4. Earth / Terra
+
+2. (Easy) What gas do humans need to breathe to survive?
+Qual gás os seres humanos precisam respirar para sobreviver?
+
+1. Carbon dioxide / Dióxido de carbono
+2. Nitrogen / Nitrogênio
+3. Oxygen / Oxigênio
+4. Hydrogen / Hidrogênio
+
+3. (Easy) What is the chemical symbol for water?
+Qual é o símbolo químico da água?
+
+1. CO2 / CO2
+2. H2O / H2O
+3. O2 / O2
+4. NaCl / NaCl
+
+4. (Easy) What force keeps us on the ground?
+Qual força nos mantém no chão?
+
+1. Magnetism / Magnetismo
+2. Gravity / Gravidade
+3. Friction / Atrito
+4. Electricity / Eletricidade
+
+5. (Easy) Which planet is known as the Red Planet?
+Qual planeta é conhecido como Planeta Vermelho?
+
+1. Jupiter / Júpiter
+2. Mars / Marte
+3. Saturn / Saturno
+4. Neptune / Netuno
+
+6. (Easy) What is the largest organ of the human body?
+Qual é o maior órgão do corpo humano?
+
+1. Liver / Fígado
+2. Brain / Cérebro
+3. Skin / Pele
+4. Heart / Coração
+
+7. (Easy) What do plants absorb from the atmosphere during photosynthesis?
+O que as plantas absorvem da atmosfera durante a fotossíntese?
+
+1. Oxygen / Oxigênio
+2. Carbon dioxide / Dióxido de carbono
+3. Nitrogen / Nitrogênio
+4. Hydrogen / Hidrogênio
+
+8. (Easy) What is the center of an atom called?
+Como é chamado o centro de um átomo?
+
+1. Electron / Elétron
+2. Nucleus / Núcleo
+3. Proton / Próton
+4. Molecule / Molécula
+
+9. (Easy) At what temperature does water freeze at standard atmospheric pressure?
+A que temperatura a água congela sob pressão atmosférica padrão?
+
+1. 0°C / 0°C
+2. 10°C / 10°C
+3. 32°C / 32°C
+4. 100°C / 100°C
+
+10. (Easy) Which star is closest to Earth?
+Qual estrela está mais próxima da Terra?
+
+1. Sirius / Sirius
+2. Polaris / Estrela Polar
+3. The Sun / O Sol
+4. Proxima Centauri / Proxima Centauri
+
+11. (Easy) Which part of a plant usually absorbs water from the soil?
+Qual parte de uma planta geralmente absorve água do solo?
+
+1. Leaves / Folhas
+2. Flowers / Flores
+3. Roots / Raízes
+4. Stem / Caule
+
+12. (Easy) What is the process of water turning into vapor called?
+Como é chamado o processo de transformação da água em vapor?
+
+1. Condensation / Condensação
+2. Evaporation / Evaporação
+3. Freezing / Congelamento
+4. Melting / Derretimento
+
+13. (Easy) Which planet is famous for its large rings?
+Qual planeta é famoso por seus grandes anéis?
+
+1. Mars / Marte
+2. Saturn / Saturno
+3. Venus / Vênus
+4. Mercury / Mercúrio
+
+14. (Easy) What is the hardest substance in the human body?
+Qual é a substância mais dura do corpo humano?
+
+1. Bone / Osso
+2. Tooth enamel / Esmalte dentário
+3. Cartilage / Cartilagem
+4. Fingernail / Unha
+
+15. (Easy) What is the main source of energy for Earth's climate system?
+Qual é a principal fonte de energia do sistema climático da Terra?
+
+1. The Moon / A Lua
+2. The Sun / O Sol
+3. Volcanoes / Vulcões
+4. Ocean currents / Correntes oceânicas
+
+16. (Medium) Which element has the chemical symbol Fe?
+Qual elemento possui o símbolo químico Fe?
+
+1. Fluorine / Flúor
+2. Iron / Ferro
+3. Francium / Frâncio
+4. Fermium / Férmio
+
+17. (Medium) What is the approximate speed of light in a vacuum?
+Qual é a velocidade aproximada da luz no vácuo?
+
+1. 30,000 km/s / 30.000 km/s
+2. 150,000 km/s / 150.000 km/s
+3. 300,000 km/s / 300.000 km/s
+4. 500,000 km/s / 500.000 km/s
+
+18. (Medium) Which blood cells are primarily responsible for fighting infections?
+Quais células sanguíneas são principalmente responsáveis por combater infecções?
+
+1. Red blood cells / Hemácias
+2. White blood cells / Leucócitos
+3. Platelets / Plaquetas
+4. Plasma cells only / Apenas células plasmáticas
+
+19. (Medium) What is the most abundant gas in Earth's atmosphere?
+Qual é o gás mais abundante na atmosfera terrestre?
+
+1. Oxygen / Oxigênio
+2. Carbon dioxide / Dióxido de carbono
+3. Nitrogen / Nitrogênio
+4. Argon / Argônio
+
+20. (Medium) Which organelle is known as the powerhouse of the cell?
+Qual organela é conhecida como a usina de energia da célula?
+
+1. Nucleus / Núcleo
+2. Mitochondrion / Mitocôndria
+3. Ribosome / Ribossomo
+4. Golgi apparatus / Complexo de Golgi
+
+21. (Medium) What is the chemical symbol for gold?
+Qual é o símbolo químico do ouro?
+
+1. Ag / Ag
+2. Au / Au
+3. Gd / Gd
+4. Go / Go
+
+22. (Medium) Which planet has the strongest winds in the Solar System?
+Qual planeta possui os ventos mais fortes do Sistema Solar?
+
+1. Jupiter / Júpiter
+2. Neptune / Netuno
+3. Uranus / Urano
+4. Saturn / Saturno
+
+23. (Medium) What type of rock is formed from cooled magma or lava?
+Que tipo de rocha é formada pelo resfriamento do magma ou da lava?
+
+1. Sedimentary / Sedimentar
+2. Metamorphic / Metamórfica
+3. Igneous / Ígnea
+4. Organic / Orgânica
+
+24. (Medium) Which vitamin can the human body produce when skin is exposed to sunlight?
+Qual vitamina o corpo humano pode produzir quando a pele é exposta à luz solar?
+
+1. Vitamin A / Vitamina A
+2. Vitamin B12 / Vitamina B12
+3. Vitamin C / Vitamina C
+4. Vitamin D / Vitamina D
+
+25. (Medium) What is the pH of pure water at approximately 25°C?
+Qual é o pH da água pura a aproximadamente 25°C?
+
+1. 3 / 3
+2. 5 / 5
+3. 7 / 7
+4. 9 / 9
+
+26. (Medium) Which layer of Earth is primarily composed of liquid iron and nickel?
+Qual camada da Terra é composta principalmente por ferro e níquel líquidos?
+
+1. Inner core / Núcleo interno
+2. Outer core / Núcleo externo
+3. Mantle / Manto
+4. Crust / Crosta
+
+27. (Medium) Which particle carries a negative electric charge?
+Qual partícula possui carga elétrica negativa?
+
+1. Proton / Próton
+2. Neutron / Nêutron
+3. Electron / Elétron
+4. Positron / Pósitron
+
+28. (Medium) What is the name of the boundary around a black hole beyond which nothing can escape?
+Qual é o nome do limite ao redor de um buraco negro além do qual nada consegue escapar?
+
+1. Singularity / Singularidade
+2. Event horizon / Horizonte de eventos
+3. Accretion disk / Disco de acreção
+4. Photon sphere / Esfera de fótons
+
+29. (Medium) Which scientist is famous for the laws of motion and universal gravitation?
+Qual cientista é famoso pelas leis do movimento e da gravitação universal?
+
+1. Albert Einstein / Albert Einstein
+2. Isaac Newton / Isaac Newton
+3. Charles Darwin / Charles Darwin
+4. James Clerk Maxwell / James Clerk Maxwell
+
+30. (Medium) What is the approximate age of the Earth?
+Qual é a idade aproximada da Terra?
+
+1. 1.5 billion years / 1,5 bilhão de anos
+2. 2.8 billion years / 2,8 bilhões de anos
+3. 4.5 billion years / 4,5 bilhões de anos
+4. 7 billion years / 7 bilhões de anos
+
+31. (Medium) Which type of electromagnetic radiation has the shortest wavelength?
+Qual tipo de radiação eletromagnética possui o menor comprimento de onda?
+
+1. Radio waves / Ondas de rádio
+2. Infrared / Infravermelho
+3. X-rays / Raios X
+4. Gamma rays / Raios gama
+
+32. (Medium) Which gas is primarily responsible for the greenhouse effect caused by human activity?
+Qual gás é o principal responsável pelo efeito estufa causado pelas atividades humanas?
+
+1. Oxygen / Oxigênio
+2. Carbon dioxide / Dióxido de carbono
+3. Helium / Hélio
+4. Hydrogen / Hidrogênio
+
+33. (Medium) Which part of the brain controls basic functions such as breathing and heart rate?
+Qual parte do cérebro controla funções básicas como a respiração e os batimentos cardíacos?
+
+1. Cerebellum / Cerebelo
+2. Brainstem / Tronco encefálico
+3. Frontal lobe / Lobo frontal
+4. Hippocampus / Hipocampo
+
+34. (Medium) What is the name of the process in which a solid changes directly into a gas?
+Como é chamado o processo em que um sólido passa diretamente para o estado gasoso?
+
+1. Condensation / Condensação
+2. Sublimation / Sublimação
+3. Deposition / Ressublimação
+4. Fusion / Fusão
+
+35. (Medium) Which scientist proposed the theory of evolution by natural selection?
+Qual cientista propôs a teoria da evolução por seleção natural?
+
+1. Gregor Mendel / Gregor Mendel
+2. Charles Darwin / Charles Darwin
+3. Louis Pasteur / Louis Pasteur
+4. Alfred Wegener / Alfred Wegener
+
+36. (Difficult) What is the approximate escape velocity from Earth's surface?
+Qual é a velocidade de escape aproximada a partir da superfície da Terra?
+
+1. 5.2 km/s / 5,2 km/s
+2. 7.9 km/s / 7,9 km/s
+3. 11.2 km/s / 11,2 km/s
+4. 16.7 km/s / 16,7 km/s
+
+37. (Difficult) Which element has the highest atomic number among naturally occurring elements commonly found in significant quantities?
+Qual elemento possui o maior número atômico entre os elementos naturais encontrados em quantidades significativas?
+
+1. Uranium / Urânio
+2. Plutonium / Plutônio
+3. Thorium / Tório
+4. Radium / Rádio
+
+38. (Difficult) What is the name of the boundary between Earth's crust and mantle?
+Qual é o nome da fronteira entre a crosta terrestre e o manto?
+
+1. Gutenberg discontinuity / Descontinuidade de Gutenberg
+2. Mohorovičić discontinuity / Descontinuidade de Mohorovičić
+3. Lehmann discontinuity / Descontinuidade de Lehmann
+4. Conrad discontinuity / Descontinuidade de Conrad
+
+39. (Difficult) Which enzyme unwinds the DNA double helix during replication?
+Qual enzima desenrola a dupla hélice do DNA durante a replicação?
+
+1. DNA polymerase / DNA polimerase
+2. Helicase / Helicase
+3. Ligase / Ligase
+4. Amylase / Amilase
+
+40. (Difficult) Which subatomic particle is responsible for carrying the strong nuclear force?
+Qual partícula subatômica é responsável por transmitir a força nuclear forte?
+
+1. Photon / Fóton
+2. Gluon / Glúon
+3. Neutrino / Neutrino
+4. Higgs boson / Bóson de Higgs
+
+41. (Difficult) What is the name of the point in an orbit where an object is closest to the Sun?
+Qual é o nome do ponto de uma órbita em que um objeto está mais próximo do Sol?
+
+1. Aphelion / Afélio
+2. Perihelion / Periélio
+3. Perigee / Perigeu
+4. Apogee / Apogeu
+
+42. (Difficult) Which fundamental particle gives other elementary particles mass through its associated field?
+Qual partícula fundamental está associada ao campo que dá massa a outras partículas elementares?
+
+1. Photon / Fóton
+2. Higgs boson / Bóson de Higgs
+3. Gluon / Glúon
+4. Electron / Elétron
+
+43. (Difficult) What is the approximate half-life of carbon-14?
+Qual é a meia-vida aproximada do carbono-14?
+
+1. 573 years / 573 anos
+2. 5,730 years / 5.730 anos
+3. 57,300 years / 57.300 anos
+4. 573,000 years / 573.000 anos
+
+44. (Difficult) Which scientist formulated the laws of planetary motion?
+Qual cientista formulou as leis do movimento planetário?
+
+1. Galileo Galilei / Galileu Galilei
+2. Johannes Kepler / Johannes Kepler
+3. Nicolaus Copernicus / Nicolau Copérnico
+4. Tycho Brahe / Tycho Brahe
+
+45. (Difficult) Which phenomenon explains why the sky appears blue?
+Qual fenômeno explica por que o céu parece azul?
+
+1. Reflection / Reflexão
+2. Refraction / Refração
+3. Rayleigh scattering / Espalhamento de Rayleigh
+4. Diffraction / Difração
+
+46. (Difficult) Which type of plate boundary is associated with two tectonic plates moving away from each other?
+Que tipo de limite de placas tectônicas ocorre quando duas placas se afastam?
+
+1. Convergent / Convergente
+2. Divergent / Divergente
+3. Transform / Transformante
+4. Subduction / Subducção
+
+47. (Difficult) What is the name of the process by which RNA is synthesized from a DNA template?
+Como é chamado o processo pelo qual o RNA é sintetizado a partir de um molde de DNA?
+
+1. Translation / Tradução
+2. Transcription / Transcrição
+3. Replication / Replicação
+4. Mutation / Mutação
+
+48. (Difficult) Which planet has the most extreme axial tilt, rotating almost on its side?
+Qual planeta possui a inclinação axial mais extrema, girando praticamente de lado?
+
+1. Saturn / Saturno
+2. Uranus / Urano
+3. Neptune / Netuno
+4. Venus / Vênus
+
+49. (Difficult) What is the name of the boundary around a star beyond which its gravitational pull can no longer keep an orbiting object bound?
+Qual é o nome do limite ao redor de uma estrela além do qual sua gravidade não consegue mais manter um objeto em órbita?
+
+1. Roche limit / Limite de Roche
+2. Hill sphere / Esfera de Hill
+3. Schwarzschild radius / Raio de Schwarzschild
+4. Bondi radius / Raio de Bondi
+
+50. (Difficult) Which scientist discovered the neutron in 1932?
+Qual cientista descobriu o nêutron em 1932?
+
+1. Ernest Rutherford / Ernest Rutherford
+2. James Chadwick / James Chadwick
+3. J. J. Thomson / J. J. Thomson
+4. Enrico Fermi / Enrico Fermi
+
+Answer Key / Gabarito
+
+1. 2 – Mercury
+2. 3 – Oxygen
+3. 2 – H2O
+4. 2 – Gravity
+5. 2 – Mars
+6. 3 – Skin
+7. 2 – Carbon dioxide
+8. 2 – Nucleus
+9. 1 – 0°C
+10. 3 – The Sun
+11. 3 – Roots
+12. 2 – Evaporation
+13. 2 – Saturn
+14. 2 – Tooth enamel
+15. 2 – The Sun
+16. 2 – Iron
+17. 3 – 300,000 km/s
+18. 2 – White blood cells
+19. 3 – Nitrogen
+20. 2 – Mitochondrion
+21. 2 – Au
+22. 2 – Neptune
+23. 3 – Igneous
+24. 4 – Vitamin D
+25. 3 – 7
+26. 2 – Outer core
+27. 3 – Electron
+28. 2 – Event horizon
+29. 2 – Isaac Newton
+30. 3 – 4.5 billion years
+31. 4 – Gamma rays
+32. 2 – Carbon dioxide
+33. 2 – Brainstem
+34. 2 – Sublimation
+35. 2 – Charles Darwin
+36. 3 – 11.2 km/s
+37. 1 – Uranium
+38. 2 – Mohorovičić discontinuity
+39. 2 – Helicase
+40. 2 – Gluon
+41. 2 – Perihelion
+42. 2 – Higgs boson
+43. 2 – 5,730 years
+44. 2 – Johannes Kepler
+45. 3 – Rayleigh scattering
+46. 2 – Divergent
+47. 2 – Transcription
+48. 2 – Uranus
+49. 2 – Hill sphere
+50. 2 – James Chadwick

@@ -1,0 +1,454 @@
+Category: Technology / Tecnologia / 💻
+
+1. (Easy) Which company makes the Galaxy smartphone series?
+Qual empresa fabrica a linha de smartphones Galaxy?
+
+1. Apple / Apple
+2. Samsung / Samsung
+3. Xiaomi / Xiaomi
+4. Huawei / Huawei
+
+2. (Easy) What does GPS stand for?
+O que significa a sigla GPS?
+
+1. Global Positioning System / Sistema de Posicionamento Global
+2. General Phone Service / Serviço Geral de Telefonia
+3. Geographic Power System / Sistema de Energia Geográfica
+4. Global Phone Signal / Sinal Global de Telefone
+
+3. (Easy) Which device is primarily used to move a cursor on a computer?
+Qual dispositivo é utilizado principalmente para movimentar o cursor de um computador?
+
+1. Keyboard / Teclado
+2. Mouse / Mouse
+3. Printer / Impressora
+4. Scanner / Scanner
+
+4. (Easy) Which company developed the Android operating system?
+Qual empresa desenvolveu o sistema operacional Android?
+
+1. Microsoft / Microsoft
+2. Google / Google
+3. Apple / Apple
+4. IBM / IBM
+
+5. (Easy) What does USB stand for?
+O que significa a sigla USB?
+
+1. Universal Serial Bus / Barramento Serial Universal
+2. United System Base / Base de Sistema Unificado
+3. Universal Storage Board / Placa de Armazenamento Universal
+4. User Service Block / Bloco de Serviço do Usuário
+
+6. (Easy) Which technology allows wireless communication over short distances between devices?
+Qual tecnologia permite a comunicação sem fio a curta distância entre dispositivos?
+
+1. HDMI / HDMI
+2. Bluetooth / Bluetooth
+3. Ethernet / Ethernet
+4. VGA / VGA
+
+7. (Easy) Which company created Windows?
+Qual empresa criou o Windows?
+
+1. Apple / Apple
+2. Microsoft / Microsoft
+3. Google / Google
+4. Intel / Intel
+
+8. (Easy) What does Wi-Fi allow devices to do?
+O que o Wi-Fi permite que os dispositivos façam?
+
+1. Connect wirelessly to a network / Conectar-se sem fio a uma rede
+2. Increase battery capacity / Aumentar a capacidade da bateria
+3. Store files permanently / Armazenar arquivos permanentemente
+4. Charge without electricity / Carregar sem eletricidade
+
+9. (Easy) What is the main function of a computer's keyboard?
+Qual é a principal função do teclado de um computador?
+
+1. Display images / Exibir imagens
+2. Enter text and commands / Inserir textos e comandos
+3. Store data / Armazenar dados
+4. Connect to the internet / Conectar-se à internet
+
+10. (Easy) Which device is used to print documents on paper?
+Qual dispositivo é utilizado para imprimir documentos em papel?
+
+1. Router / Roteador
+2. Printer / Impressora
+3. Monitor / Monitor
+4. Modem / Modem
+
+11. (Easy) What does AI stand for?
+O que significa a sigla AI?
+
+1. Automated Internet / Internet Automatizada
+2. Artificial Intelligence / Inteligência Artificial
+3. Advanced Information / Informação Avançada
+4. Automatic Interface / Interface Automática
+
+12. (Easy) Which storage device is generally faster: an SSD or a traditional HDD?
+Qual dispositivo de armazenamento geralmente é mais rápido: um SSD ou um HD tradicional?
+
+1. HDD / HD
+2. SSD / SSD
+3. Both are always identical / Ambos são sempre iguais
+4. Neither can store data / Nenhum dos dois pode armazenar dados
+
+13. (Easy) What does HDMI commonly transmit between devices?
+O que o HDMI geralmente transmite entre dispositivos?
+
+1. Video and audio / Vídeo e áudio
+2. Electricity only / Apenas eletricidade
+3. Internet passwords / Senhas de internet
+4. GPS coordinates / Coordenadas de GPS
+
+14. (Easy) Which of these is a social media platform?
+Qual destas opções é uma rede social?
+
+1. Excel / Excel
+2. Instagram / Instagram
+3. Windows / Windows
+4. Photoshop / Photoshop
+
+15. (Easy) What is the main purpose of a computer antivirus program?
+Qual é a principal finalidade de um antivírus de computador?
+
+1. Increase screen brightness / Aumentar o brilho da tela
+2. Detect and prevent malicious software / Detectar e impedir softwares maliciosos
+3. Improve internet speed automatically / Melhorar automaticamente a velocidade da internet
+4. Increase RAM capacity / Aumentar a capacidade da memória RAM
+
+16. (Medium) What does CPU stand for?
+O que significa a sigla CPU?
+
+1. Central Processing Unit / Unidade Central de Processamento
+2. Computer Power Utility / Utilitário de Energia do Computador
+3. Central Program User / Usuário Central de Programas
+4. Core Performance Unit / Unidade de Desempenho do Núcleo
+
+17. (Medium) Which programming language is commonly used for web page interactivity?
+Qual linguagem de programação é comumente utilizada para adicionar interatividade às páginas da web?
+
+1. JavaScript / JavaScript
+2. SQL / SQL
+3. C / C
+4. Assembly / Assembly
+
+18. (Medium) What does RAM do in a computer?
+Qual é a função da memória RAM em um computador?
+
+1. Permanently store files / Armazenar arquivos permanentemente
+2. Temporarily hold data being used / Armazenar temporariamente os dados em uso
+3. Generate electricity / Gerar eletricidade
+4. Connect the computer to Wi-Fi / Conectar o computador ao Wi-Fi
+
+19. (Medium) What does VPN stand for?
+O que significa a sigla VPN?
+
+1. Virtual Private Network / Rede Privada Virtual
+2. Visual Processing Node / Nó de Processamento Visual
+3. Verified Personal Network / Rede Pessoal Verificada
+4. Variable Protocol Number / Número de Protocolo Variável
+
+20. (Medium) Which company created the PlayStation console?
+Qual empresa criou o console PlayStation?
+
+1. Nintendo / Nintendo
+2. Sony / Sony
+3. Microsoft / Microsoft
+4. Sega / Sega
+
+21. (Medium) What does HTTP stand for?
+O que significa a sigla HTTP?
+
+1. HyperText Transfer Protocol / Protocolo de Transferência de Hipertexto
+2. High Technology Transfer Program / Programa de Transferência de Alta Tecnologia
+3. Hyperlink Transmission Process / Processo de Transmissão de Hiperlinks
+4. Host Transfer Technical Protocol / Protocolo Técnico de Transferência de Hospedagem
+
+22. (Medium) What is the primary purpose of a GPU?
+Qual é a principal função de uma GPU?
+
+1. Process graphics and parallel computations / Processar gráficos e cálculos paralelos
+2. Store permanent files / Armazenar arquivos permanentemente
+3. Manage internet connections only / Gerenciar apenas conexões de internet
+4. Supply electricity to the motherboard / Fornecer energia à placa-mãe
+
+23. (Medium) Who created the Python programming language?
+Quem criou a linguagem de programação Python?
+
+1. Guido van Rossum / Guido van Rossum
+2. Bill Gates / Bill Gates
+3. Dennis Ritchie / Dennis Ritchie
+4. James Gosling / James Gosling
+
+24. (Medium) What is the main purpose of blockchain technology?
+Qual é a principal finalidade da tecnologia blockchain?
+
+1. Create faster computer processors / Criar processadores de computador mais rápidos
+2. Maintain a distributed and tamper-resistant digital ledger / Manter um registro digital distribuído e resistente a alterações
+3. Improve camera quality / Melhorar a qualidade das câmeras
+4. Replace all internet connections / Substituir todas as conexões de internet
+
+25. (Medium) What does OLED stand for?
+O que significa a sigla OLED?
+
+1. Organic Light-Emitting Diode / Diodo Orgânico Emissor de Luz
+2. Optical Light Electronic Display / Tela Eletrônica de Luz Óptica
+3. Open Layer Energy Device / Dispositivo de Energia de Camada Aberta
+4. Organic Liquid Electronic Display / Tela Eletrônica de Líquido Orgânico
+
+26. (Medium) What is cloud computing?
+O que é computação em nuvem?
+
+1. Storing and processing data using remote servers / Armazenar e processar dados usando servidores remotos
+2. Using computers only during rainy weather / Usar computadores apenas em dias chuvosos
+3. Connecting computers without electricity / Conectar computadores sem eletricidade
+4. Saving files exclusively on USB drives / Salvar arquivos exclusivamente em pendrives
+
+27. (Medium) Which technology is used for contactless payments with many smartphones and bank cards?
+Qual tecnologia é utilizada para pagamentos por aproximação em muitos smartphones e cartões bancários?
+
+1. NFC / NFC
+2. VGA / VGA
+3. FTP / FTP
+4. SATA / SATA
+
+28. (Medium) What does open-source software mean?
+O que significa software de código aberto?
+
+1. Software that is always free of charge / Software que é sempre gratuito
+2. Software whose source code is available under an open license / Software cujo código-fonte está disponível sob uma licença aberta
+3. Software that only works online / Software que funciona apenas online
+4. Software that cannot be modified / Software que não pode ser modificado
+
+29. (Medium) What is the main purpose of DNS on the internet?
+Qual é a principal função do DNS na internet?
+
+1. Encrypt all files / Criptografar todos os arquivos
+2. Translate domain names into IP addresses / Converter nomes de domínio em endereços IP
+3. Increase RAM speed / Aumentar a velocidade da memória RAM
+4. Block all advertisements / Bloquear todos os anúncios
+
+30. (Medium) Which company developed the first widely successful iPod?
+Qual empresa desenvolveu o primeiro iPod de grande sucesso?
+
+1. Sony / Sony
+2. Apple / Apple
+3. Samsung / Samsung
+4. Microsoft / Microsoft
+
+31. (Medium) What is the purpose of two-factor authentication?
+Qual é a finalidade da autenticação de dois fatores?
+
+1. Double the internet speed / Dobrar a velocidade da internet
+2. Add a second verification step to improve account security / Adicionar uma segunda etapa de verificação para aumentar a segurança da conta
+3. Create two copies of every file / Criar duas cópias de cada arquivo
+4. Allow two users to share one password / Permitir que dois usuários compartilhem uma senha
+
+32. (Medium) What does 5G refer to in mobile networks?
+A que se refere o 5G nas redes móveis?
+
+1. Fifth-generation mobile network technology / Tecnologia de rede móvel de quinta geração
+2. Five gigabytes of storage / Cinco gigabytes de armazenamento
+3. Five times the internet speed in every situation / Cinco vezes mais velocidade de internet em qualquer situação
+4. Fifth-generation computer processors / Processadores de computador de quinta geração
+
+33. (Medium) Which component stores the BIOS or UEFI firmware on most modern computers?
+Qual componente armazena o firmware BIOS ou UEFI na maioria dos computadores modernos?
+
+1. RAM / RAM
+2. Non-volatile flash memory / Memória flash não volátil
+3. CPU cache / Memória cache da CPU
+4. GPU memory / Memória da GPU
+
+34. (Medium) What is an IP address used for?
+Para que serve um endereço IP?
+
+1. Identify a device or network interface on an IP network / Identificar um dispositivo ou interface em uma rede IP
+2. Measure computer temperature / Medir a temperatura do computador
+3. Store passwords / Armazenar senhas
+4. Increase processor frequency / Aumentar a frequência do processador
+
+35. (Medium) What does the term "phishing" describe?
+O que o termo "phishing" descreve?
+
+1. A technique for improving Wi-Fi / Uma técnica para melhorar o Wi-Fi
+2. A fraudulent attempt to steal sensitive information / Uma tentativa fraudulenta de roubar informações confidenciais
+3. A type of computer cooling / Um tipo de refrigeração de computador
+4. A method of compressing images / Um método de compressão de imagens
+
+36. (Difficult) Which encryption algorithm is widely used in modern symmetric encryption?
+Qual algoritmo de criptografia é amplamente utilizado na criptografia simétrica moderna?
+
+1. RSA / RSA
+2. AES / AES
+3. SHA-256 / SHA-256
+4. ECC / ECC
+
+37. (Difficult) What is the main difference between TCP and UDP?
+Qual é a principal diferença entre TCP e UDP?
+
+1. TCP is connection-oriented and reliable; UDP is connectionless and does not guarantee delivery / TCP é orientado à conexão e confiável; UDP não exige conexão e não garante a entrega
+2. UDP is always encrypted; TCP is never encrypted / UDP é sempre criptografado; TCP nunca é criptografado
+3. TCP only works on Wi-Fi / TCP funciona apenas em Wi-Fi
+4. UDP can only transmit images / UDP só pode transmitir imagens
+
+38. (Difficult) Which computer architecture is commonly used in modern smartphones?
+Qual arquitetura de processador é comumente utilizada nos smartphones modernos?
+
+1. x86 exclusively / Exclusivamente x86
+2. ARM / ARM
+3. PowerPC / PowerPC
+4. SPARC / SPARC
+
+39. (Difficult) What does a hypervisor do?
+Qual é a função de um hipervisor?
+
+1. Manage virtual machines / Gerenciar máquinas virtuais
+2. Increase screen resolution / Aumentar a resolução da tela
+3. Compress video files / Comprimir arquivos de vídeo
+4. Encrypt Wi-Fi signals / Criptografar sinais Wi-Fi
+
+40. (Difficult) Which technology allows multiple processors or cores to execute tasks simultaneously?
+Qual tecnologia permite que vários processadores ou núcleos executem tarefas simultaneamente?
+
+1. Parallel computing / Computação paralela
+2. Defragmentation / Desfragmentação
+3. Rasterization / Rasterização
+4. Virtual memory / Memória virtual
+
+41. (Difficult) What is the main function of a compiler?
+Qual é a principal função de um compilador?
+
+1. Translate source code into another form, often machine code / Traduzir o código-fonte para outra forma, frequentemente código de máquina
+2. Physically repair a computer / Consertar fisicamente um computador
+3. Increase internet bandwidth / Aumentar a largura de banda da internet
+4. Store cloud backups / Armazenar backups na nuvem
+
+42. (Difficult) Which data structure follows the Last In, First Out principle?
+Qual estrutura de dados segue o princípio Último a Entrar, Primeiro a Sair?
+
+1. Queue / Fila
+2. Stack / Pilha
+3. Tree / Árvore
+4. Graph / Grafo
+
+43. (Difficult) What does the term "zero-day vulnerability" mean?
+O que significa o termo "vulnerabilidade de dia zero"?
+
+1. A vulnerability that has never existed before / Uma vulnerabilidade que nunca existiu antes
+2. A vulnerability unknown to the vendor or without an available fix when exploited / Uma vulnerabilidade desconhecida pelo fornecedor ou sem correção disponível quando explorada
+3. A virus that deletes files after 24 hours / Um vírus que apaga arquivos após 24 horas
+4. A computer that has no operating system / Um computador sem sistema operacional
+
+44. (Difficult) Which protocol is commonly used to securely access a remote command-line terminal?
+Qual protocolo é comumente utilizado para acessar com segurança um terminal de linha de comando remoto?
+
+1. FTP / FTP
+2. SSH / SSH
+3. HTTP / HTTP
+4. SMTP / SMTP
+
+45. (Difficult) What is the purpose of a cache in computing?
+Qual é a finalidade de um cache na computação?
+
+1. Store frequently used data for faster access / Armazenar dados frequentemente utilizados para acesso mais rápido
+2. Permanently delete temporary files / Excluir permanentemente arquivos temporários
+3. Generate random passwords / Gerar senhas aleatórias
+4. Replace the CPU / Substituir a CPU
+
+46. (Difficult) Which organization maintains the standards for the Unicode character encoding standard?
+Qual organização mantém o padrão de codificação de caracteres Unicode?
+
+1. Unicode Consortium / Consórcio Unicode
+2. World Bank / Banco Mundial
+3. International Monetary Fund / Fundo Monetário Internacional
+4. Internet Archive / Internet Archive
+
+47. (Difficult) What does the term "latency" mean in computer networking?
+O que significa o termo "latência" em redes de computadores?
+
+1. The amount of stored data / A quantidade de dados armazenados
+2. The delay before data transfer or response / O atraso antes da transferência de dados ou resposta
+3. The maximum screen brightness / O brilho máximo da tela
+4. The physical size of a router / O tamanho físico de um roteador
+
+48. (Difficult) Which machine learning approach trains a model using labeled examples?
+Qual abordagem de aprendizado de máquina treina um modelo usando exemplos rotulados?
+
+1. Unsupervised learning / Aprendizado não supervisionado
+2. Supervised learning / Aprendizado supervisionado
+3. Reinforcement learning / Aprendizado por reforço
+4. Evolutionary computing / Computação evolutiva
+
+49. (Difficult) What is the purpose of a checksum?
+Qual é a finalidade de uma soma de verificação?
+
+1. Detect errors or changes in data / Detectar erros ou alterações nos dados
+2. Encrypt an entire hard drive / Criptografar um disco rígido inteiro
+3. Increase processor speed / Aumentar a velocidade do processador
+4. Create a new IP address / Criar um novo endereço IP
+
+50. (Difficult) Which programming language was originally developed by Dennis Ritchie at Bell Labs?
+Qual linguagem de programação foi originalmente desenvolvida por Dennis Ritchie no Bell Labs?
+
+1. Python / Python
+2. C / C
+3. Java / Java
+4. Ruby / Ruby
+
+Answer Key / Gabarito
+
+1. 2 – Samsung
+2. 1 – Global Positioning System
+3. 2 – Mouse
+4. 2 – Google
+5. 1 – Universal Serial Bus
+6. 2 – Bluetooth
+7. 2 – Microsoft
+8. 1 – Connect wirelessly to a network
+9. 2 – Enter text and commands
+10. 2 – Printer
+11. 2 – Artificial Intelligence
+12. 2 – SSD
+13. 1 – Video and audio
+14. 2 – Instagram
+15. 2 – Detect and prevent malicious software
+16. 1 – Central Processing Unit
+17. 1 – JavaScript
+18. 2 – Temporarily hold data being used
+19. 1 – Virtual Private Network
+20. 2 – Sony
+21. 1 – HyperText Transfer Protocol
+22. 1 – Process graphics and parallel computations
+23. 1 – Guido van Rossum
+24. 2 – Distributed and tamper-resistant digital ledger
+25. 1 – Organic Light-Emitting Diode
+26. 1 – Storing and processing data using remote servers
+27. 1 – NFC
+28. 2 – Source code available under an open license
+29. 2 – Translate domain names into IP addresses
+30. 2 – Apple
+31. 2 – Add a second verification step
+32. 1 – Fifth-generation mobile network technology
+33. 2 – Non-volatile flash memory
+34. 1 – Identify a device or network interface
+35. 2 – Fraudulent attempt to steal sensitive information
+36. 2 – AES
+37. 1 – TCP is connection-oriented; UDP is connectionless
+38. 2 – ARM
+39. 1 – Manage virtual machines
+40. 1 – Parallel computing
+41. 1 – Translate source code
+42. 2 – Stack
+43. 2 – Vulnerability unknown to the vendor or without an available fix
+44. 2 – SSH
+45. 1 – Store frequently used data for faster access
+46. 1 – Unicode Consortium
+47. 2 – Delay before data transfer or response
+48. 2 – Supervised learning
+49. 1 – Detect errors or changes in data
+50. 2 – C
