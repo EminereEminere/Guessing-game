@@ -8,6 +8,7 @@
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="Just Us">
+  <meta name="description" content="A card game for couples: questions, dares, deep talk and more — in English and Portuguese.">
   <title>Just Us · Couples Cards</title>
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icon.svg">
@@ -17,22 +18,26 @@
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
-<body data-level="normal">
+<body data-theme="normal" data-fx="none">
+  <canvas id="fx" aria-hidden="true"></canvas>
+
   <header class="topbar">
     <button class="deck" id="deck" type="button" aria-label="Draw a card">
       <span class="deck-card deck-card--3"></span>
       <span class="deck-card deck-card--2"></span>
       <span class="deck-card deck-card--1" id="deckTop"></span>
-      <span class="deck-count" id="deckCount">50</span>
+      <span class="deck-count" id="deckCount">0</span>
     </button>
 
-    <div class="brand">
-      <span class="brand-name">Just Us</span>
-      <span class="brand-sub" id="levelSub">Normal</span>
-    </div>
+    <button class="pack-btn" id="packBtn" type="button" aria-haspopup="dialog">
+      <span class="pack-name"><span id="packIcon" aria-hidden="true"></span><span id="packName"></span>
+        <svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <span class="pack-sub" id="packSub"></span>
+    </button>
 
     <div class="level-wrap">
-      <button class="level-btn" id="levelBtn" type="button" aria-haspopup="listbox" aria-expanded="false" aria-label="Spicy level">
+      <button class="level-btn" id="levelBtn" type="button" aria-haspopup="listbox" aria-expanded="false">
         <span class="heat" id="levelHeat" aria-hidden="true"></span>
         <svg class="caret" viewBox="0 0 12 12" aria-hidden="true"><path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </button>
@@ -43,14 +48,52 @@
   <main class="stage" id="stage">
     <button class="hint" id="hint" type="button">
       <svg class="hint-arrow" viewBox="0 0 48 48" aria-hidden="true"><path d="M38 40C24 38 14 28 12 12m0 0-6 8m6-8 8 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      <span class="hint-en">Tap the deck to draw a card</span>
-      <span class="hint-pt">Toque no baralho para tirar uma carta</span>
+      <span class="hint-main" id="hintMain"></span>
+      <span class="hint-sub" id="hintSub"></span>
+      <span class="hint-turn" id="hintTurn"></span>
     </button>
   </main>
 
+  <nav class="bar" id="bar">
+    <button class="skip-btn" id="skipBtn" type="button">
+      <span class="skip-top"><span aria-hidden="true">🍷</span> <span id="skipLabel"></span></span>
+      <span class="skip-bottom"><span class="skip-who" id="skipWho"></span><span class="dots" id="skipDots" aria-hidden="true"></span></span>
+    </button>
+    <div class="score" id="score" hidden></div>
+    <button class="icon-btn" id="shareBtn" type="button" aria-label="Share">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <button class="icon-btn" id="menuBtn" type="button" aria-label="Menu">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="2" fill="currentColor"/><circle cx="12" cy="12" r="2" fill="currentColor"/><circle cx="19" cy="12" r="2" fill="currentColor"/></svg>
+    </button>
+  </nav>
+
+  <!-- Bottom sheet used for packs, menu, players, room code and rules -->
+  <div class="sheet-backdrop" id="sheetBackdrop" hidden></div>
+  <section class="sheet" id="sheet" role="dialog" aria-modal="true" hidden>
+    <div class="sheet-grip" aria-hidden="true"></div>
+    <div class="sheet-body" id="sheetBody"></div>
+  </section>
+
+  <!-- First-launch setup -->
+  <section class="setup" id="setup" hidden>
+    <div class="setup-inner">
+      <img class="setup-logo" src="icon.svg" alt="" width="72" height="72">
+      <h1 class="setup-title">Just Us</h1>
+      <div id="setupStep"></div>
+    </div>
+  </section>
+
+  <div class="drink" id="drink" aria-live="assertive"></div>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
-  <script src="questions.js"></script>
+  <script src="i18n.js"></script>
+  <script src="data/questions.js"></script>
+  <script src="data/dares.js"></script>
+  <script src="data/know-me.js"></script>
+  <script src="data/deep-talk.js"></script>
+  <script src="data/long-distance.js"></script>
+  <script src="fx.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
